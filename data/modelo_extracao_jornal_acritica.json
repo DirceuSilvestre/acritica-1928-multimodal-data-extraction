@@ -1,0 +1,40 @@
+{
+  "periodico": {
+    "id_jornal": "acritica_ni",
+    "nome": "A CRITICA",
+    "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+    "proprietarios": [
+      "Avelino Azeredo",
+      "Sylla Filizola"
+    ],
+    "local_publicacao": {
+      "cidade": "Nova Iguassú",
+      "estado": "Rio de Janeiro",
+      "pais": "Brasil"
+    }
+  },
+  "edicao": {
+    "id_edicao": "[PREENCHER: id unico, ex: acritica_ano1_num2_19280624]",
+    "ano_romano": "[PREENCHER: ex: I]",
+    "numero": "[PREENCHER: ex: 2]",
+    "data_publicacao": "[PREENCHER: YYYY-MM-DD]",
+    "data_impressa": "[PREENCHER: ex: Domingo, 24 de Junho de 1928]"
+  },
+  "paginas": [
+    {
+      "numero_pagina": 1,
+      "conteudos": [
+        {
+          "id_conteudo": "[PREENCHER: identificador do bloco, ex: p1_c1]",
+          "tipo": "[PREENCHER: Editorial, Crônica, Poesia, Anúncio Comercial, Coluna Social, etc.]",
+          "secao": "[PREENCHER: nome da seção se houver, ou null]",
+          "titulo": "[PREENCHER: Título exato do bloco]",
+          "autor": "[PREENCHER: Nome do autor/assinatura se houver, ou null]",
+          "texto": "[PREENCHER: Transcrição OCR literal. Use '[inelegível]' para trechos danificados]",
+          "recursos_visuais": "[PREENCHER: true (se tiver fotos/clichês) ou false]",
+          "notas_pesquisador": "[PREENCHER: Observações sobre desgastes, formatação ou contexto, ou null]"
+        }
+      ]
+    }
+  ]
+}
