@@ -1,0 +1,409 @@
+{
+  "periodico": {
+    "id_jornal": "acritica_ni",
+    "nome": "A CRITICA",
+    "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+    "proprietarios": [
+      "Avelino Azeredo",
+      "Sylla Filizola"
+    ],
+    "local_publicacao": {
+      "cidade": "Nova Iguassú",
+      "estado": "Rio de Janeiro",
+      "pais": "Brasil"
+    }
+  },
+  "edicao": {
+    "id_edicao": "acritica_ano1_num1_19280617",
+    "ano_romano": "I",
+    "numero": 1,
+    "data_publicacao": "1928-06-17",
+    "data_impressa": "Domingo, 17 de Junho de 1928"
+  },
+  "paginas": [
+    {
+      "numero_pagina": 1,
+      "conteudos": [
+        {
+          "id_conteudo": "p1_c1",
+          "tipo": "Editorial",
+          "titulo": "Primeiras palavras",
+          "autor": null,
+          "texto": "[inelegivel] em 1920 [inelegivel] fulgurante de moços que fez epoca, [inelegivel] pela vigilancia dos espiritos que o animam, hoje reenceta sua publi[inelegivel] A [inelegivel], em continuação a obra, por outrem feita [inelegivel] de com ella bello, da [inelegivel] do gosto ás boas lettras entre nossa juventude. O pequeno formato do nosso jornal não comporta, por emquanto, um mais largo programma de acção; porem, envidaremos esforços no sentido de fazermos desta tribuna, de que se podem utilisar quantos queiram cooperar com seu valioso auxilio, [inelegivel] critica serena de assumptos que interessem aos nossos leitores, ou a [inelegivel] os problemas de interesse geral. Como principiantes que somos e, portanto, sugeitos aos erros naturaes de todos que se iniciam em uma empresa tão delicada, contamos com a indulgencia daquelles por quem [inelegivel] produzimos [inelegivel] principalmente aqui, nesta cidade, porque o coração que nos anima, [inelegivel] desta cidade, jura [inelegivel]",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Editorial de estreia. Apresenta desgaste severo nas margens da coluna esquerda."
+        },
+        {
+          "id_conteudo": "p1_c2",
+          "tipo": "Poesia",
+          "titulo": "Minhas dividas",
+          "autor": "CRITICO",
+          "texto": "Tenho vida de dividas crivadas.\nDinheiro, charutos, cobertores,\n[inelegivel] luz, roupa [inelegivel] Vaday\n[inelegivel]\n[inelegivel] namorada,\nDevo, [inelegivel] beija\n[inelegivel] com doçura, ou\nAinda um pobre deve promessas,\nE apesar de viver endividado,\nPara augmentar as dividas que tenho\nEu ando amores a conversar fiado...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Poema humorístico em versos rimados."
+        },
+        {
+          "id_conteudo": "p1_c3",
+          "tipo": "Crônica",
+          "titulo": "As travessuras de Cupido",
+          "autor": "MYOSOTIS",
+          "texto": "O azul grande sol [inelegivel] da vida, [inelegivel] de encantos [inelegivel] as palavras pensai, devo [inelegivel] toando as de seducções aimaveis. [inelegivel] Sim, esperança [inelegivel] esmeralda. [inelegivel] que soffres no [inelegivel] quals almas que se desamparo, tambem sorrias [inelegivel] mesmo que [inelegivel], como o apostolo do pessimismo, atravessam a existencia sem graça de um amigo que [inelegivel] de um beijo que espera com meiguice. Graças ao amor, affinidade electiva, como o denominou Goethe, humanidade [inelegivel] livros de belleza altissima, inspirados pela mocidade radiosa da [inelegivel] tantas outras maravilhas [inelegivel] poemas, tantas obras primas não tem a Intelligencia produzido a serviço do coração? A natureza, a cada passo, nos ninhos, na reproducção dos vegetaes, nas suas differentes [inelegivel] manifestações, não nos affirma, com eloquencia, o reflorir eterno dessa lei natural benefica sapientissima? Portanto, mas que Schopenhauer foi um intoleravel neurasthenico e um imbecil, desprezando e até dizendo [inelegivel] encantador, qual devemos venturas, jubilos, alegrias, o nosso lar, os nossos filhos. [inelegivel] com teus presentes [inelegivel] em pensamentos de amor espera a dois [inelegivel] amor e [inelegivel]",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Crônica filosófica sobre o amor, citando Goethe e Schopenhauer."
+        },
+        {
+          "id_conteudo": "p1_c4",
+          "tipo": "Crônica",
+          "titulo": "[inelegivel]",
+          "autor": "SARA J. B. DO CORREIA",
+          "texto": "[inelegivel] dias, num bello [inelegivel] nossa cidade amanheceu florida. E' que, um grupo de moças a percorria, vendendo myosotis. Traziam-nos ellas, em cestinhas, penduradas por fitas verdes. Linda cor aquelle verde Esperança [inelegivel] vendiam e [inelegivel] voluntarias [inelegivel] Italiano quando deixa aquelle ceo meridional tão lindo, ouve alguem dizer-lhe: Non ti scordar di me; o espanhol, no deixar a casa de seu sonho, após um tango, exclama: No me olvides; [inelegivel] filho de França, quando ferido por cupido, colhe [inelegivel] offerece a \"jeune fille de son âme\" e diz: Ne m'oubliez pas. E, finalmente, a alma ingleza grata pela offerta, retruca: \"Forget me not\". [inelegivel] formavam, naquelle momento, nesta flôr mimosa teu \"não te esqueças de mim\", cheio de fé, no azul daques [inelegivel] Galdo [inelegivel] brinda, brinda divina [inelegivel] e meiga na brancura [inelegivel] pelas nossas ruas [inelegivel] seguem sem olhar de gratidão quelle daquellas petalas tão puras. Foste ouvida [inelegivel] destinou [inelegivel] venda myosotis [inelegivel] domingo [inelegivel] symbolo da caridade desta cidade, jura Não se esquece [inelegivel] Feliz colhe Myosotis, mimosa [inelegivel] esqueças de mim.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Crônica sobre evento beneficente de venda de flores miosótis na cidade."
+        },
+        {
+          "id_conteudo": "p1_c5",
+          "tipo": "Entretenimento",
+          "titulo": "[inelegivel]",
+          "autor": null,
+          "texto": "PANCRACIO tem um irmão casado com uma sua irmã e não são parentes.— Como pode ser?",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Charada/enigma de pé de página."
+        }
+      ]
+    },
+    {
+      "numero_pagina": 2,
+      "conteudos": [
+        {
+          "id_conteudo": "p2_c1",
+          "tipo": "Perfil",
+          "secao": "SILHUETAS FEMININAS",
+          "titulo": "A. R. S.",
+          "autor": "Sonhador",
+          "texto": "A belleza da mulher... Fazer elogio da [inelegivel] difficil... [inelegivel] peito que é symbolo da [inelegivel] de estar que me [inelegivel], porque [inelegivel] poderei [inelegivel] são dos que [inelegivel] de boa [inelegivel] mas deste formar [inelegivel] porque se querem de que em mundo [inelegivel] talento. Em momentos desses, lutar é soffrer. Lutar [inelegivel] ideia. [inelegivel] bilhão que trazem no cerebro. Pobre de quem busca [inelegivel] realizar! A [inelegivel] não lhe sorri. E' o que se me depara, diante beldades que gravitam, agora [inelegivel] de meus olhos. Fecho-os [inelegivel] e começam para senhorita A. R. S. Quem não admira? Certo que todos: pois que este [inelegivel] no social [inelegivel] reluzir aquelles olhos negros bem grandes, uma alma pura. Em seu rosto a compensação compoz o poema do bello: Estampando em suas [inelegivel] um verdadeiro mimo... Cabellos inglêses, levemente ondulados pela natureza, realça deveras, a belleza da [inelegivel] meiga, porte medio e honesta, flor das virtudes que a modestia [inelegivel] primor de fino trato em extrema delicadeza. Finalmente, mimosa de alma, effigie e coração, que [inelegivel] mostram naquelle [inelegivel] figura divina que a [inelegivel] que nos enleva, [inelegivel] luzindo, cativando.",
+          "recursos_visuais": true,
+          "notas_pesquisador": "Acompanhado de retrato fotográfico em clichê na parte superior da coluna."
+        },
+        {
+          "id_conteudo": "p2_c2",
+          "tipo": "Homenagem",
+          "secao": "Justa homenagem",
+          "titulo": "SILVINO DE AZEREDO",
+          "autor": null,
+          "texto": "A ephemeride de hoje assinala o anniversario natalicio de Silvino de Azeredo, illustre jornalista fundador do acreditado orgam, Correio da Lavoura, e digna figura da sociedade iguassuana. Dotado de invulgar combatividade, espirito franco e creador, o velho campeão da imprensa no municipio [inelegivel] consideração e respeito de seus conterraneos, e principalmente, [inelegivel] acendrado amor a patria [inelegivel] hoje, por certo, mais uma vez, o illustre chefe e amigo cheio de [inelegivel] receber de seus muitos amigos felicitações que [inelegivel] A Critica rende ao mestre insigne a nitida homenagem do seu carinhoso affecto, augurando-lhe ainda muitos janeiros bonançosos, para felicidade e alegrias dos seus muitos amigos.",
+          "recursos_visuais": true,
+          "notas_pesquisador": "Acompanhado de retrato ovalado em clichê de Silvino de Azeredo."
+        },
+        {
+          "id_conteudo": "p2_c3",
+          "tipo": "Artigo",
+          "titulo": "Sto. Antonio",
+          "autor": null,
+          "texto": "A nossa cidade, no dia de hoje, commemora com as festas mais brilhantes [inelegivel] Santo Antonio de Jacutinga. A commissão de cavalheiros a quem foi confiada a delicada tarefa da organisação dos festejos, pelos trabalhos apresentados, fazem jús aos nossos applausos e reconhecimento do povo desta terra. Isto porque o povo Iguassuano mais uma vez homenageia o seu excelso padroeiro, unindo-lhe festa condigna.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Nota sobre os festejos do padroeiro de Nova Iguaçu."
+        },
+        {
+          "id_conteudo": "p2_c4",
+          "tipo": "Nota",
+          "titulo": "[inelegivel]",
+          "autor": null,
+          "texto": "Commerciantes são diabos, não ha [inelegivel] negue. No entanto, todos querem A cidade, delom um [inelegivel] que se carregue.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Quadra humorística curta."
+        },
+        {
+          "id_conteudo": "p2_c5",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "NATALICIOS",
+          "autor": null,
+          "texto": "Fez annos a 8 deste [inelegivel] d. Maria Barbosa de Araujo Moura, gentil consorte do [inelegivel] Cletulio Mariano cujo natalicio passou no dia 10 do fluente. Ainda na mesma data viram [inelegivel] Carmo Pacifico Monteiro e exma. [inelegivel] Maria Pacifico Monteiro. Hontem, passou a data [inelegivel] Soares, estimada Agente do Correio local. Hoje completa mais um anniversario natalicio o chefe politico local e deputado á Assembléa deste Estado, Cel. Alberto Soares de Souza e Mello. Tambem hoje [inelegivel] graciosa menina Nyira [inelegivel] do illustre collega Cap. Alies [inelegivel] Ainda na mesma data vê passar [inelegivel] primavera [inelegivel] menina Cecilia, filha do sr. Manoel [inelegivel] Cordeiro de Souza e de d. Novatia Chaves Cordeiro, residentes nesta cidade.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Subseção de aniversariantes da coluna Critica Social."
+        },
+        {
+          "id_conteudo": "p2_c6",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "NASCIMENTOS",
+          "autor": null,
+          "texto": "Encheu-se o lar de uma galante e interessante menina filha do nosso presado amigo sr. Antonio Santos Reis e de d. Doralice Pimenta Reis, nascida em 10 do corrente.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Subseção de nascimentos da coluna Critica Social."
+        },
+        {
+          "id_conteudo": "p2_c7",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "BODAS",
+          "autor": null,
+          "texto": "Em data de [inelegivel] deste celebraram-se nesta cidade, os esponsaes do distincto bacharelando [inelegivel] Getulio Mariano, com a graciosa professora sta. Maria Barbosa de Araujo [inelegivel] revestiu-se de solemnidade a elle comparecendo crescido numero de pessoas de destaque em nosso meio social e das relações de amizade dos felizes noivos. O jovem par embarcou a 9, com [inelegivel] Apparecida, onde se realizou a cerimonia religiosa de seu casamento, [inelegivel] como um bem do céo ás almas bem formadas dos nubentes. Ao venturoso casal, as felicitações deste jornal.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Subseção de casamentos da coluna Critica Social."
+        },
+        {
+          "id_conteudo": "p2_c8",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "Sta. Kildes Silva",
+          "autor": null,
+          "texto": "Festeja hoje mais uma data primaveril a distincta senhorinha Kildes Silva, um dos bellos ornamentos da sociedade local e filha do sr. cel. Nicolau Rodrigues da Silva, digno Secretario da Prefeitura.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c9",
+          "tipo": "Aviso Utilidade Pública",
+          "titulo": "Pharmacia de plantão",
+          "autor": null,
+          "texto": "Hoje Pharmacia Sto. Antonio—Praça M. Seabra, 12",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c10",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "Sta. Pharailde Vidal",
+          "autor": null,
+          "texto": "No dia 11 do andante a residencia do sr. agente Cintra Vidal encheu-se de uma sociedade elegante e distincta, por motivo da passagem do anniversario natalicio, nesse dia, da distincta professora senhorinha Pharailde Cintra Vidal, cujo cliché estampamos acima como modesta homenagem aos bellos predicados que a distinguem em nosso meio, tornando-a admirada e querida por quantos a conhecem. Organisou-se, á noite, brilhante soirée na qual [inelegivel] parte muitos pares, reinando durante a festa a maior alegria entre todos. A familia Cintra Vidal, sempre de uma encantadora gentileza para com seus convidados, offereceu aos presentes fasta mesa de saborosos doces, um dos intervalos das danças que se prolongaram até tarde da noite, sempre animadas.",
+          "recursos_visuais": true,
+          "notas_pesquisador": "Faz referência a clichê fotográfico na parte superior."
+        },
+        {
+          "id_conteudo": "p2_c11",
+          "tipo": "Coluna Social",
+          "secao": "Critica Social",
+          "titulo": "ANTONINO SOARES",
+          "autor": null,
+          "texto": "A 12 do corrente viu passar sua data intima o nosso jovem amigo sr. Antonino Soares, tabellião interino do Cartorio do 2. Officio desta cidade. Muito relacionado em nosso meio, foi o anniversariante felicitadissimo por esse fausto motivo. Estampando nesta columna o cliché deste estimado cavalheiro, prestamos á sua pessoa o tributo da nossa elevada estima.",
+          "recursos_visuais": true,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c12",
+          "tipo": "Crônica Esportiva",
+          "secao": "Perfis sportivos",
+          "titulo": "GENTE DA BOLA",
+          "autor": "E. C. V.",
+          "texto": "Como quasi todos os bons jogadores, iniciou a sua carreira sportiva no team das \"bolas de meia\", feitas com as meias aposentadas da cosinheira. Center forward do Iguassú, fôra indicado para occupar identica posição no team do Flamengo, guardando apenas a exclusa do Exercito para commandar o ataque tanto negin [inelegivel] Quando aqui chegou vindo de Barbacena, foi jogar contra o Queimados F.C. [inelegivel] tão carregada no keeper Tremedeira, que chegou pelo avesso deixando apparecer todas [inelegivel] A sua estréa no Flamengo foi de successo: um seu primo residente em Barbacena, ao contar as proezas do [inelegivel] disse estar elle tão conhecido no Rio que até as chapas de grammophone saiam em seu nome, e accrescentava: comprem qualquer disco e verão como diz: Fala cabo... No Exercito já galgou o posto de cabo e não foi além devido atrapalhar-se por occasião de fazer continencia, a imaginar qual das duas era a mão direita. Ainda a semana passada em conversa commigo, disse-me que, se fosse maneta, e possuisse apenas a mão direita seria no minimo 2. Sargento!",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Crônica humorística sobre jogador local do Iguassú e Queimados F.C."
+        },
+        {
+          "id_conteudo": "p2_c13",
+          "tipo": "Crônica Humorística",
+          "titulo": "Fogos de Artificio",
+          "autor": "Microbio",
+          "texto": "Silva como todos sabem, Santos Dumont Iguassuano em materia de balões. Ha dias contou-me elle uma estupenda de Eugenio Beauvallet. Indo ao campo do Sport Club Iguassú, lá encontrou Beauvallet atarefado a pingar 3 gottas de [inelegivel] em cada copo de refresco e partindo um quarto de queijo em 450 pedaços, modelos bastis, para sandwichs, quando um dos carneiros dos que lá estão veraneando eternamente berrava bé... bé... bé... Beauvallet julgado que o chamavam, respondeu arrebatadamente: Espere um pouco estou ocupado... Olayan que estava ao lado ouvindo, proclamou immediatamente o Silva campeão! Edison, Rio de Janeiro.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anedota local envolvendo personagens da cidade."
+        },
+        {
+          "id_conteudo": "p2_c14",
+          "tipo": "Expediente",
+          "titulo": "Expediente A CRITICA",
+          "autor": null,
+          "texto": "ASSIGNATURAS: Mez 1$000 - N. avulso 200. Redacção e Administração: Av. Francisco Soares, 28 - Nova Iguassú, E. do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Dados administrativos e preços do periódico."
+        },
+        {
+          "id_conteudo": "p2_c15",
+          "tipo": "Entretenimento",
+          "titulo": "Charadas",
+          "autor": "RONALDO / OTA / NERE",
+          "texto": "Dentro desta casa, tem bom scenario para Conferencias—2-2. E animal o homem que offende a deusa 1-1. RONALDO.\nNeste logar solitario Aonde a desgraça me tem Chamo ninguem me responde Mas não vejo ninguem—1-2. OTA.\n[inelegivel] pé de comprimento. Meio palmo de extensão tem Este homem amou logo que em a primeira mulher—2-1. NERE.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Seção de charadas enigmáticas enviadas por leitores/colaboradores."
+        },
+        {
+          "id_conteudo": "p2_c16",
+          "tipo": "Anúncio Comercial",
+          "titulo": "A Pharmacia Central",
+          "autor": "Dr. J. Pereira de Azevedo",
+          "texto": "participa a V. Exa. que se transferiu para o num. 214-A da Rua Marechal Floriano, onde é encontrado o balisado clinico Dr. J. Pereira de Azevedo que dá CONSULTAS GRATIS das 8 1/2 ás 10 1/2 da manhã. Preços minimos, serviço esmerado e variado stock.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c17",
+          "tipo": "Anúncio Comercial",
+          "titulo": "INSTALLADORA DE IGUASSU",
+          "autor": null,
+          "texto": "Lampadas, installações electricas. Material electrico, bat-fonts, etc. SÓ NA \"INSTALLADORA DE IGUASSU\" PRAÇA M. SEABRA, 10. Não comprem na cidade, pois os preços aqui são os melhores.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c18",
+          "tipo": "Anúncio Comercial",
+          "titulo": "CINEMA VERDE",
+          "autor": null,
+          "texto": "HOJE: A MENINA ALEGRE. Estupendo drama em 8 actos por Olive Borden.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Programação cinematográfica local."
+        },
+        {
+          "id_conteudo": "p2_c19",
+          "tipo": "Anúncio Comercial",
+          "titulo": "SALÃO BRASIL",
+          "autor": "Alencar P. de Faria",
+          "texto": "Alencar P. de Faria. PRAÇA M. SEABRA, 10. Nova Iguassú - Estado do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c20",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Quereis garantir sua propriedade?",
+          "autor": null,
+          "texto": "Vá immediatamente ao Cartorio do Registro de Immoveis da Cidade. Bernardino Mello, 215.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p2_c21",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Serraria Nova Iguassú",
+          "autor": "Carlos V. Pinto & Bernardino Mello",
+          "texto": "Fabrica de Caixas de pinho e deposito de madeiras, cimento e outros materiaes para construcção. CARLOS V. PINTO & Bernardino Mello. Escriptorio no Rio: R. RODRIGO SILVA, 17 Telep. Central 3010 End. Teleg. Carpin. Escriptorio em São Paulo: RUA DA QUITANDA, 24 End. Telegraphico Carpinto.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        }
+      ]
+    },
+    {
+      "numero_pagina": 3,
+      "conteudos": [
+        {
+          "id_conteudo": "p3_c1",
+          "tipo": "Anúncio Comercial",
+          "titulo": "AÇOUGUE CENTRAL",
+          "autor": "Rodolpho Annecchino & Filho",
+          "texto": "Completo sortimento de carnes de vacca, porco, carneiro etc. Grande stock de gado de corte, vaccas de leite, boi para açougue etc. ENTREGA-SE A DOMICILIO. RODOLPHO ANNECCHINO & FILHO. NOVA IGUASSU - RUA M. FLORIANO, 198.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c2",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue União",
+          "autor": "Ernesto Deta",
+          "texto": "DE Ernesto Deta. Fornece carne de Vacca, [inelegivel] Carne [inelegivel] RUA MARECHAL FLORIANO, [inelegivel]",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c3",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Vidraceiro da Matriz",
+          "autor": "Helminio Vieira Fernandes & C.",
+          "texto": "Completo sortimento de vidros para vidraças, vidraças de cores, musseline, canelado, fantasia, etc. Grande variedade de estampas, espelhos, molduras para quadros, etc. Grande venda de material electrico, artigos de escriptorio e para collegiaes. Folhinhas, cartões etc. Nova Iguassu E. do Rio - HELMINIO VIEIRA FERNANDES & C. Rua M. Floriano, 11-A NOVA IGUASSU - E. DO RIO. Filial em Nilopolis: Av. Getulio de Almeida, 18.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c4",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue Democrata",
+          "autor": null,
+          "texto": "Filial Açougue Democrata. Rua Bernardino Mello, 15.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c5",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Dispensa Globo",
+          "autor": "F. Ronchetti & C.",
+          "texto": "BOM E BARATO. Importação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul. Vinhos recebidos directamente. F. Ronchetti & C. Rua Marechal Floriano Peixoto, 195 Nova Iguassú - E. do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c6",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Pharmacia Iguassú",
+          "autor": null,
+          "texto": "RUA M. FLORIANO, 106. Completo sortimento de drogas estrangeiras. Preços modicos.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c7",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Padaria e Confeitaria Trez Nações",
+          "autor": "Esteves & Irmão",
+          "texto": "Pão, roscas, bolachinhas especiaes, biscoitos finos de todas as qualidades e doces de confeitaria. Pão quente a toda hora. Completo sortimento de bebidas de todas as qualidades. ESTEVES & IRMÃO RUA MARECHAL FLORIANO PEIXOTO, 116-A NOVA IGUASSU - Estado do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c8",
+          "tipo": "Anúncio Comercial",
+          "titulo": "DR. MONTE MOR FILHO",
+          "autor": "Dr. Monte Mor Filho",
+          "texto": "NOVA IGUASSU. CONSULTORIO: Segundas, quartas e sextas, das 7 ás 9 da noite. Terças, quintas e sabbados das 10 ás 12. E. DO RIO.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c9",
+          "tipo": "Anúncio Comercial",
+          "titulo": "A Nova Mundial",
+          "autor": "Antonio Pereira Dias",
+          "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos, artigos para homens. Calçados, Chapeos de sol e de cabeça. Sedas, Modas e Confecções. ANTONIO PEREIRA DIAS PRAÇA M. SEABRA, 4 NOVA IGUASSU - E. DO RIO.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c10",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Tinturaria Elite Fluminense",
+          "autor": "Alvaro Robles Quintana",
+          "texto": "Lavagem chimica de primeira ordem. Tinge-se para luto em 24 horas e ternos em 30 minutos. Tinge e lava fazendas como Seda, Lã, [inelegivel] Tinge-se qualquer [inelegivel]. Lava e engomma chapeos, tapetes, cortinas etc. ALVARO ROBLES QUINTANA PRAÇA M. SEABRA, 30 - Nova Iguassu E. do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c11",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Alfaiataria Silva",
+          "autor": "Manoel Silva",
+          "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA. Porque V. Exas. não experimentam esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas. Fazem-se ternos em 24 horas. Confecções e brins. MANOEL SILVA PRAÇA M. SEABRA, 10 - E. do Rio.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c12",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue São Jorge",
+          "autor": "Ferreira & Ferreira",
+          "texto": "FERREIRA & FERREIRA. Tem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve NOVA IGUASSU. Téla fina de arame, a prova de moscas. RUA M. FLORIANO, 110.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c13",
+          "tipo": "Anúncio Comercial",
+          "titulo": "CASA ADORNATIVA",
+          "autor": "João Carlos",
+          "texto": "Caixões mortuarios de qualquer classe para anjos e adultos. Acceitam-se encommendas a qualquer hora. Variadas collecções de corôas roxas e brancas. João Carlos - Rua M. Floriano Peixoto, 144 NOVA IGUASSU - ESTADO DO RIO.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        },
+        {
+          "id_conteudo": "p3_c14",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Velóz AGENCIA DE TRANSPORTES",
+          "autor": "Moacyr",
+          "texto": "AUTOS PARA PASSEIO. Fornece materiaes para construcções. MOACYR [inelegivel] RUA RITA GONÇALVES, 57 NOVA IGUASSU.",
+          "recursos_visuais": false,
+          "notas_pesquisador": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "periodico": {
+      "id_jornal": "acritica_ni",
+      "nome": "A CRITICA",
+      "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+      "proprietarios": ["Avelino Azeredo", "Sylla Filizola"],
+      "local_publicacao": {
+        "cidade": "Nova Iguassú",
+        "estado": "Rio de Janeiro",
+        "pais": "Brasil"
+      }
+    },
+    "edicao": {
+      "id_edicao": "acritica_ano1_numero2_19280624",
+      "ano_romano": "I",
+      "numero": 2,
+      "data_publicacao": "1928-06-24",
+      "data_impressa": "Domingo, 24 de Junho de 1928"
+    },
+    "paginas": [
+      {
+        "numero_pagina": 1,
+        "conteudos": [
+          {
+            "id_conteudo": "ed2_p1_c1",
+            "tipo": "Crônica",
+            "titulo": "Fogos de São - João -",
+            "autor": "Antonio N. Bittencourt",
+            "texto": "JUNHO agoniza... Erra por todo o canto da chamma em que ardeu. A noite, quando a terra dormita, rola no vão da névoa [inelegivel] quetes subir, vomitando fogo, como a querer incendiar aquelle véo tão branco... Méz da volupia da chamma! Santo Antonio passou, alegre e festivo e hoje nos cumpre festejar a São João. Recordemos, leitores: - Todos nós, quando criança, ouviamos, attentos, a avózinha repetir que certa vez, no céo, São João disse a Jesus: Senhor, - a terra é cheia de incredulos. A semente do mal germina e a floresta do peccado clama contra o [inelegivel] porisso, quero [inelegivel] Jesus [inelegivel] pertence [inelegivel] germinasse a semente do bem, na influencia do amor e do perdão, foi misericordioso e não despertou o Baptista neste dia. É porisso que, no dia de hoje, ribombam foguetes, estralajam bombas, scintilam estrellas e rodinhas; ardem pistolas e chuveiros de prata; estoiram morteiros, etc. emquanto as moças, á meia noite de S. João, [inelegivel] fazem sortes, para [inelegivel] de seus amores. Era o seu mais ardente [inelegivel] flammejante, [inelegivel] da qual as chammas cantaram, sorridentes, a belleza do céo illuminado![cite: 31]",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed2_p1_c2",
+            "tipo": "Poesia",
+            "titulo": "ESPERO...",
+            "autor": "[inelegivel]",
+            "texto": "De tudo que eu faço conta / Podes fazer de lado o que quizeres / Pouco importa o mal de mim disseres / Não é para [inelegivel] / [inelegivel] / Portanto, tudo mais ficou / O [inelegivel] sendo levado em conta. / Podes rasgar [inelegivel] o retrato / Quem de sabe de amor ingrato / Crendo [inelegivel] mais existe!! / Emquanto, pois [inelegivel] / [inelegivel] pudeste.[cite: 31]",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed2_p1_c3",
+            "tipo": "Conto/Crônica",
+            "titulo": "Cascadura",
+            "autor": null,
+            "texto": "Como quasi todo bicho do mato teve uma vez um [inelegivel] complacente; [inelegivel] do interior que já ouviu falar sobre o Rio, João Pedro a distancia se [inelegivel] pelos encantos que ainda não tivera a [inelegivel] de [inelegivel], tem como que o poder de tornar mais attrahentes e enganadoras as imagens. Viu pois, realisado o seu ardente anceio. Estava, pois, no Rio o João Pedro. Num de seus innumeros passeios pela cidade, encontrou elle o Zé Valente, conhecido antigo da localidade onde morava e que residia, no Rio, havia algum tempo. Entabolaram uma interminavel conversação, d'aquellas que só na roça se sabe o melhor modo de [inelegivel]. Terminada a [inelegivel], o Zé Valente [inelegivel] o amigo para passar um dia em sua casa, situada em Cascadura, suburbio da capital e [inelegivel] de Nova Iguassú que tambem possue Madureira. Dada a explicação passemos adiante. João Pedro não muito affeito aos meios de transporte, pediu informes a respeito da conducção que devia tomar. Disse-lhe o companheiro: - Tome o bond de Cascadura e siga até o fim da linha. - [inelegivel] Bond de cascão duro? - Perguntou João. - Sim, respondeu o amigo. Despediram-se. Dias depois, desejando fazer a visita promettida, João Pedro [inelegivel] o bond e [inelegivel]. Uma vez embarcado o [inelegivel] viajar, [inelegivel] seduzido pelo que lhe [inelegivel] a respeito de [inelegivel]. - [inelegivel] disse solicitamente o recebedor, este bond não é de Cascadura, é de Coqueiros. - E então, moço, retrucou elle muito ingenuamente, os coqueiros não têm casca dura?[cite: 31]",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          }
+        ]
+      },
+      {
+        "numero_pagina": 2,
+        "conteudos": [
+          {
+            "id_conteudo": "ed2_p2_c1",
+            "tipo": "Crônica",
+            "titulo": "MINHA ALEGRIA",
+            "autor": "Sonhador",
+            "texto": "Manhã de junho, fria e bella, com um céu desesperadoramente azul, a derramar fiores de sol sobre a cabelleira verde das laranjeiras... Abro a janella e me fico a contemplar o rosto gelado do dia. Não sei por que, eu amanheci hoje alegre... Não sei por que, descubro em tudo nas arvores e nas casas, na physionomia dos homens e nos [inelegivel] das mulheres promessas amabilissimas de bondade... amor e motivos serenos de [inelegivel]. Pergunto a mim mesmo, espantado, a causa de minha alegria, a razão de minha festa intima... Virá, porventura, este exquisito contentamento desta carta de amor que recebi agora, cheia de abraços e de beijos? Talvez... Quem sabe? Leio e releio, ingenuamente commovido, a tua carta deliciosamente mal escripta, e quanta poesia eu sinto nos teus erros de orthographia, nos teus pronomes mal collocados... Quem sabe si este [inelegivel] da minha surpreza? Ah! vem de ti, com certeza, o mysterio deste estado d'alma, de ti, minha linda roceirinha, que accendes, dentro em mim, brancas resurreições! Eu era extremamente [inelegivel] e me fizeste infinitamente bom... Eu soffria muito, porque não tinha crença. E vieste e me ensinaste a religião azul dos teus olhos... Ah! já sei por que sou tão feliz nesta manhã de junho, fria e bella, desesperadoramente azul... E' por tua causa, roceirinha ingenua, suave enfermeira de minhas maguas e minha vida e minha morte!",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed2_p2_c2",
+            "tipo": "Coluna Social",
+            "titulo": "SILHUETAS FEMININAS - D. M.",
+            "autor": null,
+            "texto": "Assistindo aos festejos de domingo ultimo, resolvi escolher, em meio a multidão que se comprimia, satisfeita e aureolada pela graça da mulher; um mimo de honra para a humilde columna que burilo. Encontrei-o eu, na belleza singéla da senhorita D. M. Realça-lhe o rosto oval dos arabes, o nariz das gregas e a cutis morena das filhas do Oriente. Ha, em seus olhos pretos, a eterna melancolia das sonhadoras que seduzem... Olhos mortos, envoltos pelo véo do sonho. Mas a vida, está nas coisas mortas. Nelles, ha a doçura das mulheres santas. Inspiram tristeza e bondade, influencia, talvez, do convivio de outróra pois que estudou num collegio de irmãs. Porte regular, cabellos pretos, á ingleza, sympathisa-nos, á primeira vista, pelos modos distinctos e delicados, mostrando possuir uma alma religiosa, portanto sincéra e bôa. E' intelligente e deveras educada, mostrando-se, porém, indifferente ás traquinices do jovial \"Cupido\". [inelegivel] já lhe \"beliscou\" o coração? Fui indiscreto, não? Sim, mas a senhora saber-me-á perdoar. Enfim é um fino ornamento da nossa \"high life\" e bastante querida.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed2_p2_c3",
+            "tipo": "Coluna",
+            "titulo": "Palmadinhas... Critica Social - J. B.",
+            "autor": "E'co",
+            "texto": "J. B. é um rapaz attrahente, elegante, sympathico, orando com certa maestria e melhor \"escrevendo\", pois já o diz a profissão. Moreno, magro, olhos pequenos e negros, cabellos grisalhos, de um espirito unico, era o \"enfant gaté\" do bello sexo iguassuense. Dizemos era, porque hoje, pobre coitado, já está no rol dos homens sérios. Muitas são as passagens interessantes de sua vida. Comico extraordinario, sabe J. B. agradar aos que o ouvem com suas anedoctas sempre espirituosas de um cunho literario e scientifico. Como todo sujeito que conta anedoctas, floriava demasiadamente, e sua presença de espirito alliava-se para a difficil da caça. Certa vez, contava-nos uma de suas narrativas: um caso em que se via apertado com formidaveis tigres, habitantes dos sertões de Belém. Encontrava-me em certa altura de uma planicie, iniciou elle, quando vi, que assomava pela encosta opposta, uns vultos, que pouco a pouco foram se approximando; quando pude bem perceber, observei tres formidaveis tigres que se dirigiam ao meu ponto. Não havia mais possibilidade de fugir. Peguei da espingarda (que era de tres canos) e disparei o primeiro tiro, que foi certeiro e derrubou um dos quadrupedes. Outra pontaria e outro tigre rola pelo chão ensanguentado. Mas quando descarreguei a ultima bala, esta não foi certeira e o animal enfurecido pela sorte de seus companheiros, vem certeiro a mim. Já se achava a alguns passos, quando tive a lembrança de fugir mas qual! Estava por traz de mim, um formidavel barranco por onde não era possivel a escalagem. A situação era angustiosa; encostei-me ao barranco e o animal a poucos passos; abrio a bocca e.... - E.... que fez elle? perguntou ansioso o Jarbas, com voz tremula, interessado em saber o final. J. B. com a maior naturalidade conclúe: - Comeu-me! Tableau!",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          }
+        ]
+      }
+    ]
+  }
+]

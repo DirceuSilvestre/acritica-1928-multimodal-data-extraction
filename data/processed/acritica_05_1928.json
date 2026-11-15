@@ -1,0 +1,508 @@
+{
+  "periodico": {
+    "id_jornal": "acritica_ni",
+    "nome": "A CRITICA",
+    "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+    "proprietarios": [
+      "Avelino Azeredo",
+      "Sylla Filizola"
+    ],
+    "local_publicacao": {
+      "cidade": "Nova Iguassú",
+      "estado": "Rio de Janeiro",
+      "pais": "Brasil"
+    }
+  },
+  "edicao": {
+    "id_edicao": "acritica_ano1_num5_19280715",
+    "ano_romano": "I",
+    "numero": 5,
+    "data_publicacao": "1928-07-15",
+    "data_impressa": "Domingo, 15 de Julho de 1928"
+  },
+  "paginas": [
+    {
+      "numero_pagina": 1,
+      "conteudos": [
+        {
+          "id_conteudo": "p1_c1",
+          "tipo": "Crônica",
+          "titulo": "VERTIGEM DO ALTO",
+          "autor": "SARA J. B. DO CORREIA",
+          "texto": "QUANDO folheava, ha dias, um vespertino carioca, do mêz p. p.; minha attenção se concentrou numa noticia devéras interessante e original: E' o caso dum jornalista, correspondente de jornaes americanos, na cidade oriental de \"Riga\" que, recentemente fallecido, decidiu, em testamento, que suas cinzas fossem espalhadas no espaço, por um avião.\nSegundo a mesma, a vontade do defunto foi satisfeita. Um areoplono, subiu a 1500 metros de altura e dispersou ao vento as cinzas do jornalista.\nFaçamos agóra um pequeno commentario sobre o caso.\nEste homem, affeito, talvez, ás emmoções, já as vinha experimentando, a todo o passo. Jornalista, não lhe faltavam factos emmocionaveis; — tinha-os, a fartar. Provou, certamente, as grandes emmoções da vida, lutou para viver, assistiu aos maiores dramas que se representaram no palco do mundo compartilhou de varios delles; ouviu gemidos de miserias, arripiou-lhe o corpo o frio da commiseração, ouviu gemidos de desgraça; afinal, soffreu, para que sua gloria fosse gloria. E, um dia sentiu a ultima, das emmoções, o abraço da alma da vida: A morte! A vida é corpo e a morte alma sem que haja entre ambas outra reciprocidade; — só comprehendemos a vida, diante da morte e tambem só concebemos a morte diante da vida, logo; Vida e Morte, Corpo e Alma!\nPois bem, esse homem que foi vida e foi morte, pleno de emmoções, quiz ainda sentir o que esquecera aqui, e, ao provar, a emmoção da morte, ambicionou ainda a gloria das aves; exigiu que a alma de suas cinzas se dilatasse na vertigem da altura; para assim, num vôo eterno, comtemplar o mundo que róla ao vento, á chuva, á luz!...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Primeira coluna da página 1 (Edição Num. 5, 15 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p1_c2",
+          "tipo": "Humor",
+          "titulo": "Espuma dos chopps",
+          "autor": "Waldemiro Portugal.",
+          "texto": "A burrice é uma qualidade financeira.\nO juizo é uma loucura refinada.\nA corda é a gravata do enforcado.\nA honestidade é uma esperteza calculada.\nO celibato é a liberdade de fazer tolices,\nA experiencia é a tranca dos roubados.\nA labia é a gazúa dos velhacos.\nO divorcio é a porta arrombada do matrimonio.\nA vida alheia é o trabalho dos vagabundos.\nO luxo é a illusão dos idiotas.\nA roupa nova é a tabella de preço do individuo,\nO futurismo é o arranha céo da pachuchada.\nO gatuno é o herdeiro mais forçado.\nA barata é o inferno das hystericas.\nA baratinha é o céo das melindrosas.\nA mulher é a boneca dos marmanjos.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Série de aforismos humorísticos na segunda coluna da página 1."
+        },
+        {
+          "id_conteudo": "p1_c3",
+          "tipo": "Máxima",
+          "titulo": null,
+          "autor": null,
+          "texto": "O HOMEM É O UNICO ANIMAL QUE TEM VAIDADE.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Frase de preenchimento ao pé da segunda coluna da página 1."
+        },
+        {
+          "id_conteudo": "p1_c4",
+          "tipo": "Crônica",
+          "titulo": "O QUE E' O FLIRT?",
+          "autor": null,
+          "texto": "Eis aqui algumas definições:\n- O flirt é a arte de brincar com o amor.\n- Uma batalha galante em que a coquettaria da mulher responde bravamente aos ataques do homem, até ao momento em que um dos dois se torna victima do outro.\n- O simili do amor.\n- Duas frivolidades que se encontram.\n- O prefacio de um romance que terminará na primeira pagina.\n- Jogo perigoso em que a mulher deixa sempre um pouco de seu coração.\n- Uma colheita de rosas á beira de um abysmo.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Texto sem assinatura na terceira coluna da página 1."
+        },
+        {
+          "id_conteudo": "p1_c5",
+          "tipo": "Crônica",
+          "titulo": "Divagações...",
+          "autor": "CONDE D'ALBA",
+          "texto": "Lá bem longe onde a passarada no seu gorgeio infindo, em trinados maviosos, nos extasia na muda contemplação dos divinos mysterios da creação divina; lá, bem distante do borborinho agitado da cidade, onde tudo é agitação, onde tudo é movimento; lá bem longe, no cimo do outeiro, mora uma linda princeza, deusa candida de ancestral belleza, de olhos côr da neve e cabellos côr da lua cheia. Cabellos de perfumes raros, odorificados, que são o encantamento de certos principes enamorados.\nLoira, muito loira, tal filha de Albion, essa Diva, em seu Eden perfumado, do Mundo completamente isolada, vive de illusões, para as illusões do Amôr...\nDa verde floresta que circumda sua encantada choupanha, soam gorgeios e trinados gemebundos, como se um hymno de louvor entoasse a Natureza áquella deusa de virginal belleza.\nNão são poucos os que suspiram e desejam possuir o amor dessa exquesita creatura e, no emtanto, a todos ella vae desilludindo...\nCerto dia, um desses apaixonados, não compre[inelegivel] possuindo [inelegivel] mais ricos predicados de belleza fosse insensivel ao Amôr, foi, cautelosamente se approximando de sua choupanha, e ao espreitar pela fresta da janella, ficou pallido de espanto por vêr entre os braços daquella por quem suspirava um mendigo loiro, o mendigo da freguezia...\nSão coisas do amôr... Coisas do amor.., os profundos mysterios do Amôr...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Quarta coluna da página 1. Algumas palavras na transição de linha do quinto parágrafo apresentam falha de impressão."
+        },
+        {
+          "id_conteudo": "p1_c6",
+          "tipo": "Anúncio Comercial",
+          "titulo": "AÇOUGUE CENTRAL",
+          "autor": "RODOLPHO ANNECCHINO & FILHO",
+          "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRODOLPHO ANNECCHINO & FILHO\nNOVA IGUASSU\nRUA M. FLORIANO, 198",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c7",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue União",
+          "autor": "Ernesto Moreira",
+          "texto": "DE Ernesto Moreira\nFornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MARECHAL FLORIANO, 1\nNova Iguassú E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c8",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Dispensa Globo",
+          "autor": "F. Raunheitti & C.",
+          "texto": "BOM E BARATO\nImportação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente.\nF. Raunheitti & C.\nRua Marechal Floriano Peixoto, 198\nNova Iguassú E. do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c9",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Vidraceiro da Matriz",
+          "autor": "BELMIRO VIEIRA FERNANDES & C",
+          "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc, Grande variedade de estampas, espelhos e molduras para quadros, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes.\nFolhinhas, cartões, etc.\nBELMIRO VIEIRA FERNANDES & C\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilopolis:\nAv. Lazaro de Almeida, 195",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c10",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Pharmacia Iguassú",
+          "autor": null,
+          "texto": "(Proximo á Estação\nRUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c11",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Padaria e Confeitaria Trez Nações",
+          "autor": "ESTEVES & IRMÃO",
+          "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades e doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nESTEVES & IRMÃO\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU' Estado do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c12",
+          "tipo": "Anúncio Comercial",
+          "titulo": "DR. MONTE MO'R FILHO",
+          "autor": "DR. MONTE MO'R FILHO",
+          "texto": "CONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados. das 10 ás 12 horas.\nDR. MONTE MO'R FILHO\nNOVA IGUASSU' E. DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio médico no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c13",
+          "tipo": "Anúncio Comercial",
+          "titulo": "A Nova Mundial",
+          "autor": "ANTONIO PEREIRA DIAS",
+          "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nANTONIO PEREIRA DIAS\nPRAÇA M. SEABRA, 4\nNOVA IGUASSU' E. DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c14",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Tinturaria Elite Fluminense",
+          "autor": "ALVARO ROBLES QUINTANA",
+          "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa,\nALVARO ROBLES QUINTANA\nPRAÇA M. SEABRA, 30-Nova Iguassú-E do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c15",
+          "tipo": "Anúncio Comercial",
+          "titulo": "\"Alfaiataria Silva\"",
+          "autor": "MANOEL SILVA",
+          "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorque V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem se ternos em 24 horas-Confecções de roupas brancas\nMANOEL SILVA\nPRAÇA M. SEABRA, 10-Nova Iguassú E. do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c16",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue São Jorge",
+          "autor": "FERREIRA & FERREIRA",
+          "texto": "FERREIRA & FERREIRA\nTem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116 NOVA IGUASSU'",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c17",
+          "tipo": "Anúncio Comercial",
+          "titulo": "CASA ADORNATIVA",
+          "autor": "João Carias",
+          "texto": "Caixões mortuarios de qualquer classe para anjos e adultos-Acceitam-se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nJoão Carias-Rua M. Floriano Peixoto, 144\nNOVA IGUASSU' ESTADO DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        },
+        {
+          "id_conteudo": "p1_c18",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Velóz",
+          "autor": "MOACYR & FILHO",
+          "texto": "AGENCIA DE TRANSPORTES\nE AUTOS PARA PASSEIO\nFornece materiaes para construcções\nRUA RITA GONÇALVES, 937\nMOACYR & FILHO NOVA IGUASSU",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da página 1."
+        }
+      ]
+    },
+    {
+      "numero_pagina": 2,
+      "conteudos": [
+        {
+          "id_conteudo": "p2_c1",
+          "tipo": "Crônica",
+          "titulo": "O meu voto",
+          "autor": "CRUCIS",
+          "texto": "Quer a direcção d' A CRITICA saber qual a moça mais bella de Nova Iguassú.\nPara tanto, instituiu um concurso que está despertando muita curiosidade e interesse.\nAhi está um plebiscito interessante, a que todo rapaz que se preza deverá concorrer com o seu voto\nQuasi todos nós temos \"alguem\" a suffragar...\nEu mesmo já havia resolvido dar a homenagem do meu voto a certa creaturinha gentil, quando estaquei ante esta advertencia desanimadora dos directores deste jornal: O nome da candidata deverá ser escripto com clareza, sendo indispensavel em cada coupon a assignatura do votante, sem o que os votos não serão apurados.\nOra essa! E eu que desejava tanto dar o meu voto a essa que gosta de mim, a essa que silencia e empallidece, quando me vê, porque lhe enche a garganta um desejo enorme de me dizer que, por minha causa, anda doente de amor, está perdida de amor...\nMas, o teu nome não o posso escrever no coupon...\nO meu nome não deve apparecer, glorificando a [inelegivel]\nSei que gostas de mim. Sabes que gosto de ti. No emtanto, não sei por que, nós somos, um para o outro, dous segredos, dous mysterios occultando, asphyxiando a loucura espontanea de um amor espontaneo...\nEu sei bem que o Avelino e o Sylla não apurarão o meu voto entretanto, voto nos teus olhos castanhos, voto na tua feminilidade encantadora, voto - perdoa! no peccado moreno do teu corpo adolescente e lindo...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Primeira coluna da página 2 (lado esquerdo da folha dupla do PDF)."
+        },
+        {
+          "id_conteudo": "p2_c2",
+          "tipo": "Crônica",
+          "secao": "SILHUETAS FEMININAS",
+          "titulo": "G. P.",
+          "autor": "Sonhador",
+          "texto": "Passeiáva eu, pela plataforma da estação, innundáda de lúz e de vida; quando, a pássos curtos, como que contados, mademoiselle G. P. passou por mim. Não me viu, pois que o comboio se approximáva.\nNotei que aquelle traje cinza lhe realçáva bastante, bem como um chapéozinho da mesma côr. No trem, livro á mão, pousou o chapéo sobre a pásta, deixando a descoberto sua cabelleira castanha e ondulada, dévéras bonita. Usáva-a, como a úsa \"al'homme\" segundo a móda.\nAdmirei os traços reguláres de seu rósto e tambem dois ólhos que corriam, curiosos, sobre a página orgulhósa. Castanhos, quasi pretos, revelaram a quem os observáva, a intelligencia de sua dona. Boca pequena, de coral e vóz rythmada. Quando sorri, lindos dentes se nos mostram.\nGenio alégre, e um tanto espirituosa. Na prósa se nós revéla intelligente, culta e um tanto mordaz, mas, no fundo é um grande coração. E' bem alta e bastante elegante. Já reside aqui, ha tempos, e, como é bonita e tratavel, tem se visto em apúros com uma legião de almofadinhas inclusive o seu Telles... que se confessa apaixonado.\nNo entanto se conserva como Esphinge, insensivel ás mil e uma sétas de Cupido, entristecendo e inspirando a alguns delles...\nDedicou-se á carreira commercial, cursando, como está, a melhor das academias deste ramo. Afinal vem se impondo, pelas suas nobres qualidades intellectuaes e moraes no \"set\" de Nova Iguassú.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Segunda coluna da página 2."
+        },
+        {
+          "id_conteudo": "p2_c3",
+          "tipo": "Máxima",
+          "titulo": null,
+          "autor": null,
+          "texto": "E' PRECISO errar muito, para acertar algumas vezes.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Frase de preenchimento ao pé da segunda coluna da página 2."
+        },
+        {
+          "id_conteudo": "p2_c4",
+          "tipo": "Coluna Social",
+          "secao": "NATALICIOS / NASCIMENTOS / BODAS",
+          "titulo": "\"Critica\" Social",
+          "autor": null,
+          "texto": "NATALICIOS\nFez annos a 11 do andante o joven estudante Paulo Machado, filho do conhecido capitalista da nossa praça, Deoclecio Dias Machado.\nA 12 do mesmo mez completou mais uma data intima a senhorita Jurema P. Dias, filha do sr. Tte. Joaquim Pereira Dias.\n- A ephemeride de 15 deste assignalou a passagem de anniversario natalicio da exma. sra. d. Esther de Azeredo Silveira, virtuosa e querida esposa do illustre prof. Joaquim Elydio da Silveira, nosso brilhante collaborador e residente em Campo Grande.\n\nNASCIMENTOS\nDesde 7 do fluente o lar do nosso joven amigo Antonino Soares, tabellião interino nesta cidade, e de sua exma. esposa d. Nadyr Ribeiro Soares, encontra-se enriquecido com o nascimento de sua graciosa filhinha, Therezinha de Jesus.\n\nBODAS\nCom a senhorita Aurora Celeste Pereira Ramos, filha do sr. Polycarpo P. Ramos e de d. Laura P. Ramos, contratou casamento o sr. Ignacio Joaquim de Sant'Anna, filho do sr. Olympio J. de Sant'Anna e d. Francisca de Sant'Anna.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Terceira coluna da página 2, reunindo as notas sociais de natalícios, nascimentos e bodas."
+        },
+        {
+          "id_conteudo": "p2_c5",
+          "tipo": "Aviso",
+          "titulo": "Pharmacia de plantão:",
+          "autor": null,
+          "texto": "Pharmacia Sto. Antonio\nPraça M. Seabra, 12",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Nota de utilidade pública ao pé da terceira coluna da página 2."
+        },
+        {
+          "id_conteudo": "p2_c6",
+          "tipo": "Humor",
+          "titulo": "Criticando...",
+          "autor": "FRANCARFRO",
+          "texto": "Parece que, com a mudança do antigo dormitorio da Central para o lado da rua Bernardino Mello, está sendo actualmente ponto de entrevistas amorosas.\nFoi o que aconteceu domingo, á noite. Passando casualmente por ali vimos «Tres Mosqueteiros (pondo suas escriptas em dia...). era o N. C., o R. M. e o player do Flamengo C.C. com duas senhoritas de Paracamby.\nAdvertimos os «felizardos que o local é improprio e muito escuro e devem procurar outro, onde poderão cantar suas balladas de... amoar.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Parte superior da quarta coluna da página 2."
+        },
+        {
+          "id_conteudo": "p2_c7",
+          "tipo": "Humor",
+          "titulo": "Embirro com...",
+          "autor": "EMBIRRADO",
+          "texto": "Certas pessoas que, no decorrer das fitas no Cine Verde, lêem os dizeres em voz alta.\nA paixão aguda do W. G.\nO R. M. dizer ser um sacrificio ir todos os domingos a Paracamby vêr a pequena.\nO namoro platonico do M. A.\nAs manias de caçada do P. A. F.\nO acabrunhamento da sta. A. S. T.\nO capote antiquario do Eugenio B.\nAs risadas invocadas do Antonio A.\nA fleugma fleugmatica do fleugmatico J. Cordeiro.\nA mania de embirrar do",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Parte inferior da quarta coluna da página 2."
+        }
+      ]
+    },
+    {
+      "numero_pagina": 3,
+      "conteudos": [
+        {
+          "id_conteudo": "p3_c1",
+          "tipo": "Humor",
+          "titulo": "Derfis",
+          "autor": "CRITICO",
+          "texto": "Distrahidos, conversavamos na Praça M. Seabra, domingo á noite quando, o Rosalvo, que se achava no nosso grupo e notando que a senhorita Z. passava por ali naquelle momento, approximou-se d'ella e perguntou:\n- Você não está exausta?\nElla, com aquelles gestos, (muito natural nas mulheres) e com um sorriso desdenhoso nos labios, respondeu:\n- Não !...\nRosalvo, com aquella cara «feixo lenha», [inelegivel] disse:\n- Aquella é a minha noiva.\nMas, interrogou o C. - porque então não passeiam juntos ?\n- Ella é demasiada excentrica! exclamou o «heróe..\n- Historias! respondeu o P., ella não está disposta a ouvir, hoje, os seus balãosinhos....\n\nMinha ex pequena ha de tirar o Concurso de Belleza d' A CRITICA custe o que custar! dizia o Toninho em uma roda de amigos.\nComo? Você não têm meios, disse o M.\n- Ella ha de tirar, nem que eu tenha de vender a ultima camisa do corpo ou quebrar pedras em S. Diogo.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Primeira coluna da página 3 (lado direito da folha dupla do PDF)."
+        },
+        {
+          "id_conteudo": "p3_c2",
+          "tipo": "Coluna Esportiva",
+          "secao": "Sportivos",
+          "titulo": "GENTE DA BOLA — C. C.",
+          "autor": "Philarmonica",
+          "texto": "E' o mais almofadinha dos nossos jogadores (com licença do Geraldo) e queridissimo da torcida iguassuana, mórmente no tocante do bello sexo. Como quasi todos os players iguassuanos que disputam o campeonato carioca, iniciou a sua carreira na Amea, jogando pelo Bangú, de onde desligou-se para o Flamengo, devido na séde do club suburbano não existir carmin nem pó de arroz, o que impossibilitava-o de desenvolver um jogo productivo e almofadado. No Iguassú tem sido astro de primeira grandeza e cooperado tanto para as victorias do seu club, que a Prefeitura, em reconhecimento dos seus gloriosos feitos, chegou a dar o seu nome a uma das ruas da nossa cidade - a Travessa Chaves.\nE' o Duque Iguassuano e figura indispensavel nos MUQUIÇOS de Mesquita e Ricardo, onde as cozinheiras (perdõe-me Rosalvo) fazem inteira questão de o ter como par e num baile realizado ultimamente em Mesquita, ao annunciarem \"belle sexo\", chegou a ficar em mangas de camisa e cueca, tal o avanço de que foi victima pelas PIMENTINHAS DO REINO, parecendo até frangos de feira no tempo da hespanhola, que chegavam a ficar em pedaços, dada a furia com que eram disputados.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Segunda coluna da página 3; perfil bem-humorado de jogador local."
+        },
+        {
+          "id_conteudo": "p3_c3",
+          "tipo": "Humor",
+          "titulo": null,
+          "autor": "Microbio",
+          "texto": "AS GUAXINIS de Mesquita ou Ricardo sentem se orgulhosas quando nos dias seguintes dos bailes contam as suas amigas as vezes que dançaram com o MOÇO MAIS DENGOSO DE NOVA IGUASSÚ. E nesse dia não ha feijão que não venha bispado para a meza.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Nota humorística ao pé da segunda coluna da página 3."
+        },
+        {
+          "id_conteudo": "p3_c4",
+          "tipo": "Humor",
+          "titulo": "Fogos de artificio",
+          "autor": null,
+          "texto": "Que tal o Circo? perguntava o Antonio Annecchino ao Christolino que acabava de assistir ao espectaculo do Circo Flamengo, do Alfinetão.\n- Francamente, não gostei, respondeu-lhe o Christolino. Demais quem assistiu o Circo Sarrassani, nada mais resta apreciar n'estes circos que aportam por aqui. Só a habilidade dos animaes fazia com que a gente ficasse abysmado.\nVocês so falam no Sarrassani, nos animaes amestrados, etc., no entanto lá na nossa fazenda, em Rezende, existe um porco que é um verdadeiro phenomeno, pois até mathematica conhece.\nA gargalhada foi geral e o Antoniquinho todo encabulado e vermelho de raiva continuou: perguntem ao Thelmo que elle lhes dirá.\nNós cortamos diversos pedaços de papelão do tamanho de cartas de baralho onde escrevemos todos os numeros.\nPapae chamava o porco e dizia: MIMOSO, pense bem e me responda. Trez kilos de toucinho a 1$500 cada um em quanto importa?\nO animal punha a pata na testa, pensava, pensava e collocava os cartões com os numeros na parede - quatro mil e quinhentos!\nO Silva pediu vaso.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Terceira coluna da página 3."
+        },
+        {
+          "id_conteudo": "p3_c5",
+          "tipo": "Máxima",
+          "titulo": null,
+          "autor": null,
+          "texto": "A FEIALDADE é a unica cousa que pode garantir a vida das mulheres.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Frase de preenchimento ao pé da terceira coluna da página 3."
+        },
+        {
+          "id_conteudo": "p3_c6",
+          "tipo": "Charadas",
+          "secao": "Logogryphos POR LETRAS / CORRESPONDENCIA / Resultado do numero anterior",
+          "titulo": "Charadas.",
+          "autor": "NERE / PEJOTA / GEN / RONALDO",
+          "texto": "Ao Nerê\nAcreditei em você, criei aqui uma secção charadistica, mas muito sugeita á censura - 1-1-1\n\nAo Ronaldo\nA primeira nota do artigo, refere se á meu bom camarada - 1-1-1.\n\nAo Ronaldo\nCom uma pedra atirada na cabeça eliminei um homem num instante - 1-2.\n\nAo Cêcê\nPelo succedido, tenho interesse em dizer, que foi tudo falsidade - 1-2.\n\nAo Ronaldo\nE' singular que me corra o pranto, ao lembrar me que já estive na cadea - 1-2. NERE\n\nLogogryphos POR LETRAS\nAo Paubar.\nNo liquido, 4, 6, 11, 4, a embarcação, 1, 8, 3, 5, 2, era grande, 8, 10, 9, 7, quando aportou a esta cidade.\n\nAo Jobar.\nA flôr 3, 2, 9, que vicejava na margem do rio 1, 8, 7, 4, foi colhida pelo homem, 5, 3, 2, 1, 8, 6 e levada para a cidade.\n\nAo Antonino.\nA oraçãozinha, 5, 17, 7, 9, 10, que o Mestre 13, 14, 15, 16, 6 possuia 1, 7, 8, 2, 10, foi dada, no Paraizo 12, 11, 3, 3, a santa que será o anjo da guarda da tua idolatrada filhinha. PEJOTA\n\nAo Jobar\nDe encarnado vivo, é pintado um palacio do Rei do jogo - 1-2.\n\nAo Dr. Brigagão\nEsta taboa, tome nota, é do filho d'uma Capital - 1-2. GEN\n\nAo Nerê\nSerá verdade que você canta uma musica celebre? - 2-1\n\nAo Cêcê\nNesta embarcação, criminoso será conduzido para um lugar funebre - 2-2\n\nAo Jobar\nEstava debaixo da pata do animal aquillo que servia de base - 1-1. RONALDO\n\nCORRESPONDENCIA:\nNewton - Vadinho - Nônô - Agenôr - Moderato - IGUASSU - Ricarti - Belmiro - Norival - Tião - Nelson - Licice - Christo - Gayão - Edson - Edmundo - Mario.\n\nResultado do numero anterior:\nNovela No. 1 - Nanico - n. 2 - Aquilino - n. 3 - Malsim - nº. 4 - Amem - n. 5 [inelegivel] - nº. 6 - Calendas.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Secção de passatempos e charadas da página 3."
+        },
+        {
+          "id_conteudo": "p3_c7",
+          "tipo": "Coluna Esportiva",
+          "titulo": "Critica Sportiva",
+          "autor": null,
+          "texto": "Realisa-se, hoje, no bello campo do S. C. Iguassú, o grande festival em homenagem ao exmo, snr. Manoel Duarte, illustre presidente deste Estado.\nAlem da prova principal entre o campeão da cidade e o glorioso campeão de terra e mar da Capital, Club de Regatas Flamengo, outras provas terão logar, dispertando taes encontros a maior ansiedade em nosso meio. Aos vencedores serão offerecido valiosos e artisticos tropheos.\nA ultima parte dessa festa imponente constará de um pomposo baile na séde do Iguassú, onde tocará um esplendido jazz band.\nOs teams que disputaram a prova principal estão assim constituidos:\nFLAMENGO\nAmado - Couto - Helcio\nRubens - Flavio - Benevenuto\n[inelegivel]",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Parte superior da última coluna da página 3; a escalação completa encontra-se truncada/ilegível na borda."
+        },
+        {
+          "id_conteudo": "p3_c8",
+          "tipo": "Concurso",
+          "titulo": "Concurso de Belleza",
+          "autor": "A Redacção",
+          "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nGuilhermina Gomes . 19\nDalila Moura . 12\nDiva Marinho . 10\nLaura Sampaio . 9\nGuajajara Pereira . 9\nMercedes Pimenta . 8\nYolanda Sampaio . 8\nOdila Soares . 8\nAyxa Soares . 7\nAvany R. da Silva . 6\nJure mira Pereira . 5",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Apuração parcial do Concurso de Beleza na última coluna da página 3."
+        },
+        {
+          "id_conteudo": "p3_c9",
+          "tipo": "Anúncio Comercial",
+          "titulo": "CINEMA VERDE",
+          "autor": "Cinema Verde",
+          "texto": "HOJE! HOJE!\n\"CORPO E ALMA\"\nGrandioso drama em 7 actos, por A. Pling.\nOs 5 e 6 episodios do film en series, «Mil contos de Premio» e uma comedia.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio cinematográfico na última coluna da página 3."
+        },
+        {
+          "id_conteudo": "p3_c10",
+          "tipo": "Concurso",
+          "titulo": "CONCURSO DE BELLEZA",
+          "autor": null,
+          "texto": "VOTO EM\nAs.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Cupom recortável ao pé da última coluna da página 3."
+        }
+      ]
+    },
+    {
+      "numero_pagina": 4,
+      "conteudos": [
+        {
+          "id_conteudo": "p4_c1",
+          "tipo": "Crônica",
+          "titulo": "FESTA SPORTIVA",
+          "autor": "SARA J. B. DO CORREIA",
+          "texto": "NOSSA cidade experimentou, domingo ultimo, um novo aspecto. Vimo-la despertar, sorridente e bem movimentada. E' que, no \"groud\" do club local, realizar-se-ia um festival encantador. A tarde, rumei para lá: e, em lá chegado; bandeiras, multidão e musica davam a nota festiva, realçada pela graça feminina. E'coava por todo o canto a voz alégre da mocidade que, como um melro sonhador, enchia de encanto e de vida, aquelle recanto, engalanado.\nEm meio a tudo isto, não me escapuliu um suspiro prolongado que alguem soltou, quando os moços do Flamengo passaram pela esquina mais proxima do campo.\nQue ansiedade! hein senhorita? Mas um \"flirt\"... que tal?\nAfinal, iniciou-se a partida. Transcorreu, renhida, leal, cortez e emmocionante; porêm a victoria quiz ser justa e não sorriu a nenhum dos quadros disputantes.\nTerminada esta parte do programma, seguiu-se ás segunda e terceira, sendo que esta ultima brilhou em apogéo, assegurando á commissão, parabem geral.\nFoi magnifica e sublime!\nNoite de alegria!\nA musica: Divinal. No salão, artisticamente ornamentado, as luzes pareciam namorar as cortinas, pendentes das sacadas. Aprendi a crer na alma de tudo porque creio na alma das cousas; porisso a alma de tudo, ali, tinha mais graça e elegancia,\nTerpsychóre parecia sorrir pela alma das cousas... Ao rythimo dos passos, respondia a harmonia das véstes... Belleza! Primor! Deslumbramento !... A noite estava linda e, no céo, as estrellas se nos surgiam com beijos de prata ao sorriso de todas, porque todos sorriam...\nEu quizera terminar aqui, mas algo me fez lembrado, portanto, que sejam mais pacientes, os queridos leitores: - Lembrei me das valsas divinaes que écoaram no salão, como canticos angelicáes, ao som dos quaes tremem pedaços do céo... Quiz dança las tambem e, dançando as, vi que, nos angulos do salão os nossos queridos paes sentiam; talvez, a alma evolar-se para o passado e ahi se remoçar. Na sua imaginação saudosa, brilharam, diante daquelles sons, as illusões da vida que se extinguiram com o sonho da mocidade... Recordar é viver! Sim, devemos recordar, mas é bem triste a morte do sonho diante da realidade.\nPorisso, em meio a tanto riso, a tanta graça e a tanta alegria, eu me senti entristecido após aquellas valsas, porque notei, naquelles rostos, remoçados pelo enlêvo, que um sorriso se desenhara; - o mais sublime sorriso da vida porque, vehiculo de apparente alegria, na essencia nada mais éra que o pranto da saudade a emanar do coração que é sempre moço - porque sábe sentir...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Nota: A 3ª folha do PDF anexado corresponde à Página 1 da Edição Num. 6 (Anno I, Domingo, 22 de Julho de 1928). Este texto ocupa a primeira coluna."
+        },
+        {
+          "id_conteudo": "p4_c2",
+          "tipo": "Poesia",
+          "titulo": "Não me tentes mulher!",
+          "autor": "Humberto Marsicano",
+          "texto": "Não me tentes mulher, por compaixão,\nDeixa que eu siga o meu destino incerto.\nPois, quanto mais de ti me vejo perto,\nMais torturado sinto o coração.\n\nDeixa que eu viva sempre na illusão,\nQue esta vida é um arido deserto\nE sem o teu amor seria um céu aberto\nPorque só elle traz desillusão.\n\nDeixa que eu siga só o meu caminho,\nPois apesar de ter o teu carinho\nFalta-me a liberdade de expandir.\n\nEsta ancia louca, atroz, que me devora\nDe ver o amor morrer logo que inflora,\nSe acaso o teu amor usufruir...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Soneto publicado na coluna central da Página 1 da Edição Num. 6 (Domingo, 22 de Julho de 1928), 3ª folha do PDF."
+        },
+        {
+          "id_conteudo": "p4_c3",
+          "tipo": "Crônica",
+          "titulo": "TUA JANELLA VERDE",
+          "autor": "CONDE D'ALBA",
+          "texto": "A' CI...\nE' hoje tão deserta a tua janella verde. Qual gaiola de onde fugira o passaro captivo, é hoje muito triste a tua janella verde.\nOutr'ora, pela manhã, á tua janella verde assomavas e zelavas cuidadosa pelas flores... O teu busto senhoril dominava do alto de tua janella, e quão feliz era, ao vel a sorrir num Bom-dia e que sorriso, lindo e franco sorriso.\nHoje o scenario mudou completamente: tua janella, assim, fechada é muito triste. Pela manhã não tenho mais o teu bom-dia, nem o teu lindo sorriso.\nNão fostes para longe, é verdade, mas transferistes o ninho para onde difficilmente te poderei vêr.\n[inelegivel]-me, comtudo, um suave consolo, possuindo a certeza que ainda me olhas com alguma sympathia.\nE, sempre que te encontro e sorris com esse lindo sorriso que te é tão peculiar, sinto, que uma immensa alegria me invade o todo, que nem mesmo sei explicar.\nMas, se melhor soubesses comprehender esse sublime [inelegivel] que se aninha em meu peito de joven, talvez, fosse mais feliz...\nTodavia, continuarei a fitar tua janella verde, que é a cor da esperança e continuarei a esperar e quem sabe, talvez um dia alcançarei o que almejo... e, então, quebraremos os élos que nos prendem e seremos felizes...",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Coluna da direita da Página 1 da Edição Num. 6 (Domingo, 22 de Julho de 1928), 3ª folha do PDF."
+        },
+        {
+          "id_conteudo": "p4_c4",
+          "tipo": "Anúncio Comercial",
+          "titulo": "AÇOUGUE CENTRAL",
+          "autor": "RODOLPHO ANNECCHINO & FILHO",
+          "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRODOLPHO ANNECCHINO & FILHO\nNOVA IGUASSU\nRUA M. FLORIANO, 198",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c5",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue União",
+          "autor": "Ernesto Moreira",
+          "texto": "DE Ernesto Moreira\nFornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MARECHAL FLORIANO, 1\nNova Iguassú E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c6",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Dispensa Globo",
+          "autor": "F. Raunheitti & C.",
+          "texto": "BOM E BARATO\nImportação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente,\nF. Raunheitti & C.\nRua Marechal Floriano Peixoto, 198\nNova Iguassu E do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c7",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Vidraceiro da Matriz",
+          "autor": "BELMIRO VIEIRA FERNANDES & C",
+          "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc, Grande variedade de estampas, espelhos e molduras para quadres, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes.\nFolhinhas, cartões, etc.\nBELMIRO VIEIRA FERNANDES & C\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilopolis:\nAv. Lazaro de Almeida, 195",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c8",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Pharmacia Iguassú",
+          "autor": null,
+          "texto": "(Proximo á Estação\nRUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c9",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Padaria e Confeitaria Trez Nações",
+          "autor": "ESTEVES & IRMÃO",
+          "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nESTEVES & IRMÃO\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU' Estado do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c10",
+          "tipo": "Anúncio Comercial",
+          "titulo": "DR. MONTE MO'R FILHO",
+          "autor": "DR. MONTE MO'R FILHO",
+          "texto": "CONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas.\nDR. MONTE MO'R FILHO\nNOVA IGUASSU' E. DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c11",
+          "tipo": "Anúncio Comercial",
+          "titulo": "A Nova Mundial",
+          "autor": "ANTONIO PEREIRA DIAS",
+          "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nANTONIO PEREIRA DIAS\nPRAÇA M. SEABRA, 4\nNOVA IGUASSU E. DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c12",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Tinturaria Elite Fluminense",
+          "autor": "ALVARO ROBLES QUINTANA",
+          "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa,\nALVARO ROBLES QUINTANA\nPRAÇA M. SEABRA, 30-Nova Iguassú-E. do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c13",
+          "tipo": "Anúncio Comercial",
+          "titulo": "\"Alfaiataria Silva\"",
+          "autor": "MANOEL SILVA",
+          "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorqué V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem se ternos em 24 horas-Confecções de roupas brancas\nMANOEL SILVA\nPRAÇA M. SEABRA, 10-Nova Iguassù E. do Rio",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c14",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Açougue São Jorge",
+          "autor": "FERREIRA & FERREIRA",
+          "texto": "FERREIRA & FERREIRA\nTem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116 NOVA IGUASSU'",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c15",
+          "tipo": "Anúncio Comercial",
+          "titulo": "CASA ADORNATIVA",
+          "autor": "João Carias",
+          "texto": "Caixões mortuarios de qualquer classe para anjos e adultos-Acceitam-se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nJoão Carias-Rua M. Floriano Peixoto, 144\nNOVA IGUASSU' ESTADO DO RIO",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        },
+        {
+          "id_conteudo": "p4_c16",
+          "tipo": "Anúncio Comercial",
+          "titulo": "Velóz",
+          "autor": "MOACYR & FILHO",
+          "texto": "AGENCIA DE TRANSPORTES\nE AUTOS PARA PASSEIO ::::\nFornece materiaes para construcções\nMOACYR & FILHO RUA RITA GONÇALVES, 937\nNOVA IGUASSU",
+          "recursos_visuais": false,
+          "notas_pesquisador": "Anúncio no cabeçalho da Página 1 da Edição Num. 6 (22 de Julho de 1928)."
+        }
+      ]
+    }
+  ]
+}

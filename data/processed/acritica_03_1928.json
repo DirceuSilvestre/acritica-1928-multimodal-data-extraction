@@ -1,0 +1,177 @@
+[
+  {
+    "periodico": {
+      "id_jornal": "acritica_ni",
+      "nome": "A CRITICA",
+      "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+      "proprietarios": ["Avelino Azeredo", "Sylla Filizola"],
+      "local_publicacao": {
+        "cidade": "Nova Iguassú",
+        "estado": "Rio de Janeiro",
+        "pais": "Brasil"
+      }
+    },
+    "edicao": {
+      "id_edicao": "acritica_ano1_numero3_19280701",
+      "ano_romano": "I",
+      "numero": 3,
+      "data_publicacao": "1928-07-01",
+      "data_impressa": "Domingo, 1 de Julho de 1928"
+    },
+    "paginas": [
+      {
+        "numero_pagina": 1,
+        "conteudos": [
+          {
+            "id_conteudo": "ed3_p1_c1",
+            "tipo": "Conto",
+            "titulo": "RAIZ QUA-DRADA",
+            "autor": "Sá Pinho",
+            "texto": "A escola estava repleta de alumnos, sua capacidade se achava esgotada. Os meninos sentavam-se tres a tres em cada banco, fazendo os da pontas verdadeiros prodigios equilibristicos para se susterem sentados. Mesmo assim, de quando em vez, um, ou por ter sido empurrado pelo companheiro ou mesmo para fazer graça, cahia redondamente no chão, pondo a classe em franca hilaridade, apezar da rispidez do mestre que, nestas occasiões, se tornava verdadeiro carrasco. Nesse dia, as aulas já iam em meio, pouco faltando para o recreio. O professor estava no seu elemento, a tomar uma lição de arithmetica, materia para a qual tinha grande inclinação. Seus alumnos eram peritos calculadores, emeritos solucionadores de problemas e bons destrinçadores de difficeis [inelegivel]. Entre elles se encontrava o Abdias, alumno novo, matriculado na vespera. O professor, talvez esquecido dessa circumstancia ou por isso mesmo, chama-o em primeiro logar á lição. - Abdias, diz o mestre, vá extrahir uma raiz quadrada. O menino levanta-se immediatamente e se dirige para a porta a qual transpõe, com surpreza geral, [inelegivel]. O professor interpella-o com severidade. - Estou procurando a raiz quadrada, seu fessô, diz Abdias timidamente. O professor, pensando, talvez, ter ido elle satisfazer alguma necessidade physiologica, chama outro alumno, continuando a lição. Na hora do recreio, dirigem-se todos para o pateo e, com espanto geral, dão com o pobre Abdias, agachado, cavando a terra, com as vestes e as mãos sujas da mesma e suando de fazer pena.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p1_c2",
+            "tipo": "Humor",
+            "titulo": "Definições burlescas",
+            "autor": null,
+            "texto": "CASA - Immovel que, custando os olhos da cara, possuimos muitos... em nossas vestes.\nFACCADA - Lesão feita no bolso do proximo por pessoa amiga ou mesmo desconhecida.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p1_c3",
+            "tipo": "Poesia",
+            "titulo": "Você",
+            "autor": "Jayme D'Altavilla",
+            "texto": "Você resume tudo o que sonhei na vida:\nGloria, belleza, amor, dominio, perfeição,\nTudo que persegui numa doida corrida!\nTudo que me fugiu ao alcance da mão.\nQuando vejo Você, fico de alma florida,\nPorque Você é luz, é perfume, é canção...\nVocê é para mim a idéa mais querida,\nA chimera mais linda, a mais doce emoção.\nVocê tem uma voz de canario captivo:\nVocê tem um sorriso encantador e um quê\nDe vaidade, no olhar eloquente e expressivo...\nE você, apesar de tudo isso, não vê,\nInda não comprehende, ante o enlevo em que vivo\nQue o mundo para mim se resume em Você.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p1_c4",
+            "tipo": "Crônica",
+            "titulo": "Infantilidade",
+            "autor": "CRUCIS",
+            "texto": "Uma carta, um bilhete de mulher... A gente, sempre que recebe uma carta ou um simples bilhetinho de mulher, experimenta muita vez a delicia nova de perturbadora emoção... Foi o que, ainda hontem, me aconteceu. Escreve-me uma senhorita, que deve, por certo, ser bella, pois ha de ser forçosamente bonita a mulher que, escrevendo, diz cousas com tanta graça e [inelegivel] do que escreve... E formula vagas hypotheses, com a habilidade de uma autoridade policial: \"Ha saudades de mulher na tua literatura... Talvez seja amor. Cupido, com as suas travessuras, até naquillo que se escreve costuma deixar, occulta em semivelada melancolia, a lembrança de sua maldade\". A graciosa senhorita é [inelegivel] intelligente e vê sensivelmente o seu tempo... Quem ainda conseguiu penetrar o luminoso mysterio das estrellas? Quem poude até hoje explicar a doença romantica das rosas? E as vozes occultas das lagrimas que ás vezes ouvimos nas supremas horas nocturnas de nossa alma... Ah! não queira saber, senhorita, as origens da minha tristeza... Respondo-lhe apenas isto: esqueci bem de pressa os seus elogios á minha hypothetica intelligencia, do mesmo modo que costumo esquecer o mal que me fazem... Quanto ao perfume da sua carta gentil, acredite-me guardei-o egoisticamente, bem no fundo do coração....",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p1_c5",
+            "tipo": "Humor",
+            "titulo": "BARBEIRINHOS",
+            "autor": null,
+            "texto": "Os homens amam as mulheres e detestam o casamento. As mulheres amam o casamento [inelegivel]",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          }
+        ]
+      },
+      {
+        "numero_pagina": 2,
+        "conteudos": [
+          {
+            "id_conteudo": "ed3_p2_c1",
+            "tipo": "Artigo",
+            "titulo": "Janua cœli - A porta do céo...",
+            "autor": "SARA J. B. DO CORREIA",
+            "texto": "Quando o sól brilha no oriente, assignalando-nos o dia vinte e nove p. p.; desenhou a perspectiva duma estrada; não espaçósa, porém apertada. Pela primeira, espaçósa, que conduz á perdição, [inelegivel] poucos os que acertam com a segunda, por que esta conduz á vida. Nella encontramos uma porta estreita, cuja chave permanece, como gloria e premio, nas mãos do pescador rude que, por três vezes, negou a Deus. Portanto, festejamos a Pedro, o velho pescador certo, festeja-nos tambem chave do céo. Deus conferiu a este homem, a principio, de pouca fé, o distico sublime, prenhe de confiança e [inelegivel]: Pedro, tú és pedra, e sobre esta pedra, edificarei a minha egreja. E, si a elle legou este distico e o penhor celeste \"clavis cœli\", a fim de que, com elle, pudesse abrir a porta da immortalidade, aos predestinados pelo bem, por isso se nos faz louvar no santo pescador. E aquelles que, na vida terrena, soffrem pela lucta, no caminho da dor, em busca da perfeição, na pratica do amor, da caridade e do perdão — estes, émulos do senhor, brilhará, num giro de luz, a chave do céo, segurando-lhes, no paraiso, proximos de Deus, a causa por que todos luctam, aqui na terra e que só é dado alcançar pelo soffrimento, etapa final que nos aponta a perfeição.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p2_c2",
+            "tipo": "Crônica",
+            "titulo": "A Lagrima",
+            "autor": "Lury",
+            "texto": "Lagrima! Tu, oh! lagrima, representas muita cousa para a humanidade!... Nella, em tudo, ha vida, [inelegivel] somos espesinhados, oh! tu, perola crystallina que rolas pelo rosto, deslisas pela face; a Lagrima, diz o poeta, é o lenitivo da dôr, synthetisando o elemento humano. Mas não é só no chorar das tristezas, quando nos despedaçamos no batel da vida, quando se desencadeiam sobre nós, [inelegivel] Tambem aos poucos por [inelegivel] cala-te, oh! mysteriosa lagrima, surges e te vestes de uma fonte alegre, de um manancial de jubilo quando a emoção de uma alegria doirida da felicidade nos bate ás portas do coração... E assim, és tu o manifesto expontaneo de nossa alma, de nossa vida, verdadeiras rajadas de agonia e de dor. Em nosso peito, tu varias... Ora surges dos ternos e sublimes olhos de uma mãe, fonte mais pura, espelho de amor e carinho! Esta é a lagrima, material, que nasce nos vergels immaculados de uma mãe querida, é a lagrima da verdade e pura [inelegivel] innocente da criança. E dessas lagrimas todas, representas tambem a da velhice — como a mais triste volvendo os olhos para o passado, para as reminiscencias de dias felizes de quando sentira a chamma dardejante desse facho grandioso que illumina o coração de todo aquelle que passou pela primavera da vida, quadra das chimeras, a lagrima do martyrio... És lagrima de um ente querido, regando a campa de sacrosanto ser que nos é caro, como que dizendo: Eis-nos aqui... E a lagrima das saudades, na lagrima da dor... E' ainda tu, oh! lagrima, és mais doce, és mais pura, és mais doce dos [inelegivel] Bemdicta sejas tu, oh lagrima!",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p2_c3",
+            "tipo": "Crônica",
+            "titulo": "DISSILUSÃO - A ELZINHA",
+            "autor": "ROD LA ROCQUE",
+            "texto": "Sinto que a vida me foge e todo meu ser se paralisa como que dominado atrozmente, por extranha força, [inelegivel] Mezes já se vão que meu coração deixou-se escravisar por esta força superior. Formei castellos, que cruelmente estão sendo desfeitos aos poucos por fataes cataclysmos da dissilusão. Contudo conservo, como unico lenitivo as minhas sublimes imprecações [inelegivel] que jaz no pó do passado, abatido pela dissilusão. A existencia nos é extremamente certa e ás vezes prematura. E porque [inelegivel] Simplesmente por ser nos como o manto é dos infelizes esperar cheio de crença, nas tuas doces e meigas palavras a recompensa que me fará ditoso. A [inelegivel] da nossa existencia é amar nas ilusões, o valle profundo de lagrimas, o cantaro, emfim que se encontra o liquido da desventura. Se me [inelegivel] obterei a recompensa de um sublime e tão desejado amor.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p2_c4",
+            "tipo": "Coluna Social",
+            "titulo": "SILHUETAS FEMININAS - D. S.",
+            "autor": "Sonhador",
+            "texto": "Até aqui tenho tratado das morenas, querendo fazer das [inelegivel] não deverão esquecer do typo intermediario ou transição. A sympathia tem a semelhança do iman; este mostra seu poder atrahindo os corpos, aquelle demonstra a sua bella força approximando, e ás vezes, eternamente unindo dois corações [inelegivel] pensada e [inelegivel], haverá tambem [inelegivel], existirá tambem um intermediario, mais difficil, talvez, na analyse, por possuir caracteres de ambos os typos. Estou, pois entre a loura e a morena. D. S. é mais moça que sua mana, tambem menor no nome, malgrado a mesma inicial. E' um typo \"mignon\", muito sympathico e original. Olhos azues. Clara [inelegivel] Olhos arredondados, cabellos [inelegivel] Boca pequenina das morenas e voz meiga das louras e doce das morenas. Alma romantica das morenas, com certa dose da franqueza que é peculiar [inelegivel] Revela no trato cortez, sendo muito estimada de ambos os sexos que contempla.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p2_c5",
+            "tipo": "Coluna Social",
+            "secao": "Critica Social",
+            "titulo": "NATALICIOS",
+            "autor": null,
+            "texto": "A 28 do mez findo fez annos [inelegivel] Francisco Pimenta, dentista muito acreditado em nosso meio e cavalheiro estimadissimo de nossa sociedade. Hoje, transcorre a passagem de sua data primaveril a galante [inelegivel] sobrinha do cel. Carlos A. de Mattos, illustre collector estadual. Tambem [inelegivel]",
+            "recursos_visuais": false,
+            "notas_pesquisador": "Agrupamento de aniversariantes locais."
+          },
+          {
+            "id_conteudo": "ed3_p2_c6",
+            "tipo": "Coluna Social",
+            "secao": "Critica Social",
+            "titulo": "BODAS",
+            "autor": null,
+            "texto": "Realisou-se o enlace matrimonial da [inelegivel] Maria do Carmo P. filha do sr. Antonio de Souza Fernandes e de d. Maria Julia Fernandes, com o distincto joven Waldemar Garcia.",
+            "recursos_visuais": false,
+            "notas_pesquisador": "Registro de casamento local."
+          }
+        ]
+      },
+      {
+        "numero_pagina": 3,
+        "conteudos": [
+          {
+            "id_conteudo": "ed3_p3_c1",
+            "tipo": "Coluna Esportiva",
+            "secao": "Perfis sportivos",
+            "titulo": "GENTE DA BOLA - W. S.",
+            "autor": "Microbio",
+            "texto": "Vocês conhecem aquelle [inelegivel] sympathia entre jogadores do Iguassú, é realmente estimadissimo por todos. Quando enverga aquelle terno [inelegivel] Ras do Sul, Frederico o Larga [inelegivel] João Torres, etc., [inelegivel] não permitte affirmativa de tudo, [inelegivel] Primo Cayão, [inelegivel] em que tomou parte, [inelegivel].",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p3_c2",
+            "tipo": "Crônica",
+            "titulo": "Fogos de artificio",
+            "autor": null,
+            "texto": "Vencedor do concurso de [inelegivel] de gato [inelegivel] com o tobo de fóra? Perguntava Damião aos demais membros da roda [inelegivel] continuou - mas sabem que [inelegivel] por dentro, e isto foi originado por [inelegivel] Quando removido para [inelegivel] - Frontin, sabendo que o Agente de lá gostava immensamente de gatos, resolveu levar dois \"mimos\" que depois de [inelegivel] aquelle gato [inelegivel] commoveo ha oito anos, sendo mesmo considerado membro da familia, tendo embrulhado o [inelegivel] em um jornal do commercio que [inelegivel] com algumas [inelegivel]. Até Belém [inelegivel] muito bem, mas quando ouviu os gritos: - SIMÃO CHERA, ESTA MISERAVEL MATOU MINHA FILHA! O certo é que minutos depois chegava [inelegivel] correndo em Nova [inelegivel] fazendo muitas pessoas [inelegivel] vendedores de queijo [inelegivel] depois que [inelegivel] minutos [inelegivel] por algum presente de um [inelegivel]. Não [inelegivel] um modo siquer, [inelegivel] notei que um passageiro moço [inelegivel] que viajava ao meu lado [inelegivel] serenamente [inelegivel] dos demais infantes tambem ao olharem na [inelegivel] lado, e [inelegivel] gargalhadas. [inelegivel] chefe do trem approximou-se de mim, convidou-me [inelegivel] do gato [inelegivel] que embora muito bem [inelegivel] encontrado [inelegivel] fui eu.",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p3_c3",
+            "tipo": "Entretenimento",
+            "titulo": "Charadas",
+            "autor": null,
+            "texto": "1 - Quem praticar o delicto, merece compaixão porque é criminoso - 2-1. Ao dr. Cledon Cavalcanti - RONALDO\n2 - [inelegivel] 2-2. Ao Jovelino Bulhões - RONALDO\n3 - Tem culpa quem na [inelegivel] morre, graças á saúde esplendida - 2-1. Ao Avelino - PAB\n4 - [inelegivel] posto aqui para observar e prevenir o que possa acontecer - 1-1-1. Ao Sylla - SA PINHO\n5 - Repete o tempero e colloca nesse pequeno sacco - 2. Ao Ronaldo - SA PINHO\n6 - Em Cascadura, á beira mar, existe uma linda praia de banhos - 1-2. Ao Ronaldo - PAURAV\n7 - Pelo que mereces [inelegivel], tens cara de quem está com [inelegivel] - PAURAV",
+            "recursos_visuais": false,
+            "notas_pesquisador": null
+          },
+          {
+            "id_conteudo": "ed3_p3_c4",
+            "tipo": "Notícia",
+            "titulo": "Concurso de Belleza",
+            "autor": null,
+            "texto": "Satisfazendo á justa curiosidade de muitos de nossos amaveis leitores, manifestada nos insistentes pedidos que nos têm endereçado, iniciamos no presente numero um concurso de belleza entre as senhoritas desta cidade. Qual das nossas jovens é a mais bella? Eis o que constitue a finalidade deste interessante certamen pelo qual se interessa [inelegivel] vem mostrar tal acontecimento com enthusiasmo. A brilhante mocidade iguassuana, que nos leva a acreditar no seu exito mais completo. O concurso ora patrocinado pela CRITICA será encerrado dentro de 10 dias e á proporção que formos recebendo os votos das candidatas iremos publicando a contar do inicio do pleito. As vencedoras [inelegivel] 3 logares este jornal offerecerá delicados mimos, que serão expostos opportunamente em uma das vitrinnes de importante casa commercial. Abaixo publicamos o coupon que deverá ser enviado á redacção, depois de cheio pelo leitor o nome da candidata de [inelegivel] escripto com clareza, sendo indispensavel em cada coupon a assignatura do votante, sem o que os votos não são apurados.\nCONCURSO DE BELLEZA - VOTO",
+            "recursos_visuais": false,
+            "notas_pesquisador": "Acompanhado de cupom de votação."
+          }
+        ]
+      }
+    ]
+  }
+]
