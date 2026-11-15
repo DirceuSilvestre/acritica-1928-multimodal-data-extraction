@@ -30,7 +30,7 @@
           "secao": "[PREENCHER: nome da seção se houver, ou null]",
           "titulo": "[PREENCHER: Título exato do bloco]",
           "autor": "[PREENCHER: Nome do autor/assinatura se houver, ou null]",
-          "texto": "[PREENCHER: Transcrição OCR literal. Use '[inelegível]' para trechos danificados]",
+          "texto": "[PREENCHER: Transcrição OCR literal. Use '[ilegível]' para trechos danificados]",
           "recursos_visuais": "[PREENCHER: true (se tiver fotos/clichês) ou false]",
           "notas_pesquisador": "[PREENCHER: Observações sobre desgastes, formatação ou contexto, ou null]"
         }
