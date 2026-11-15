@@ -1,1 +1,0 @@
-Obedecendo a formatação json do arquivo em anexo, extraia do pdf anexado, tratando o pdf como uma imagem, o texto integral de cada uma das reportagens da imagem, com toda a verossimilhança, com as exatas mesmas palavras que se apresentam na imagem, sem qualquer alteração, e no lugar das palavras que nao conseguir compreender, utilize "[inelegivel]".
