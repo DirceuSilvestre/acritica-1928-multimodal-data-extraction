@@ -32,56 +32,6 @@
             [
                 {
                     "id_conteudo": "p1_c1",
-                    "tipo": "Anúncio Comercial",
-                    "secao": null,
-                    "titulo": "Tinturaria Elite Fluminense",
-                    "autor": "ALVARO ROBLES QUINTANA",
-                    "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas Limpa e passa ternos em 30\nminutos. Tinge e lava fazendas finas, como: Seda voile.\netc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa.\nALVARO ROBLES QUINTANA\nPRAÇA M. SEABRA, 30-Nova Iguassú-E do Rio",
-                    "recursos_visuais": false,
-                    "notas_pesquisador": "Anúncio localizado após o cabeçalho principal da edição 2."
-                },
-                {
-                    "id_conteudo": "p1_c2",
-                    "tipo": "Anúncio Comercial",
-                    "secao": null,
-                    "titulo": "\"Alfaiataria Silva\"",
-                    "autor": "MANOEL SILVA",
-                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorque V. Exc. não experimenta esta casa? Verá\nque no fim do anno fará uma economia\nde 40% nas suas despesas.\nFazem se ternos em 24 horas-Confecções de roupas brancas\nMANOEL SILVA\nPRAÇA M. SEABRA, 10-Nova Iguassů E. do Rio",
-                    "recursos_visuais": false,
-                    "notas_pesquisador": null
-                },
-                {
-                    "id_conteudo": "p1_c3",
-                    "tipo": "Anúncio Comercial",
-                    "secao": null,
-                    "titulo": "Açougue São Jorge",
-                    "autor": "FERREIRA & FERREIRA",
-                    "texto": "Tem sempre superiores carnes de vac\nca e de porco, sendo todas ellas de\nprocedencia dos Matadouros de Sta..\nCruze Mendes. A unica que terá breve\ntéla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116\nNOVA IGUASSU'",
-                    "recursos_visuais": false,
-                    "notas_pesquisador": null
-                },
-                {
-                    "id_conteudo": "p1_c4",
-                    "tipo": "Anúncio Comercial",
-                    "secao": null,
-                    "titulo": "CASA ADORNATIV",
-                    "autor": "João Carias",
-                    "texto": "Caixões mortuarios de qualquer classe para anjos e\nadultos-Acceitam se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancaя.\nJoão Carias-Rua M. Floriano Peixoto, 144\nESTADO DO RIO\nNOVA IGUASSU",
-                    "recursos_visuais": false,
-                    "notas_pesquisador": null
-                },
-                {
-                    "id_conteudo": "p1_c5",
-                    "tipo": "Anúncio Comercial",
-                    "secao": null,
-                    "titulo": "Velóz",
-                    "autor": "MOACYR & FILHO",
-                    "texto": "AGENCIA DE TRANSPORTES\nE AUTOS PARA PASSEIO::::\nFornece materiaes para construcções\nMOACYR & FILHO\nRUA RITA GONÇALVES, 937\nNOVA IGUASSU",
-                    "recursos_visuais": false,
-                    "notas_pesquisador": null
-                },
-                {
-                    "id_conteudo": "p1_c6",
                     "tipo": "Crônica",
                     "secao": null,
                     "titulo": "Fogos de São João -",
@@ -91,7 +41,7 @@
                     "notas_pesquisador": "O texto continha falhas de OCR que foram transcritas literalmente ('véo da névé', 'veiños', 'fci')."
                 },
                 {
-                    "id_conteudo": "p1_c7",
+                    "id_conteudo": "p1_c2",
                     "tipo": "Poesia",
                     "secao": null,
                     "titulo": "ESPERO...",
@@ -101,7 +51,7 @@
                     "notas_pesquisador": null
                 },
                 {
-                    "id_conteudo": "p1_c8",
+                    "id_conteudo": "p1_c3",
                     "tipo": "Crônica",
                     "secao": null,
                     "titulo": "Casca dura",
@@ -111,7 +61,7 @@
                     "notas_pesquisador": "Falhas de OCR na junção de colunas ('ex Madureira' e trechos fragmentados)."
                 },
                 {
-                    "id_conteudo": "p1_c9",
+                    "id_conteudo": "p1_c4",
                     "tipo": "Anúncio Comercial",
                     "secao": null,
                     "titulo": "Cine Verde",
