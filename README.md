@@ -25,7 +25,7 @@ Em vez de depender de *parsers* rígidos ou de solicitar resumos genéricos à I
 3. **Critério de Domínio (*Human-in-the-Loop*):** Incorporação da metodologia de historiadores para sinalizar trechos comprometidos pela degradação física do papel ou tinta com a tag padronizada `[inelegivel]`, evitando que a IA "adivinhasse" palavras ausentes.
 4. **Auditoria de Qualidade e EDA Executiva:** Validação cruzada entre arquivos para detecção de anomalias de digitalização, deduplicação de registros e síntese de indicadores de negócio (`reports/dossie_executivo_clevel.pdf`).
 
-![Modelo de Grafo — Estrutura de Dados JSON](assets/modelo_grafo_json.png)
+![Modelo de Grafo — Estrutura de Dados JSON](assets/modelo_grafo_json.jpeg)
 
 ---
 
