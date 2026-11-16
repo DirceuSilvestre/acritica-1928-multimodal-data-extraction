@@ -1,0 +1,414 @@
+{
+    "periodico": 
+    {
+        "id_jornal": "acritica_ni",
+        "nome": "A CRITICA",
+        "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+        "proprietarios": 
+        [
+            "Avelino Azeredo",
+            "Sylla Filizola"
+        ],
+        "local_publicacao": 
+        {
+            "cidade": "Nova Iguassú",
+            "estado": "Rio de Janeiro",
+            "pais": "Brasil"
+        }
+    },
+    "edicao": 
+    {
+        "id_edicao": "acritica_ano1_num9_19280812",
+        "ano_romano": "I",
+        "numero": "9",
+        "data_publicacao": "1928-08-12",
+        "data_impressa": "Domingo, 12 de Agosto de 1928"
+    },
+    "paginas": 
+    [
+        {
+            "numero_pagina": 1,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p1_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Via-Crucis.",
+                    "autor": "SARA J. B. DO CORREIA",
+                    "texto": "A vida é soffrimento porque é resultante de lutas. Adolescentes, sentimo-lo nullo, porque sorrimos sempre, abraçados no sonho. Um dia o sol brilha demais e o relogio consciencia indica o verdadeiro \"Struggle for life\":-Então compreendemos a vida. Quéda sobre quéda, contrariedades, sobresaltos, perspicácia, inimigos; emfim, todos os elementos das grandes batalhas. Inicia-se a luta. Rompemos a fita e inauguramos a \"Via-Crucis\". Seguimos;-pelo caminho, tropeços mil, inveja, amigos ursos, lobos com péle de cordeiro; emfim, a humanidade sempre hypocrita. Quando, quasi exhaustos, procuramos descanço na beira da estrada e pensamos em retroceder; ouvem-se um \"Ergue-te e vae. Respeita o teu destino.\nRasga estradas reáes por invias sendas.\nO teu templo constróe. Canta o teu hymno.\nDo soffrimento extráe versos e lendas...\nSim, divinizent dertraversinlendas...\nRiso, o riso immortal, não desaprendas\"!\nEntão ressucitados pela verdade, reanimados pelo talento do poéta, reerguemos-nôs, sem vaciilação, humilhados, porque,-sol e verdade são as unicas cousas que o homem normal não póde encarar. Choremos, mas saibamos chorar, sorrindo... A dôr, sob o manto do sorriso é menos dôr e a lagrima mais lagrima... Sejamos fortes, atravéz da nossa VIA CRUCIS: -A glória, está no calvario e, para que possamos alcança-la, é mistér que cheguemos coroados de espinhos...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Erro de OCR em 'divinizent dertraversinlendas...'. O texto 'cheguemos coroados de espinhos' possui erro de quebra no original 'que pinhos'."
+                },
+                {
+                    "id_conteudo": "p1_c2",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "MEMORA-ME",
+                    "autor": "JARBAS",
+                    "texto": "(Ao Avelino, alma irmã no sentimento, fragmento de minh'alma).\nEstrellas que brilhais no céo lindo e prateado,\nque do alto um beijo de oiro em luzes nos mandais:-\n-Lembrai me aquelle amôr tão puro e tão sagrado,\nque é morto em meio ao peito e vive nos meus ais!\nO' cósmos de áurea luz, estrellas divinais!\nVós que em meio á aridez do deserto abrasado,\nao misero pastor, esqualido, amparais,\ncom scentelhas do amor sublime e illuminado:-\n-Escutai minha dor. Ouvi meu soffrimento.-\n-Meu coração é tréva, é vácuo, é solidão,\nonde siquér vingou do amor o terno alento...\nDescei. Eu vos espéro ó vida da amplidão..\n- Minh'alma, tão feliz, morreu no encantamento\ne é pranto o meu olhar ardente de paixão!\n9-8928.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A data no final da poesia parece conter erro de tipografia ou OCR (9-8928 em vez de 9-8-928 ou 1928)."
+                },
+                {
+                    "id_conteudo": "p1_c3",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "O QUE E' O FLIRT?",
+                    "autor": "CORDEIRO",
+                    "texto": "Eis aqui algumas definições: Brincadeira que é o encanto dos jovens e a intranquillidades dos parentes.\nA aquarella do amor.\n-Braza com que brinca uma criança. A braza salta e recáe nas cinzas, onde se apaga, ou no tapete, que queima; jogo perigoso quando se é tapete, jogo inutil quando se é cinza.\nOLHAR é tão eloquente que substitue com vantagem as palavras - no odio como no amor.\nBEIJOS balas que, no escuro, os namorados dão na bocca das pequenas.\nCHUVA agua que cáe do céo na cabeça dos que «amarram a gata».",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c4",
+                    "tipo": "Crônica",
+                    "secao": "CORRESPONDENCIA DO 70 SUL",
+                    "titulo": "Cléa",
+                    "autor": "CONDE D'ALBA",
+                    "texto": "Tem 3 annos apenas, a linda Cléa. Em seu berço de rendas e arminho, dórme Cléa, emballada por divina sonata, gemidos vagos de harpa eólia, tangida por fadas mysteriosas. Dórme. Parece um anjo. O seu somno é tranquillo e manso, como santa e bôa é a sua alminha em flôr. Dórme. Sonha, certamente. O seu pensamento võa, paira em regiões longinquas, onde tudo é innocencia, onde tudo cheira a mysterio. Puro como o seu pensamento é o seu sonho. E, no emtanto, eu pobre e velho, tenho um sério presentimento, que muito me perturba e atordoa: E', que, com o Voronoff na terra, não venha a ser o esposo de Cléa... E Cléa tem apenas 3 annos. Em seu berço de rendas e arminho, dorme Cléa, emballada por divina sonata, gemidos vagos de harpa eólia, tangida por fadas mysteriosas. Dórme. Parece um anjo. O seu somno é tranquillo e manso, como santa e boa è a sua alminha em flor...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A segunda metade do texto é uma repetição quase literal da primeira, indicando possível erro de montagem no jornal original ou de OCR."
+                },
+                {
+                    "id_conteudo": "p1_c5",
+                    "tipo": "Humor",
+                    "secao": null,
+                    "titulo": "PAPAGAIO",
+                    "autor": "BOHEMIO",
+                    "texto": "PAPAGAIO é uma ave feita com papel de seda e flexas, e que fala muito no espaço, dando cabeçadas quando o vento é forte e o rabo é curto.\nCADEIRAS assento de palhinhas ou pau, geralmente volumosas nas pessoas gordas, onde os bohemios descançam o corpo, no cinema.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c6",
+                    "tipo": "Humor",
+                    "secao": null,
+                    "titulo": "Num exame de historia sagrada:",
+                    "autor": null,
+                    "texto": "Num exame de historia sagrada:\n- Como foi que Deus creou a mulher ?\n-Arrancando uma costella do homem.\n- Então que vem a ser a mulher?\n-Uma costelleta.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 2,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p2_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Tua imagem",
+                    "autor": "Sonhador",
+                    "texto": "Life is but a drop in the ocean of eternity.\nEstava eu contrito e meditabundo, numa das mais gigantescas pedras, que não podendo ser refreiadas pela força das oceanidas, exornavam as ridentes praias do Atlantico. De repente, entre miriades de estrellas, ouvi cantar hymnos d'amor ampliados pelas harpas dos anjos, doce qual singelo canto de merencoria virgem. Retraime insensível e descai numa horrifica demencia, quando entre arcanjos harpitas debuxou-se-me um vapor leve e raro como de uma nuvem transparente que mal embaça o fulgor das estrellas. Tornando-se claro, o vapor dava a forma humana de uma joven de cabellos pretos e annellados. Logo conheci a E... anjo bemdito que me encheu o coração de amor, embora eclipisada. Eu, lhe fallei:-E...anjo dos anjos... Quando os olhos levantei, já um vulto já a havia escondido, e quando a cabeça abaixei, estava ante o abysmo dos mares. Ha sempre no fundo de meu coração uma lagrima que filtra gotta a gotta e que vai cair occultamente sobre a tua memoria para revivescer o nosso amor...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c2",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Pharmacia Central",
+                    "autor": null,
+                    "texto": "participa a V. Exc. que se tranferiu para o num. 214-A da Rua Marechal Floriano, onde é encontrado o abalisado clinico Dr. J. Pereira de Azevedo que dá CONSULTAS GRATIS das 8 1/2 ás 10 1/2 da manhã. Preços minimos, serviço esmerado e variado stock.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c3",
+                    "tipo": "Crônica",
+                    "secao": "SILHUETAS FEMININAS",
+                    "titulo": "A' ELZA",
+                    "autor": "J. P.",
+                    "texto": "Espirito alegre, é uma florzinha, uma verdadeira rosa. Alta e magra, mais alta e menos magra que eu; não deixa de ser muito elegante. Clara, possúe uma \"cutis\" mimosa, que lhe realça bastante o rosto oval em talhe grego. E', actualmente, loura porêm, si me não engano; tivèra cabelos castanhos. Usa-os, verdadeiramente \"ál'homme\". E' senhora duns ólhos castanhos muito vivos e bonitos e dum sorriso que nôs prende. Desde que chegou a estas plagas bondosas, está amando ao nosso amiguinho A.... mas não pensem os leitores que seja o A... tahy... de. Possúe boca mimosa e rubra, fala pouco e é de véras interessante quando se zanga. E' original no modo de dançar e acho até que de seu ideal seja as cousas rethimadas porque, quando dança, acompanha a harmonia da musica com meneios de cabeça. Admira bastante a cousas alegres, como próva disto, as boas gargalhadas que ouvimos no Verde, quando assiste a FILMS comicos, genero \"A ver navios\"... Intelligente e bondosa como é, perdoar-me-á por te la perfilado tão mal. A culpa cábe, confesso, não a minha burrice e sim ao Avelino que me não perdôa... Bonita, tem coração bondoso, alma alegre, no fundo, sentimental; porisso todos nós lhe queremos bem.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CINEMA VERDE",
+                    "autor": null,
+                    "texto": "HOJE! HOJE! «ROMANCE» Grandioso drama em 8 actos, por R. Novarro. Os 3 e 4 episodios do film em series, «Rei dos Detectives» e uma comedia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c5",
+                    "tipo": "Coluna Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NATALICIOS / BODAS",
+                    "autor": null,
+                    "texto": "NATALICIOS\nDepois de amanhã, 15 deste, faz annos o nosso excellente amigo sr. Norival Chaves, funccionario da nossa Prefeitura, elemento de séde des Progressistas e valioso do campeão local e uma das figuras mais sympathicas e queridas da nossa melhor sociedade.\n-A 14 do corrente vê passar sua data intima a exma. sra. d. Mariana Baroni de Oliveira, esposa do sr. Joaquim dos Santos Oliveira, residentes nesta cidade.\n-Ainda em igual data transcorreu o anniversario natalicio do antigo morador desta cidade, sr. Thomaz Ribeiro Lopes.\nBODAS\nContratou casamento com a senhorita Hilda Pinto Duarte, filha do sr. Major Antonio Pinto Duarte Junior, professor Municipal, o joven Euclydes Gonçalves Pereira, filho do sr. Antonio Gonçalves Pereira, fiscal da Prefeitura. Aos noivos enviamos os nossos parabens e agradecimentos pela gentileza da participação.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c6",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "Kalei dos cópio",
+                    "autor": "BRISER",
+                    "texto": "A Yolanda Sampaio, bonitinha,\nRisonha qual manha alviçareira\nEntão quieta... socegadinha,\nAté parece ter nascido para freira!\nAndersou ao vel-a: mignon, placida,\nNo entanto enganae-vos! Ella é acida,\nE' um hymno a Dna. Pimenta!\nPara o magrissimo Jovelino\nCom seu ar hypochondriaco...\nOu.... cem grammas de ammoniaco!\nCaros amigos e o Jarbas,\nCom aquelle aspecto exquisito....\nNão vos parece que vestiram\nUm chupado e feio pirolito?",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Anotações do OCR sugerem fragmentação ('Andersou ao vel-a: mignon, orenhienta placida', 'Dna Pimenta'). O texto foi transcrito como o possível original visual."
+                },
+                {
+                    "id_conteudo": "p2_c7",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "SALÃO BRASIL",
+                    "autor": "Alencar P. de Faria",
+                    "texto": "PRAÇA M. SEABRA, 10 Nova Iguassú Estado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c8",
+                    "tipo": "Serviço",
+                    "secao": null,
+                    "titulo": "Pharmacia de plantão:",
+                    "autor": null,
+                    "texto": "Pharmacia S. Antonio Praça M. Seabra, 12",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c9",
+                    "tipo": "Crônica",
+                    "secao": "Criticando...",
+                    "titulo": "QUE BICHO!...",
+                    "autor": "CRITICO",
+                    "texto": "Ha dias, na praça, conversávamos em roda; quando o Rosalvo, apontou para o nosso amiguinho Telles e disse: -Lá está o homem!-Olhamos; éra o joven «Telles» que conversáva com uma «Josephina», bem moreninha... Sai e indaguei do nosso heróe: -Então, seu Telles; o senhor andou sumido... Que tal o homem ?... -Que homem, creatura de Deus! -E' dizem as más linguas que... -Ah! sim, que eu fui fazer uma viagemzinha de... recreio... -Sim; o senhor está mais bonito... mas, conte-me lá o cáso direitinho... -Em verdade, é um Messias. Imagine que, feito a transplantação, após o sublime sacrificio do chipanzé;-eu, ainda tonto e dormente, nos ultimos effeitos da anesthesia, perguntei lhe: -O doctor me enxertou de gallo ou de macaco? Eu preferia que fosse do primeiro... -De nenhum, disse-me o assistente porque «elle» disse: - Rien de celá». Ah! fiquei frio, suei...abalar-me, ser sacrificado e depois... Rien!.. -E' incrivel, seu Telles; por que foi? -O'ra por que... Você não está vendo logo.... -Juro que não comprehendo. Seu Telles, sorridente e vermelho, exclamou:-Muito simples: Porque não éra preciso!...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Quereis garantir sua propriedade ?",
+                    "autor": null,
+                    "texto": "Vá immediatamente ao Cartorio do Registro de Immoveis desta Cidade. Bernardino Mello, 215",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c11",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Fogos de artificio",
+                    "autor": null,
+                    "texto": "Eu sempre detestei estas brincadeiras de appelidos - dizia me o Alencar - pois quasi sempre traz contrariedades e aborrecimentos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 3,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p3_c1",
+                    "tipo": "Crônica",
+                    "secao": "Perfis Sportivos / GENTE DA BOLA",
+                    "titulo": "NOAR",
+                    "autor": "Microbio",
+                    "texto": "E' o center-half do Iguassu e embora novato no team muito tem cooperado para a brilhante figura que o nosso veterano campeão vem mantendo no corrente anno. Antigo jogador do Queimados, deixou este club porque tendo achado com infelicidade n'um jogo de responsabilidade, o Dodoso aborrecido por ter o seu team sido derrotado puxou-lhe as orelhas e deixou-o 3 horas de castigo, de joelhos, no meio do campo, depois do jogo. Funccionario da Central, vem desempenhando tão cabalmente a sua missão que o Director désta grande Via Ferrea resolvèu dar o seu sobre-nome a uma das nossas estações mais importantes - a de Belem.. A sua carreira sportiva é um padrão de glorias: já disputou por diversos clubs de fama entre os quaes destacam-se o Mamãe Saco de F. C., Tira o Dedo do Pudim F. C. e Sport Club Vira-Tripa. Por occasião do ultimo Campeonato brasileiro foi indicado pela Commissão Sportiva Organizadora do nosso seleccionado para assistir o jogo da peior parte da geral, mediante o pagamento da respectiva entrada.\nAinda domingo passado combinamos uma caçada de macacos. A caravana era composta do Edgard, Alarico, Capitão Edmundo, Telles e eu. Quando o Telles appareceu, ás 5 horas da manhã para se reunir ao grupo que devia seguir no S 1 para Bomfim, ponto escolhido para a caçada, vinha todo enrolado n'um sobretudo do tempo de D. João Charuto, e o Edgard ao vel-o deu uma gostosa gargalhada e, dirigindo-se aos demais, exclamou: Telles até parece um d'aquelles... do Voronoff. E d'ahi por diante começou a chamal-o de Voronoff. A viagem correu as mil maravilhas e todos optimamente accomodados: o Capitão Edmundo pendurado na perna do chefe do trem; o Edgard no limpa-trilhos da machina; o Alarico d'entro da caixa de agua da descarga da privada; o Telles sentado no collo de uma bahiana da pontinha, e eu dentro do canno da espingarda do Edgard. Para quem viaja no S 1 aos domingos, isto não constitue surpreza, pois é cousa commum. Em Bomfim, depois de andarmos legua e meia a pé, chegamos afinal ao ponto desejado, no NINHO DOS BICHOS, como disse o Capitão Edmundo. Era uma enorme arvore em que se via para mais de trez mil macacos (com licença do Silva) e o interessante é que os bichos não se espantaram com a nossa chegada, e muito pelo contrario, tornamo-nos desde logo CAMARADAS INTIMOS, graças a um cacho de bananas que o Capitão levara. O Alarico já se preparava para agarrar um dos ditos A UNHA quando o Edgard lembrando-se do Telles que havia ficado atrasado na marcha, disse para mim:-Vae chamar o Voronoff que ficou para traz e... foi um Deus nos accuda, pois os macacos ao ouvirem falar em Voronoff deram as de VILLA DIOGO, e em menos de um segundo a arvore ficou mais limpa que o bolso do Saul. E assim foi a nossa caçada prejudicada.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A coluna se divide em uma análise irônica do jogador NOAR e depois entra num causo esportivo/humorístico sobre uma caçada de macacos."
+                },
+                {
+                    "id_conteudo": "p3_c2",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "Philarmonica",
+                    "autor": null,
+                    "texto": "[ilegível]",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Título presente no OCR sem texto subsequente identificável."
+                },
+                {
+                    "id_conteudo": "p3_c3",
+                    "tipo": "Passatempo",
+                    "secao": null,
+                    "titulo": "Charadas.",
+                    "autor": "LULÚ",
+                    "texto": "n. 1 Dos accidentes da musica o que mais prevalece é o bequadro porque torna os demais sem effeito. 1-2 Ao Paubar\nn. 2 No baile, foi de grande effeito, o tango compasado.. 1-2 Ao Francarfro\nn. 3 Para tirar o sal d'este vidro, não é preciso trabalho. 1-1 Ao Jobar\nn. 4 O Jovelino deixou uma lacuna na escriptura, trocando a folha do livro, embriagado pelo perfume d do acantho. 2-3 Ao Paubar\nn. 5 A oração do Paulino, fóra do programma, mesmo quando este não presta, da-lhe um brilho imprevisto. 2-5 Aa Cêcê\nn. 6 A athmosphera está impregnada do voluptuoso perfume das flores celebres das laranjeiras. 1-1-1 Ao Gen\nn. 7 Do alto da igreja. animal roe o tecido. 1-2 Ao Cêcê\nn. 8 Senhor Deus! castigai este ricaço porque maltratou o homem 2-2\nCORRESPONDENCIA:\nResultado do numero de 29 de Julho: N . 1, Vaidade n°. 3, Semente--n°. 4, Procuração n. 6, Damasco n°. 7, Fogo fatuo n. 9, Custodia-n. 10, Pospasto.\nN.B. As solucções publicadas no numero anterior foram de 22 de Julho e não de 29 conforme saiu publicado.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c4",
+                    "tipo": "Humor",
+                    "secao": null,
+                    "titulo": "VAIDADE é um laço...",
+                    "autor": null,
+                    "texto": "VAIDADE é um laço que a mulher arma á vaidade do homem.\nUma mulher perdõa tudo, menos que a desprezem.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c5",
+                    "tipo": "Concurso",
+                    "secao": null,
+                    "titulo": "Concurso de Belleza",
+                    "autor": null,
+                    "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nGuilhermina Gomes | 106\nJulia M. Baroni | 100\nDiva Marinho | 21\nOdila Soares | 14\nLaura Sampaio | 9\nGuajajara Pereira | 9\nMercedes Pimenta | 8\nYolanda Sampaio | 8\nIracema | 8\nAvany R. da Silva | 6\nHercilia Argenta | 5\nAracy Salles | 2",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "INSTALLADORA DE IGUASSÚ",
+                    "autor": null,
+                    "texto": "Lampadas, installações electricas, Material electrico, abat-jours, etc. SO NA \"INSTALLADORA DE IGUASSÚ\" PRAÇA M. SEABRA, 10 Não comprem na cidade, pois os preços aqui são os mesmos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c7",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "OLARIA MANOEL DOS REIS",
+                    "autor": "MANOEL DOS REIS",
+                    "texto": "Vende barro, areia e tijolos, tudo de 1 qualidade. PREÇOS MODICOS Vendas a Dinheiro. R. CAPITÃO CHAVES NOVA IGUASSÚ E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 4,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p4_c1",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "AÇOUGUE A CENTRAL",
+                    "autor": "RODOLPHO ANNECCHINO & FILHO",
+                    "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc. ENTREGA SE A DOMICILIO. NOVA IGUASSU RUA M. FLORIANO, 198",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Anúncios extraídos devido à regra de capturar todos os blocos à esquerda do segundo cabeçalho de expediente de edição subsequente."
+                },
+                {
+                    "id_conteudo": "p4_c2",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue União",
+                    "autor": "Ernesto Moreira",
+                    "texto": "Fornece carne de Vacca, Porco e Carneiro de Primeira Qualidade. RUA MARECHAL FLORIANO, 1 Nova Iguassú-E. do Rio Filial: Açougue Democrata Rua Bernardino Mello, 15",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c3",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Dispensa Globo",
+                    "autor": "F. Raunheitti & C.",
+                    "texto": "BOM E BARATO Importação directa de cereaés dos Estados de São Paulo, Minas e Rio Grande do Sul. Vinhos recebidos directamente. Rua Marechal Floriano Peixoto, 198 Nova Iguassů E do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Vidraceiro da Matriz",
+                    "autor": "BELMIRO VIEIRA FERNANDES & C",
+                    "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc. Grande variedade de estampas, espelhos e molduras para quadros, etc. Grande venda de material electrico, artigos de escriptorio e para collegiaes. Folhinhas, cadões, etc. Rua M Floriano, 11-A NOVA IGUASSU E. DO RIO Filial em Nilopolis: Av. Lazaro de Almeida, 195",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Pharmacia Iguassú",
+                    "autor": "DR. MONTE MO'R FILHO",
+                    "texto": "RUA M. FLORIANO, 106 Completo sortimento de drogas nacionaes e extrangeiras a preços modicos. (Proximo á Estação CONSULTORIO: Segundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas. NOVA IGUASSU E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Padaria e Confeitaria Trez Nações",
+                    "autor": "ESTEVES & IRMÃO",
+                    "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades e doces de confeitaria. Pão quente a toda hora Completo sortimento de bebidas de todas as qualidades. RUA MARECHAL FLORIANO ΡΕΙΧΟΤΟ, 116-A NOVA IGUASSU' Estado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c7",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Nova Mundial",
+                    "autor": "ANTONIO PEREIRA DIAS",
+                    "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens. Calçados, Chapéos de sol e de cabeça. Sedas, Modas e Confecções. PRAÇA M. SEABRA, 4 NOVA IGUASSU' E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Tinturaria Elite Fluminense",
+                    "autor": "ALVARO ROBLES QUINTANA",
+                    "texto": "Lavagem chimica de primeira ordem. Tinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc. Tinge-se qualquer roupa. PRAÇA M. SEABRA, 30-Nova Iguassú E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "\"Alfaiataria Silva\"",
+                    "autor": "MANOEL SILVA",
+                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA Porqué V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas. Fazem-se ternos em 24 horas Confecções de roupas brancas PRAÇA M. SEABRA, 10-Nova Iguassù-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue São Jorge",
+                    "autor": "FERREIRA & FERREIRA",
+                    "texto": "Tem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas. RUA M. FLORIANO, 116 NOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c11",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CASA ADORNATIVA",
+                    "autor": "João Carias",
+                    "texto": "Caixões mortuarios de qualquer classe para anjos e adultos-Acceitam-se encommendas a qualquer hora. Variadas collecções de coroas roxas e brancas. Rua M. Floriano Peixoto, 144 ESTADO DO RIO NOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c12",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Velóz",
+                    "autor": "MOACYR & FILHO",
+                    "texto": "AGENCIA DE TRANSPORTES E AUTOS PARA PASSEIO:::: Fornece materiaes para construcções RUA RITA GONÇALVES, 937 NOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        }
+    ]
+}
