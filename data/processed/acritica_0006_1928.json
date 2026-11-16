@@ -1,0 +1,414 @@
+{
+    "periodico": 
+    {
+        "id_jornal": "acritica_ni",
+        "nome": "A CRITICA",
+        "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+        "proprietarios": 
+        [
+            "Avelino Azeredo",
+            "Sylla Filizola"
+        ],
+        "local_publicacao": 
+        {
+            "cidade": "Nova Iguassú",
+            "estado": "Rio de Janeiro",
+            "pais": "Brasil"
+        }
+    },
+    "edicao": 
+    {
+        "id_edicao": "acritica_ano1_num6_19280722",
+        "ano_romano": "I",
+        "numero": "6",
+        "data_publicacao": "1928-07-22",
+        "data_impressa": "Domingo, 22 de Julho de 1928"
+    },
+    "paginas": 
+    [
+        {
+            "numero_pagina": 1,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p1_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "FESTA SPORTIVA",
+                    "autor": "CONDE D'ALBA",
+                    "texto": "NOSSA cidade experimentou, domingo ultimo, um novo aspecto. Vimo-la despestar, sorridente e bem movimentada. E' que, no \"groud\" do club local, realizar-se-ia um festival encantador. A' tarde, rumei para lá: e, em lá chegado; bandeiras, multidão e musica davam a nota festiva, realçada pela graça feminina. E'coava por todo o canto a voz alégre da mocidade que, como um melro sonhador, enchia de encanto e de vida, aquelle recanto, engalanado.\nEm meio a tudo isto, não me escapuliu um suspiro prolongado que alguem soltou, quando os moços do Flamengo passaram pela esquina mais proxima do campo.\nQue ansiedade! hein senhorita? Mas um \"flirt\"... que tal?\nAfinal, iniciou-se a partida. Transcorreu, renhida, leal, cortez e emmocionante porêm a victoria quiz ser justa e não sorriu a nenhuns dos quadros disputantes.\nTerminada esta parte do programma, seguiu-se ás segunda e terceira, sendo que esta ultima brilhou em apogéo, assegurando á commissão, parabem geral.\nFoi magnifica e sublime!\nA musica: Divinal. No salão, artisticamente ornamentado, as luzes pareciam namorar as cortinas, pendentes das sacadas. Aprendi a crer na alma de tudo porque creio na alma das cousas; porisso a alma de tudo, ali, tinha mais graça e alegancia, Terpsychóre parecia sorrir pela alma das cousas!...\nAo rythimo dos passos, respondia a harmonia... Belleza! Primor! Deslumbramento!... A noite estava linda e, no céo, as estrellas se nos surgiam bailando... A lúa saudava com beijos de prata ao sorriso de todas, porque todos sorriam...\nNoite de alegria!\nEu quizera terminar aqui, mas algo me fez lembrado, portanto, que sejam mais pacientes os queridos leitores: Lembrei me das valsas divinaes que écoaram no salão, como canticos angelicáes, ao som dos quaes tremem pedaços do céo... Quiz dança las tambem e, dançando as, vi que, nos angulos do salão os nosssos queridos paes sentiam; talvez, a alma evolar-se para o passado e ahi se remoçar. Na sua imaginação saudosa, brilharam, diante daquelles sons, as illusões da vida que se extinguiram com o sonho da mocidade... Recordar é viver! Sim, devemos recordar, mas é bem triste a morte do sonho diante da realidade.\nPorisso, em meio a tanto riso, a tanta graça e a tanta alegria, eu me senti entristecido após aquellas valsas, porque notei, naquelles rostos, remoçados pelo enlêvo, que um sorriso se desenhara; - o mais sublime sorriso da vida porque, vehiculo de apparente alegria, na essencia nada mais éra que o pranto da saudade a emanar do coração que é sempre moço - porque sabe sentir...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c2",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "Não me tentes mulher!",
+                    "autor": "Humberto Marsicano",
+                    "texto": "Não me tentes mulher, por compaixão,\nDeixa que eu siga meu destino incerto.\nPois, quanto mais de ti me vejo perto,\nMais torturado sinto o coração.\nDeixa que eu viva sempre na illusão,\nQue esta vida é um arido deserto\nE sem o teu amor seria um céu aberto\nPorque só elle traz desillusão.\nDeixa que eu siga só o meu caminho,\nPois apesar de ter o teu carinho\nFalta me a liberdade de expandir.\nEsta ancia louca, atroz, que me devora\nDe ver o amor morrer logo que inflora,\nSe acaso o teu amor usufruir....",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c3",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "TUA JANELLA VERDE",
+                    "autor": "SARA J. B. DO CORREIA",
+                    "texto": "A' Cl...\nE' hoje tão deserta a tua janella verde. Qual gaiola de onde fugira o passaro captivo, é hoje muito triste a tua janella verde.\nOutr'ora, pela manhã, á tua janella verde assomavas e zelavas cuidadosa pelas flores... O teu busto senhoril dominava do alto de tua janella, e quão feliz era, ao vel a sorrir num Bom-dia e que sorriso, lindo e franco sorriso.\nHôje o scenario mudou completamente: tua janella, assim, fechada é muito triste. Pela manhã não tenho mais o teu bom-dia, nem o teu lindo sorriso.\nNão fostes para longe, é verdade, mas transferistes o ninho para onde difficilmente te poderei vêr.\nResta me, comtudo, um suave consolo, possuindo a certeza que ainda me olhas com alguma sympathia.\nE, sempre que te encontro e sorris com esse lindo sorriso que te é tão peculiar, sinto, que uma immensa alegria me invade o todo, que nem mesmo sei explicar.\nMas, se melhor soubesses comprehender esse sublime que aninha em meu peito de joven, talvez, fosse mais feliz...\nTodavia, continuarei a fitar tua janella verde, que é a côr da esperança e continuarei a esperar e quem sabe, talvez um dia alcançarei o que almejo... e, então, quebraremos os élos que nos prendem e seremos felizes...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 2,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p2_c1",
+                    "tipo": "Coluna",
+                    "secao": "SILHUETAS FEMININAS",
+                    "titulo": "SILHUETAS FEMININAS",
+                    "autor": "Sonhador",
+                    "texto": "E' doloroso quando a inspiração nos fóg.\nDomingo ultimo, despresado pelas musas e pela \"grande\" intelligencia que possúo; errei á procura duma idéia. Embora não danse, embarafustei me pelo salão de dansas e, duma das sacádas apreciava aos que dansavam quando, a uma folga do optimo conjunto a senhorita J. G. P. ficou proxima de mim. Dirigi-lhe o inicio do assumpto e prolongamos a conversação até quando um dos almofadinhas interronpeu a nossa palestra, tirando para um fox a meiga mocinha.\nEstava fascinante, porisso sorri por encontrar assumpto para estas columnas...\nQue lindos olhos! Castanhos claro e bastante vivos. Rosto oval e boca mignon.\nElegante como o é de traje côr de rósa, sobrepujava em belleza ao chrysánthemo que trazia preso nas lindas madeixas alouradas.\nE' de bôa altura, talhe esculptural e muito delicada. Sua vóz é tão terna, tão linda e encantadora que só nôs revéla bondade e carinho. Mostra possuir alma pura, sentimental e sincéra.\nPena é que Cupido tenha sido tão máo para um coração tão docil!\nCaptiva-nos não só por ser bonita, como tambem por ser vasia de orgulho; -numa palavra um mimo este ornamento da nossa fina flor.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c2",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "SONHO",
+                    "autor": "ROD LA ROCQUE",
+                    "texto": "A' ELZA\nDeliciosa noite!... Eu enlaçando a tua cintura, sentia o contacto da tua face repousando tranquilla no meu hombro bem junto ao meu. Estavas linda, bella como a propria natureza onde a luz pallida da lua fazia reflectir teus olhos divinos, pondo auréola argentea, circumdando o busto esbelto.\nBranqueando num outeiro proximo, destacava se uma capellinha antiga, cujas paredes o luar banhava, e a cruz, reluzindo solitaria, abençoava aquelle recanto tão propricio ás confissões sincéras.\nAs formas artisticas de teu corpo, recostada ao meu peito, deixava me admirar o teu busto emergindo das alvas rendas do corpete de sêda...\nAssim enlevados ficámos longo tempo... abandonando a ralé profana...\nOh! como eu quizera permanecer sempre sonhando, pois em sonho tambem se vive.\nSim, eu me sentiria muito feliz... a minh'alma entregue aos teus afagos; aos mesmos sentimentos, emfim nessa communhão sublime do espirito e do corpo...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c3",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "Acróstico",
+                    "autor": "CONDE SAUDOSO.",
+                    "texto": "A'...\nSubtil, mimosa, encantadora passa\nRadiando olhares, com encanto e graça!\nAnsinuante, meiga e intelligente:\nNos labios, o coral de rubra rosa\nHa feito endoudecer, sem dó, á gente.\nAo abril-o n'um sorriso... Tão formosa...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c4",
+                    "tipo": "Coluna Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "Criticando...",
+                    "autor": "EMBIRRADO",
+                    "texto": "Ha dias encontramos o R. M. fule de raiva porque a pequena lhe deu o bolo domingo passado.\nPor desaforo, disse elle, eu não darei a medalha que the tinha promettido.\n- O S. F. em dizer que depois de tornar-se noivo não poude ir mais ao Meyer.\n- O R. M. tocar, no baile do S. C. I, uma marcha funebre no trombone, fazendo a assistencia verter... lagrimas.\n- O H. F. M. pedir ao Nelson que fosse chamar o Fragoso no baile, porque desejava dansar.\nQue sabido!...\n- O Toninho jogar admiravelmente no jogo de domingo.\n- A torcida de certas senhoritas no campo do Iguassú.\n- Afinal de contas o M.S. sempre conseguiu falar com a sta. C. M., mas, estava tão emocionado que quasi não falava. E, num passeio que deram até ao Café Elite ella voltou. O M. S. não percebeu e começou a andar... andar... e dando pela falta, voltou apressado, e perturbado, disse-lhe:\n-Senhorita, perdoa-me! não foi por querer...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c5",
+                    "tipo": "Nota Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NATALICIOS",
+                    "autor": null,
+                    "texto": "A 16 do corrente fez annos o dr. Luiz Carvalho Araujo, residente em Cravinas, E. de São Paulo.\nHontem, commemorou mais uma data primaveril a graciosa senhorita Oscarina de Castro Cardoso, dilecta filha do sr. Francisco N. Cardoso Junior, zeloso funccionario da Intendencia da Guerra e de sua digna esposa d. Celina de Castro Cárdoso, residentes entre nós.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c6",
+                    "tipo": "Nota Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NASCIMENTOS",
+                    "autor": null,
+                    "texto": "Lia é o nome de uma interessante menina, que desde o dia 15 deste enche de alegria o lar do nosso amigo sr. Tasso Kelly Marques e de sua exma. esposa d. Aida Torres Marques.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c7",
+                    "tipo": "Nota Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "BODAS",
+                    "autor": null,
+                    "texto": "Em 16 deste festejaram a passagem do seu 18° anniversario de casamento o sr. Agostinho Victorino de Carvalho, conceituado proprietario do café Elite e sua exma. esposa d. Adelaide de Carvalho.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c8",
+                    "tipo": "Humor/Diálogo",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "UM SO'?",
+                    "autor": "Cabanas",
+                    "texto": "- Um só...\n- Não dou.\n- Um beijo só...\n- Não dou.\n- Mas é um só. Não disse como pedaço...\n- Não dou, já disse.\n- Atrevido!\n- Bem, então, vou-me embora.\n- Escute... é um só?\nE o pequeno salão guardou em segredo o ruido de muitos beijos...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c9",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "CINEMA VERDE",
+                    "autor": null,
+                    "texto": "HOJE! HOJE!\n\"Meu Comandante\"\nGrandioso drama em 7 actos, por J. Coogan.\nOs 7 e 8 episodios do film em series, Mil contos de Premio e uma comedia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c10",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Pharmacia de plantão:",
+                    "autor": null,
+                    "texto": "Pharmacia Fluminense\nRua Bernardino Mello, 213",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c11",
+                    "tipo": "Coluna",
+                    "secao": null,
+                    "titulo": "Si não é vero...",
+                    "autor": "CRITICO",
+                    "texto": "Na semana passada, num suburbio, o A.V. e o Joãozinho, por causa de uma senhorita quasi que houve uma scena de pugilato entre os dois queriam ao mesmo tempo erguer a janella do banco em que ella se achava.\nQue dois!...\nO Silva, domingo á noite, na Praça bancou o guarda-nocturno, sem saber se a G. G. estava ou não no baile.\n- Estava sim. Você é que ficou a vêr navios...\nNa quinta feira o Wilton pediu-nos um calmante por se achar nervoso. Aconselhamos que elle fosse ao Pereira. Pelo caminho, porem, encontrando-se com algumas senhoritas começou a palestrar... palestrar...\nQue bom calmante, hein?",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c12",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "INSTALLADORA DE IQUASSU'",
+                    "autor": null,
+                    "texto": "Lampadas, installações electricas, Material electrico, abat-jours, etc.\nSO NA \"INSTALLADORA DE IQUASSU'\"\nPRAÇA M. SEABRA, 10\nNão comprem na cidade, pois os preços aqui são os mesmos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 3,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p3_c1",
+                    "tipo": "Crônica/Humor",
+                    "secao": null,
+                    "titulo": "Bestialogico !...",
+                    "autor": "Alvaro Costa",
+                    "texto": "Discurso relido pelo talentoso poéta... C. B., no casamento de um seu amigo.\nMeus senhores!\nA Médula do meu cerebro se empansina de suggestões nevroticas ao contemplar o prisma negro do olhar do noivo neste momento tetrico de alegria. Meu coração, como o bico de um re-distendido de lascalhos, numa elasticidade ferrea ao sentir a percussão surda do contentamento anti-pasmodico que poreja dos olhos da noiva. E contaminado bendegoricamente na congestão apopletica daquella suave placidez, sinto as trevas de uma rutila aurora desmaiar-se n'alma, e meu ser agitar-se na contumelia de um desmoronamento anti-syphilitico.\nSim, porque, amarrado do rabo do systema folgazona, vejo toda minha patologia interno esvair-se em accorde suavissimos e a penumbra de um meio dia estalar-se em cheio nas arterias do cabello ao pensar que si as notas dos Bancos Rularios e Boticarios, fossem de pau e palavreado esphingetico de uma preta mina não passaria de uma confusão necropolica das regiões auriferas.\nMas emfim, finalmente, não obstante, contudo, e para encurtar razões, pelas razões obtusas que acabamos de não explicar, viva o noivo! viva a noiva! viva a nobre companhia!...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c2",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "SALÃO BRASIL",
+                    "autor": null,
+                    "texto": "Alencar P. de Faria\nPRAÇA M. SEABRA, 10\nNova Iguassú\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c3",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "A Pharmacia Central",
+                    "autor": null,
+                    "texto": "participa a V. Exc. que se tranferiu para o num. 214-A da Rua Marechal Floriano, onde é encontrado o abalisado clinico Dr. J. Pereira de Azevedo que dá CONSULTAS GRATIS das 8 1/2 ás 10 1/2 da manhã.\nPreços minimos - serviço esmerado e variado stock.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c4",
+                    "tipo": "Coluna Esportiva",
+                    "secao": "Perfis Sportivos",
+                    "titulo": "GENTE DA BOLA",
+                    "autor": "Microbio",
+                    "texto": "U. T. R.\nONZE do team e, pertencendo ao Iguassù quasi sempre joga contra este, embora disputando pelo seu club. Ainda domingo passado foi indirectamente o autor do ponto que assegurou o empate aos visitantes, marcado de penalty, e a torcida local soube render the homenagem, mimoseando o com ditos elogiosos de FUNDURA, COVEIRO, etc., como se fosse elle o unico ENTERRADOR do team!\nEm Barra do Pirahy quiz fazer violencias ao ser criticado pela assistencia, dizendo se jogador INTERNACIONAL, e ao ser interrogado por um torcida sobre o Paiz extrangeiro em que havia actuado respondeu: Já joguei na cidade de Mar de Hespanha, na E. F. Leopoldina!\nE' entretanto um elemento esforçado, tudo fazendo em pról do seu club, e apezar de gostar de TIRAR SELLO nas canellas dos adversarios, procura sempre agir com disciplina em campo, só applicando partido quando apanha o adversario distrahido, tirando assim \"sardinha com a mão do gato\"...\nJá disputou pelo S. C. Brasil, desligando-se d'este porque tendo progredido muito no jogo, o citado club esquivou se de organizar terceiro team para promovel-o, visto como actuava no 2 quadro.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c5",
+                    "tipo": "Passatempo",
+                    "secao": "Charadas. Fogos de artificio",
+                    "titulo": "Charadas. Fogos de artificio",
+                    "autor": null,
+                    "texto": "Ao Ronaldo\nNo alto desta casa, atravez de um tecido, está um homem á espreita.-1-1-2\nAo Lulú\nNa alma é que se concentra a inspiração do artista.-1-2\nAo Paubar\nFui carregado nos braços do povo e por esse mesmo povo crucificado.-1-1-2\nAo Francarfro\nFiquei branco de medo quando este infame ferio o homem-1-1-1.\nAo Cêcê\nCausa espanto, um santo ter familia.-2-1\nAo Gen\nNão se mistura e gosta de estar no escuro. - 1-2\nAo Noar\nFoi na Igreja, se não me falha memoria, que o teu namoro teve origem-1-2.\nAo Jobar\nNão se admire por existir na superficie desta aguada, um Rei do bosque. 1-2\nAo Nerê\nRecommendei ao vêsgo que fosse com cuidado, porque é escuro o anoitecer-2-2.\nO que mais aprecio da charada, é o conceito quando é fructa - 2-1.\nPAUBAR\nFRANCARFRO\nCECE\nRONALDO\nNOAR\nNERE",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c6",
+                    "tipo": "Crônica/Anedota",
+                    "secao": null,
+                    "titulo": null,
+                    "autor": "Philarmonica",
+                    "texto": "Não ha, na nossa redondeza, quem não conheça o Chagas, de Queimados. Lingua ferina, ninguem the escapa e, certa occasião, estando palestrando na estação d'aquella localidade, deu as de VILLA-DIOGO ao faltar a luz, por defeito na uzina electrica, receio de, no escuro soffer um attentado...\nCoração bondoso, presta relevantes serviços á pobreza da localidade que, desprovida de recursos medicos e pharmaceuticos, encontra na pessoa do Chagas, o allivio para os seus males.\nEntretanto o receituario não passa de quinino, quinino e mais quinino. Qualquer doente que se the apresente o remedio já se sabe: quinino. Uma dor de cabeça, um nervo torcido, uma dor de dentes, figado, rins, etc., é o quinino que entra em acção. Ha dias o Nicacio se queixava do desconto que soffrera em seus vencimentos e aborrecido exclamou:\n-só mesmo o Chagas poderia dar um geito nisto (referindo se á lingua maldosa do Chagas: so mesmo elle poderá nos livrar d'este mal).\nE o Chagas que estava distrahido e não prestara attenção ao inicio da reclamação do Nicacio, ao ouvir falar em mal, julgando tratar-se de alguma doença incuravel gritou: Quinino, tome quinino e tudo desapparecerá!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c7",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Cartorio do Registro de Immoveis",
+                    "autor": null,
+                    "texto": "Quereis garantir sua propriedade?\nVá immediatamente ao Cartorio do Registro de Immoveis desta Cidade.\nBernardino Mello, 215",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c8",
+                    "tipo": "Concurso",
+                    "secao": null,
+                    "titulo": "Concurso de Belleza",
+                    "autor": null,
+                    "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nGuilhermina Gomes 28\nDiva Marinho 9\nDalila Moura 9\nLaura Sampaio 9\nGuajajara Pereira 8\nMercedes Pimenta 8\nYolanda Sampaio 8\nJulia M. Baroni 8\nOdila Soares 8\nAyxa Soares 7\nAvany R. da Silva 6\nJuremira Pereira 5\nChoramos ás vezes de tanto rir; mais vezes ainda rimos para esconder as lagrimas.\nCONCURSO DE BELLEZA\nVOTO EM [ilegível]\nAssignatura [ilegível]",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 4,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p4_c1",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "AÇOUGUE CENTRAL",
+                    "autor": null,
+                    "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRODOLPHO ANNECCHINO & FILHO\nNOVA IGUASSU'\nRUA M. FLORIANO, 198",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Anúncios à esquerda do cabeçalho da edição 7, pertencentes à edição atual segundo a Regra 7."
+                },
+                {
+                    "id_conteudo": "p4_c2",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Açougue União",
+                    "autor": "Ernesto Moreira",
+                    "texto": "DE Ernesto Moreira\nFornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MARI CHAL FLORIANO, 1\nNova Iguassú E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c3",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Dispensa Globo",
+                    "autor": "F. Raunheitti & C.",
+                    "texto": "BOM E BARATO\nImportação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente.\nF. Raunheitti & C.\nRua Marechal Floriano Peixoto, 198\nNova Iguassů E do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c4",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Vidraceiro da Matriz",
+                    "autor": "BELMIRO VIEIRA FERNANDES & C",
+                    "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc. Grande variedade de estampas, espelhos e molduras para quadros, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes.\nFolhinhas, cartões, etc.\nBELMIRO VIEIRA FERNANDES & C\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilopolis:\nAv. Lazaro de Almeida, 195",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c5",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Padaria e Confeitaria Trez Nações",
+                    "autor": "ESTEVES & IRMÃO",
+                    "texto": "Pão, roscas, bolachinhas espececiaes, biscoutos finos de todas as qualidades e doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nESTEVES & IRMÃO\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU'\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c6",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Pharmacia Iguassú",
+                    "autor": null,
+                    "texto": "RUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c7",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "DR. MONTE MO'R FILHO",
+                    "autor": "DR. MONTE MO'R FILHO",
+                    "texto": "(Proximo á Estação\nCONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas.\nDR. MONTE MO'R FILHO\nNOVA IGUASSU' E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c8",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "A Nova Mundial",
+                    "autor": "ANTONIO PEREIRA DIAS",
+                    "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nANTONIO PEREIRA DIAS\nPRAÇA M. SEABRA, 4\nNOVA IGUASSU E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c9",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Tinturaria Elite Fluminense",
+                    "autor": "ALVARO ROBLES QUINTANA",
+                    "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa,\nALVARO ROBLES QUINTANA\nPRAÇA M. SEABRA, 30-Nova Iguassú-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c10",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Alfaiataria Silva\"",
+                    "autor": "MANOEL SILVA",
+                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorqué V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem se ternos em 24 horas-Confecções de roupas brancas\nMANOEL SILVA\nPRAÇA M. SEABRA, 10-Nova Iguassù-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c11",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Açougue São Jorge",
+                    "autor": "FERREIRA & FERREIRA",
+                    "texto": "FERREIRA & FERREIRA\nTem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116\nNOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c12",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "CASA ADORNATIVA",
+                    "autor": "João Carias",
+                    "texto": "Caixões mortuarios de qualquer classe para anjos e adultos Acceitam se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nJoão Carias-Rua M. Floriano Peixoto, 144\nESTADO DO RIO NOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c13",
+                    "tipo": "Anúncio",
+                    "secao": null,
+                    "titulo": "Velóz",
+                    "autor": "MOACYR & FILHO",
+                    "texto": "AGENCIA DE TRANSPORTES\nE AUTOS PARA PASSEIO : : :\nFornece materiaes para construcções\nMOACYR & FILHO - RUA RITA GONÇALVES, 937\nNOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        }
+    ]
+}
