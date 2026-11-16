@@ -1,0 +1,478 @@
+{
+    "periodico": 
+    {
+        "id_jornal": "acritica_ni",
+        "nome": "A CRITICA",
+        "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+        "proprietarios": 
+        [
+            "Avelino Azeredo",
+            "Sylla Filizola"
+        ],
+        "local_publicacao": 
+        {
+            "cidade": "Nova Iguassú",
+            "estado": "Rio de Janeiro",
+            "pais": "Brasil"
+        }
+    },
+    "edicao": 
+    {
+        "id_edicao": "acritica_ano1_num5_19280715",
+        "ano_romano": "I",
+        "numero": "5",
+        "data_publicacao": "1928-07-15",
+        "data_impressa": "Domingo, 15 de Julho de 1928"
+    },
+    "paginas": 
+    [
+        {
+            "numero_pagina": 1,
+            "conteudos": 
+            [
+                {
+                "id_conteudo": "p1_c1",
+                "tipo": "Artigo",
+                "secao": null,
+                "titulo": "VERTIGEM DO ALTO",
+                "autor": "SARA J. B. DO CORREIA",
+                "texto": "TUANDO folheavs, ha dias, um vespertino carioca, do mêz p. p.; minha attenção se concentrou numa noticia devéras interessante e original: E' o caso dum jornalista, correspondente de jornaes americanos, na cidade oriental de \"Riga\" que, recentemente fallecido, decidiu, em testamento, que suas cinzas fossem espalhadas no espaço, por um avião.\nSegundo a mesma, a vontade do defunto foi satisfeita. Um areoplono, subiu a 1500 metros de altura e dispersou ao vento as cinzas do jornalista.\nFaçamos agóra um pequeno commentario sobre o caso.\nEste homem, affeito, talvez, ás emmoções, já as vinha experimentando, a todo o passo. Jornalista, não lhe faltavam factos emmocionaveis;-tinha-os, a fartar. Provou, certamente, as grandes emmoções da vida, lutou para viver, assistiu aos maiores dramas que se representam no palco do mundo compartilhou de varios da commiseração, ouviu gemidos de miserias, arripiou-lhe o corpo o frio da emmoção da morte, ambicionou ainda a gloria das aves; exigiu que a alma de suas cinzas se dilatasse na vertigem da altura; para assim, num vôo eterno, comtemplar o mundo que róla ao vento, á chuva, á luz!...\nPois bem, esse homem que foi vida e foi morte, pleno de emmoções, quiz ainda sentir o que esquecera aqui, e, ao provar, a desgraça; afinal, soffreu, para que sua gloria fosse gloria. E, um dia sentiu a ultima, das emmoções, o abraço da alma da vida: A morte! A vida é corpo e a morte alma sem porque as proprias cousas mortas têm alma... mais tal fra reciprocidade; -só comprehendemos a vida, diante da morte e tambem só concebemos a morte diante da vida, logo; Vida e Morte, Corpo e Alma!",
+                "recursos_visuais": false,
+                "notas_pesquisador": "OCR misturou algumas colunas na página original, transcrição mantida literal conforme as instruções."
+                },
+                {
+                "id_conteudo": "p1_c2",
+                "tipo": "Frase",
+                "secao": null,
+                "titulo": "HOMEM É O UNICO ANIMAL QUE TEM VAIDADE.",
+                "autor": null,
+                "texto": "HOMEM É O UNICO ANIMAL QUE TEM VAIDADE.",
+                "recursos_visuais": false,
+                "notas_pesquisador": null
+                },
+                {
+                "id_conteudo": "p1_c3",
+                "tipo": "Pensamentos",
+                "secao": null,
+                "titulo": "Espuma dos chopps",
+                "autor": "Waldemiro Portugal.",
+                "texto": "A burrice é uma qualidade financeira.\nO juizo é uma loucura refinada.\nA corda é a gravata do enforcado.\nA honestidade é uma esperteza calculada.\nO celibato é a liberdade de fazer tolices,\nA experiencia é a tranca dos roubados.\nA labia é a gazúa dos velhacos.\nO divorcio é a porta arrombada do matrimonio.\nA vida alheia é o trabalho dos vagabundos.\nO luxo é a illusão dos idiotas.\nA roupa nova é a tabella de preço do individuo,\nO futurismo é o arranha céo da pachuchada.\nO gatuno é o herdeiro mais forçado.\nA barata é o inferno das hystericas.\nA baratinha é o céo das melindrosas.\nA mulher é a boneca dos marmanjos.",
+                "recursos_visuais": false,
+                "notas_pesquisador": null
+                },
+                {
+                "id_conteudo": "p1_c4",
+                "tipo": "Crônica",
+                "secao": null,
+                "titulo": "O QUE E' O FLIRT?",
+                "autor": "CONDE D'ALBA",
+                "texto": "Divagações...\nLá bem longe onde a passarada no seu gorgeio infindo, em trinados maviosos, nos extasia na muda contemplação dos divinos mysterios da creação divina; lá, bem distante do borberinho agitado da cidade, onde tudo é agitação, onde tudo é movimento; lá bem longe, no cimo do outeiro, mora uma linda princeza, deusa candida de ancestral belleza, de olhos côr da neve e cabellos côr da lua cheia. Cabellos de perfumes ratos, odorificados, que são o encantamento de certos principes enamorados.\nLoira, muito loira, tal filha de Albion, essa Diva, em seu Eden perfumado, do Mundo completamente isolada, vive de illusões, para as illusões do Amôr...\nDa verde floresta que circumda sua encantada choupanha, scam gorgeics e trinados gemebundos, como se um hymno de louvor entoasse a Natureza áquella deusa de virginal belleza.\nNão são poucos os que suspiram e desejam possuir o amor dessa exquesita creatura e, no emtanto, a todos ella vae desilludindo...\nCerto dia, um desses apaixonados, não compredanda, possuindo mulher responde bravamente aos ataques do homem, até ao momento em que um dos dois se torna victima do outro.\n-O simili do amor.\n-Duas frivolidades que se encontram.\nEis aqui algumas definições:\nPois bem, esse homem flirt é a arte de brincar com o amor.\n-Uma batalha galante em que a coquettaria da mais ricos predicados de belleza fosse do Amôr, foi, cautelosamente se approximando de sua choupana, e ao espreitar pela fresta da janella, ficou pallido de espanto por vêr entre os braços daquella por quem suspirava um mendigo loiro, o mendigo da freguezia...\nO prefacio de um romance que terminará na primeira pagina.\n-Jogo perigoso em que a mulher deixa sempre um pouco de seu coração.\n-Uma colheita de rosas á beira de um abysmo.\nSão coisas do amôr... Coisas do amor.., os profundos mysterios do Amôr...",
+                "recursos_visuais": false,
+                "notas_pesquisador": "Problemas de formatação nas colunas originais do jornal causaram sobreposição de sentenças no OCR."
+                }
+            ]
+        },
+        {
+            "numero_pagina": 2,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p2_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "O meu voto",
+                    "autor": "CRITICO",
+                    "texto": "Quer a direcção d' A CRITICA saber qual a moça mais bella de Nova Iguassú.\nPara tanto, instituiu um concurso que está despertando muita curiosidade e interesse.\nAhi está um plebiscito interessante, a que todo rapaz que se preza deverá concorrer com o seu voto.\nQuasi todos nós temos \"alguem\" a suffragar...\nEu mesmo já havia resolvido dar a homenagem do meu voto a certa creaturinha gentil, quando estaquei ante esta advertencia desanimadora dos directores deste jornal: O nome da candidata deverá ser escripto com clareza, sendo indispensavel em cada coupon a assignatura do votante, sem o que os votos não serão apurados.\nOra essa! E eu que desejava tanto dar o meu voto a essa que gosta de mim, a essa que silencia e empallidece, quando me vê, porque lhe enche a garganta um desejo enorme de me dizer que, por minha causa, anda doente de amor, está perdida de amor...\nMas, o teu nome não o posso escrever no coupou...\nO meu nome não deve apparecer, glorificando a\nEu sei bem ber que o Avelino e o Sylla não apurarão o meu voto entretanto, voto nos teus olhos castanhos, voto na tua feminilidade encantadora, voto - perdoa! no peccado moreno do teu corpo adolescente e lindo...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c2",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "SILHUETAS FEMININAS",
+                    "autor": "G. P.",
+                    "texto": "Passeiáva eu, pela plataforma da estação, innundáda de lúz e de vida; quando, a pássos curtos, como que contados, mademoiselle G. P. passou por mim. Não me viu, pois que o comboio se approximáva. No trem, livro á mão, pousou o chapéo sobre a pásta, deixando a descoberto sua cabeieira castanha e ondulada, dévéras bonita. Usáva a, como a úsa \"al'homme\" segundo a móda.\nAdmirei os traços reguláres de seu rósto e tambem dois ólhos que corriam, curiosos, sobre a página orgulhósa. Castanhos, quasi pretos, revelaram a quem os observáva, a intelligencia de sua dona. Boca pequena, de coral e vóz rythmada. Quando sorri, lindos dentes se nos mostram. Genio alégre, e um tanto espirituosa. Na prósa se nós revéla intelligente, cut e um tanto mordaz, mas, no fundo é um grande coração. E' bein alta e bastante elegante. Já reside aqui, ha tempos, e, como é bonita e tratavel, tem se visto em apúros com uma legião de almofadinhas inclusive o seu Telles... que se confessa apaixonado.\nNo entanto se conservat como Esphinge, insensivel ás mil e uma sétas de Cupido, entristecendo e inspirando-a alguns delles...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c3",
+                    "tipo": "Coluna Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "Criticando... Derfis",
+                    "autor": null,
+                    "texto": "Parece que, com a mudança do antigo dormitorio da Central para o lado da rua Bernardino Mello, está sendo actualmente ponto de entrevistas amorosas.\nFoi o que aconteceu domingo, á noite. Passando casualmente por ali vimos \"Tres Mosqueteiros\" (pondo suas escriptas em dia...). era o H. V. com a professora N. C., o R. M. eo\nNotei que aquelle traje cinza lhe realçáva bastante, bem como um chapéozinho da mesma côr.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c4",
+                    "tipo": "Nota",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NATALICIOS",
+                    "autor": null,
+                    "texto": "Fez annos a 11 do andante o joven estudante Paulo Machado, filho do conhecido capitalista da nossa praça, Deoclecio Dias Machado.\nA 12 do mesmo mez completou mais uma data intima a senhorita Jurema P. Dias, filha do sr. Tte. Joaquim Pereira Dias.\n-A ephemeride de 15 deste assignalou a passagem de anniversario natalicio da exma. sra. d. Esther de Azeredo Silveira, virtuosa e querida esposa do illustre prof. Joaquim Elydio da Silveira, nosso brilhante collaborador e residente em Campo Grande.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c5",
+                    "tipo": "Nota",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NASCIMENTOS",
+                    "autor": null,
+                    "texto": "Desde 7 do fluente o lar do nosso joven amigo Antonino Soares, tabellião interino nesta cidade, e de sua exma. esposa d. Nadyr Ribeiro Soares, encontra. se enriquecido com o nascimento de sua graciosa filhinha, Therezinha de Jesus.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c6",
+                    "tipo": "Nota",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "BODAS",
+                    "autor": null,
+                    "texto": "Com a senhorita Aurora Celeste Pereira Ramos, filha do sr. Polycarpo P. Ramos e de d. Laura P. Ramos, contratou casamento o sr. Ignacio Joaquim de Sant'Anna, filho do sr. Olympio J. de Sant'Added. Frame cisca de Sant'Anna.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c7",
+                    "tipo": "Artigo Esportivo",
+                    "secao": "Sportivos",
+                    "titulo": "Festa Sportiva",
+                    "autor": null,
+                    "texto": "Realisa-se, hoje, no bello campo do S. C. Iguassú, o grande festival em homenagem ao exmo, snr. Manoel Duarte, illustre presidente deste Estado.\nAlem da prova principal entre o campeão da cidade e o glorioso campeão de terra e mar da Capital, Club de Regatas Flamengo, outras provas terão logar, dispertando taes encontros a maior ansiedade em nosso meio. Aos vencedores serão offerecido valiosos e artisticos tropheos.\nA ultima parte dessa festa imponente constará de um pomposo baile na séde Iguassú, onpe tocará um esplendido jazz band.\nOs teams que disputaram a prova principal estão assim constituidos:\nFLAMENGO\nAmado-Couto- Helcio Rubens Flavio - Benevenuto",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c8",
+                    "tipo": "Artigo Esportivo",
+                    "secao": "Sportivos",
+                    "titulo": "GENTE DA BOLA",
+                    "autor": "C. C.",
+                    "texto": "Como quasi todos os players iguassuanos que disputam o campeonato carioca, iniciou a sua carreira na Amea, jogando pelo Bangú, de onde desligou-se para o Flamengo, devido na séde do club suburbano não existir carmin nem pó de arroz, o que impossibilitava-o de desenvolver um jogo productivo e almofadado. No Iguassú tem sido astro de primeira grandeza e cooperado tanto para as victorias do seu club que a Prefeitura, em reconhecimento dos seus gloriosos feitos, chegou a dar o seu nome a uma das ruas da nossa cidade-a Travessa Chaves.\nE' o Duque Iguassuano e figura indispensavel nos MUQUIÇOS de Mesquita e Ricardo, onde as cozinheiras (perdõe-me Rosalvo) fazem inteira questão de o ter como par em um baile realisado ultimamente em Mesquita, ao annunciarem \"belle-sexo\", chegou a ficar em em mangas de camisa e cueca, tal o avanço de que foi victima pelas PIMENTINHAS DO REINO, parecendo até frangos de feira no tempo da hespanhola, que chegavam a ficar em pedaços, dada a furia com que eram disputados.\nAS GUAXINIS de Mesquita ou Ricardo sentem se orgulhosas quando nos dias seguintes dos bailes contam as suas amigas as vezes que dançaram com o MOÇO MAIS DENGOSO DE NOVA IGUASSÚ. E nesse dia não ha feijão que não venha bispado para a meza.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c9",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Fogos de artificio",
+                    "autor": null,
+                    "texto": "Que tal o Circo? perguntava o Antonio Annecchino ao Christolino que acabava de assistir ao espectaculo do Circo Flamengo, do Al-\nFrancamente, não gostei, respondeu-lhe o Christolino. Demais quem assistiu o Circo Sarrassani, nada mais resta apreciar n'estes circos que aportam por aqui. Só a habilidade dos animaes fazia com que a gente ficasse abysmado.\nVocês so falam no Sarrassani, nos animaes amestrados, etc., no entanto lá na nossa fazenda, em Rezende, existe um porco que é um verdadeiro phenomeno, pois até mathematica conhece.\nA gargalhada foi geral e o Antoniquinho todo encabulado e vermelho de raiva continuou: perguntem ao Thelmo que elle lhes dirá\nNós cortamos diversos pedaços de papelão do tamanho de cartas de baralho onde escrevemos todos os numeros.\nPapae chamava o porco e dizia: MIMOSO, pense bem e me responda. Trez kilos de toucinho a 1$500 cada um em quanto importa?\nanimal punha a pata na testa, pensava, pensava e collocava os cartões com os numeros na parede-quatro mil e quinhentos!\nO Silva pediu vaso.\n-Você não está exausta?\nElla, com aquelles gestos, (muito natural nas mulheres) e com um sorriso desdenhoso nos labios, respondeu:\n-Não !...\nRosalvo, com aquella cara \"feixo lenha\", virando-se para o de disse:\n- Aquella é a minha noiva.\nMas, interrogou o C.- porque então não passeiam juntos ?\n-Ella é demasiada excentrica! exclamou o heróe..\n-Historias! respondeu o P., ella não está disposta a ouvir, hoje, os seus balãozinhos....\nMinha ex pequena ha de tirar o Concurso de Belleza d' A CRITICA custe o que custar! dizia o Toninho em uma roda de amigos.\nComo? Você não têm meios, disse o M.\n--Ella ha de tirar, nem que eu tenha de vender a ultima camisa do corpo ou quebrar pedras em S. Diogo.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c10",
+                    "tipo": "Passatempo",
+                    "secao": null,
+                    "titulo": "Charadas. Critica",
+                    "autor": null,
+                    "texto": "Ao Nerê\nA primeira nota do artigo, refere se á meu bom camarada 1-1-1.\nAo Ronaldo\nE' o mais almofadinha finetão dos nossos jogadores (com licença do Geraldo) e queridissimo da torcida iguassuana, mórmente no tocante a player do Flamengo C.C. 1-1-1.\nCom uma pedra atirada na cabeça eliminei um homem 1-2.\nAo Cêcê\nFRANCARFRO\nPelo succedido, tenho interesse em dizer, que foi tudo falsidade-1-2.\nAo Ronaldo\nE' singular que me corra o pranto, ao lembrar me que já estive na cadea-1-2. NERE\nAo Jobar\nDe encarnado vivo, é pintado um palacio do Rei do jogo-1-2.\nAo Dr. Brigagão\nEsta taboa, tome nota, é do filho d'uma Capital-1-2. GEN\nAo Nerê\nSerá verdade que vecê canta uma musica celebre? -2-1\nAo Cêcê\nNesta embarcação, criminoso será conduzido para um lugar funebre-2-2\nAo Jobar\nEstava debaixo da pata do animal aquillo que servia de base 1-1. RONALDO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c11",
+                    "tipo": "Passatempo",
+                    "secao": null,
+                    "titulo": "Logogryphos POR LETRAS",
+                    "autor": "PEJOTA",
+                    "texto": "Ao Paubar.\nNo liquido, 4, 6, 11, 4, a embarcação. 1, 8, 3, 5, 2, era grande, 8, 10, 9, 7, quando aportou a esta cidade.\nAo Jobar.\nA flôr 3, 2, 9, que vicejava na margem do rio 1, 8, 7. 4, foi colhida pelo homem, 5 3, 2, 1, 8, 6 e levada para a cidade.\nAo Antonino.\nA oraçãozinha, 5, 17, 7, 9, 10. que o Mestre 13, 14, 15, 16, 6 possuia 1, 7, 8, 2, 10, foi dada, no Paraizo 12, 11, 3, 3, a santa que será o anjo da guarda da tua idolatrada filhinha.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c12",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "CRUCIS",
+                    "autor": null,
+                    "texto": "Pharmacia de plantão:\nPharmacia Sto. Antonio\nPraça M. Seabra, 12",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c13",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "O namoro platonico do M. A.",
+                    "autor": null,
+                    "texto": "O namoro platonico do M. A.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c14",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "As manias de caçada do P. A. F.",
+                    "autor": null,
+                    "texto": "Dedicou-se á carreira commercial, cursando, como está, a melhor das academias deste ramo. Afinal vem se impondo, pelas suas nobres qualidades intellectuaes e moraes no \"set\" de Nova Iguassú.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c15",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "A paixão aguda do W. G.",
+                    "autor": null,
+                    "texto": "Sei que gostas de mim Sabes que gosto de ti. No emtanto, não sei por que, nós somos, tum para o outro, dous segredos, dous mysterios occultando, asphyxiando a loucura espontanea de um amor espontaneo...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c16",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "Sonhador",
+                    "autor": null,
+                    "texto": "E' PRECISO errar muito, para acertar algumas vezes.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c17",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "O acabrunhamento da sta. A. S. T.",
+                    "autor": null,
+                    "texto": "O acabrunhamento da sta. A. S. T.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c18",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "O capote antiquario do Eugenio B.",
+                    "autor": null,
+                    "texto": "O capote antiquario do Eugenio B.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c19",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "As risadas invocadas do Antonio A.",
+                    "autor": null,
+                    "texto": "As risadas invocadas do Antonio A.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c20",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "A fleugma fleugmatica do fleugmatico J. Cordeiro.",
+                    "autor": null,
+                    "texto": "A fleugma fleugmatica do fleugmatico J. Cordeiro.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c21",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "A mania de embirrar do EMBIRRADO",
+                    "autor": null,
+                    "texto": "A mania de embirrar do EMBIRRADO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c22",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "Microbio",
+                    "autor": null,
+                    "texto": "A FEIALDADE é a unica cousa que pode garantir a vida das mulheres.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c23",
+                    "tipo": "Nota",
+                    "secao": null,
+                    "titulo": "CORRESPONDENCIA:",
+                    "autor": null,
+                    "texto": "Newton Vadinho Nônô- Agenôr- Moderato IGUASSU Ricarti-Belmiro Norival -Tião Nelson -Licice - Christo Gayão - Edson -Edmundo-Mario.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c24",
+                    "tipo": "Concurso",
+                    "secao": null,
+                    "titulo": "Concurso de Belleza",
+                    "autor": null,
+                    "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nGuilhermina Gomes 19\nDalila Moura 12\nDiva Marinho 10\nLaura Sampaio 9\nGuajajara Pereira 9\nMercedes Pimenta 8\nYolanda Sampaio 8\nOdila Soares 7\nAyxa Soares 7\nAvany R. da Silva 6\nJuremira Pereira 5\nResultado do numero anterior:\nNovela\nNo. 1--Nanicon . 2- Aquilino-n. 3-Malsim nº. 4-Amem-n .5 n°. 6-Calendas.\nCONCURSO DE BELLEZA VOTO EM As",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c25",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CINEMA VERDE",
+                    "autor": null,
+                    "texto": "HOJE! HOJE!\n\"CORPO E ALMA\"\nGrandioso drama em 7 actos, por A. Pling.\nOs 5 e 6 episodios do film en series,  e uma comedia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 3,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p3_c1",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "AÇOUGUE ACRITICA CENTRAL",
+                    "autor": null,
+                    "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRODOLPHO ANNECCHINO & FILHO\nNOVA IGUASSU\n, RUA M. FLORIANO, 198",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Anúncios listados antes do cabeçalho da edição 6 (pertencentes à edição 5, conforme regra 6 e 7)."
+                },
+                {
+                    "id_conteudo": "p3_c2",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue União",
+                    "autor": "Ernesto Moreira",
+                    "texto": "Fornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MARE CHAL FLORIANO, 1\nNova Iguassú E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c3",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Dispensa Globo",
+                    "autor": "F. Raunheitti & C.",
+                    "texto": "BOM E BARATO\nImportação directa de cereaés dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente.\nRua Marechal Floriano Peixoto, 198\nNova Iguassu E do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Vidraceiro da Matriz",
+                    "autor": "BELMIRO VIEIRA FERNANDES & C",
+                    "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc, Grande variedade de estampas, espelhos e molduras para quadres, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes. Folhinhas, cartões, etc.\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilopolis:\nAv. Lazaro de Almeida, 195",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Pharmacia",
+                    "autor": null,
+                    "texto": "RUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Padaria e Confeitaria Trez Nações",
+                    "autor": "ESTEVES & IRMÃO",
+                    "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU' Estado do Rio Iguassú",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c7",
+                    "tipo": "Anúncio Profissional",
+                    "secao": null,
+                    "titulo": "DR. MONTE MO'R FILHO",
+                    "autor": "DR. MONTE MO'R FILHO",
+                    "texto": "(Proximo á Estação)\nCONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas.\nNOVA IGUASSU' E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Nova Mundial",
+                    "autor": "ANTONIO PEREIRA DIAS",
+                    "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nPRAÇA M. SEABRA, 4\nE. DO RIO NOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Tinturaria Elite Fluminense",
+                    "autor": "ALVARO ROBLES QUINTANA",
+                    "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa,\nPRAÇA M. SEABRA, 30-Nova Iguassú-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "\"Alfaiataria Silva\"",
+                    "autor": "MANOEL SILVA",
+                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorqué V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem se ternos em 24 horas-Confecções de roupas brancas\nPRAÇA M. SEABRA, 10-Nova Iguassù-Ę. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c11",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue São Jorge",
+                    "autor": "FERREIRA & FERREIRA",
+                    "texto": "Tem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116 NOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c12",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CASA ADORNATIVA",
+                    "autor": "João Carias",
+                    "texto": "Caixões mortuarios de qualquer classe para anjos e adultos-Acceitam-se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nRua M. Floriano Peixoto, 144\nNOVA IGUASSU' ESTADO DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c13",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Velóz",
+                    "autor": null,
+                    "texto": "AGENCIA DE TRANSPORTES E AUTOS PARA PASSEIO :::: Fornece materiaes para construcções",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c14",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "MOACYR & FILHO",
+                    "autor": "MOACYR & FILHO",
+                    "texto": "RUA RITA GONÇALVES, 937 NOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        }
+    ]
+}
