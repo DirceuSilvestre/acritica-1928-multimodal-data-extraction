@@ -1,0 +1,454 @@
+{
+    "periodico": 
+    {
+        "id_jornal": "acritica_ni",
+        "nome": "A CRITICA",
+        "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+        "proprietarios": 
+        [
+            "Avelino Azeredo",
+            "Sylla Filizola"
+        ],
+        "local_publicacao": 
+        {
+            "cidade": "Nova Iguassú",
+            "estado": "Rio de Janeiro",
+            "pais": "Brasil"
+        }
+    },
+    "edicao": 
+    {
+        "id_edicao": "acritica_ano1_num8_19280805",
+        "ano_romano": "I",
+        "numero": "8",
+        "data_publicacao": "1928-08-05",
+        "data_impressa": "Domingo, 5 de Agosto de 1928"
+    },
+    "paginas": 
+    [
+        {
+            "numero_pagina": 1,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p1_c1",
+                    "tipo": "Artigo",
+                    "secao": null,
+                    "titulo": "ABAIXO DE ZÉRO",
+                    "autor": "SARA J. B. DO CORREIA",
+                    "texto": "O velho relogio québra o silencio, accusando-me vinte e três horas. Lá fóra o luar domina e um vento, frio e secco, arrepia, a alma das cousas...\nNo céo, ergástulo da perfeição e da chave do enigma da vida;-as estrellas tremem, porque eternamente tremem\nEm baixo, na estação, trens offégam, manobrando sempre... No ar, ameno e gélido, fluctuam pedacinhos de fogo.\nEm o meu quarto, agasalhado, leio noticias duma folha esparsa: No Sul o frio é intenso, Curityba a três gráos abaixo de zéro; bem como Rio Grande e a Republica Argentina. Penso, em Curityba amanhecida, com seus pinheiros envelhecidos pela néve .- A cidade toda branca... toda espuma... nuvens que se desprendem...\nReflicto e, de meu raciocinar tiro algo que entristéce. Accórrem me as probações das almas irmãs, victimas involuntarias do [ilegível] -enigma das cousas que se vêm sem lar e fazem do frio abrigo. Vivem para a tréva e para a miseria. Assisto, atravéz do pensamento, ás grandes cidades onde o frio impéra e, ahi, crianças orfans, desprotegidas, na lucta pelo pão e pelo instincto, disputam, aos cães sem dono, o logradouro em que dormitam... Miséria! Desigualdade!\nA sociedade existe como filha primogênita da humanidade egoista; esta é, além de tudo, hypocrita e insensivel; aquella, ipso facto, não menos cruel.\nA policia... Se lhes descobre o habitat de miseria, levam-nos o cárcere:-Ahi terão jornáes por cama e tecto por agasalho..\nPobrezinhos dos homens !... A natureza agrada mais porque é mais perfeita; tua obra, homem egoista, é falha, é muito hypócrita!\nEstes são os que luctam Clamam pela sociedade, pelo homem e pela humanidade... Todos ouvem mas ninguem responde! Sim, a sociedade existe para o Homo e este para a humanidade.\nA noite avança e eu sinto mais frio.\nAdormeci, ouvindo um tic-tac moribundo e um murmurio fráco, longinquo, talvez a préce da brisa na fáce das arvores:Sim, existe Sociedade e Humanide; aquella para os grandes e esta para os fortes... no mais indiferentismo, ouvidos moucos e escárnéo para o clamor da mizeria e para a dôr universal.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c2",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "Esquecer",
+                    "autor": "HELENA MARILIA",
+                    "texto": "Um longo olhar... o esboço de um sorriso....\nUma phrase baixinho, dita a medo....\nUm não e logo um sim meio indeciso,\nE um beijo sob a fronde do arvoredo....\nAma-se... e, talvez tarde, talvez cedo,\nComo que um sonho pallido, impreciso,\nO mesmo fim banal do eterno enredo.\nE é preciso esquecer... porque é preciso.\nMas não se esquece. Dentro da memoria,\nHa sempre qualquer coisa que ficou\nA reviver aquella velha historia.\nLembra se... mesmo se depois, raiou\nUma vida melhor, mais illusoria.\nPois só pôde esquecer... que nunca amou.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c3",
+                    "tipo": "Aviso/Informativo",
+                    "secao": null,
+                    "titulo": "ASSIGNATURAS",
+                    "autor": null,
+                    "texto": "Mez 1$000\nNum. avulso $200\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c4",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "SAUDADE.",
+                    "autor": "Lery",
+                    "texto": "Acabo de receber dum amigo, uma carta que me fez pensar sobre a mulher. Elle é todo sinceridade, é todo ternera, é todo lealdade.\n«Dou a uma mulher, meu amigo, todo o amor que imaginar se pode; só a ella amo, só nella penso; só por ella vivo e ahi está a recompensa trahiu-me, como todas as mulheres,» dizia elle.\nE eu me recordava o que me haviam feito gozar e exclamava interiormente :-são adoraveis!\nE eu me recordava o que me haviam feito soffrer e exclamava: são infames!\nEstudando a physicamente perfeitas mas... espiritualmente me pareciam monstruosas.\nQue cabellos louros, deliciosamente louros; que olhos pretos, deliciosamente pretos; que boca, que gentileza têm algumas!\nOh! as mulheres !\nSão formosas como Phrinéa, dignas do amor de Deus Olimpico.\nQualquer mortal daria cem vidas por ellas se as tivesse. E morrendo, morreria contente cem vezes!\nPorèm... qué coração têm !\nSão frias como o gelo, voluveis como o vento!\nMas felizmente o vento passa rodopiando e na sua rajada formidavel leva... leva o que? A saudade... a saudade...\nAssim é a mulher.\nEllas passam tentadoramente nos arebatando.\nMas... ellas tambem passam como o vento...\nE o que resta das que passaram ?\nSomente a saudade....",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c5",
+                    "tipo": "Crônica/Humor",
+                    "secao": null,
+                    "titulo": null,
+                    "autor": null,
+                    "texto": "A patrôa á cosinheira, chegada da roça:\n-Maria, vá ao açougue e veja se o açougueiro tem pés de carneiro.\nDez minutos depois:\n-Não pude vê não senhora; o shomme>  de tamancos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 2,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p2_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Lamentos de um simio...",
+                    "autor": "CONDE D'ALBA",
+                    "texto": "ORA vejam só !.. Isso tem graça ?!... Para que haviam de dar os homens, agora !...\nQue culpa temos nós, macacos, que os homens tenham nascido homens ?...\nPor que não nasceram macacos ?... Essa é boa !...\nEsses homens... Esses homens...\nCommettem toda sorte de depredações em sua especie e depois... e depois, nós é quem \"pagamos o pato \"...\nMalditos os homens. Malditos sejam os homens.\nMas, isso não fica assim; havemos de tomar uma providencia.\nJá não bastava de humilhações.\nDe uma feita os homens espalharam pelo Mundo afóra que elles descendiam de nós...\nVejam. Pasmem só, diante de tanta inbecilidade.\nEra a primeira offensa á nossa especie.\nAgora, appareceu aqui, vindo das caldeiras de \" Pedro Botelho \" um tal de Voronoff, francez falsificado, com um processo, que diz seu, e não ha macaco que lhe escape ao bisturi...\nE em que estado elle deixa os nossos irmãos...\nEssa, constitue a segunda e a maior humilhação á nossa raça, porém, talvez seja a ultima; estejam os homens certos disso.\nIsso é mesmo uma grande affronta !...\nOs imbecis dos homens, pertencentes que são a uma raça inferior, que pensa e trabalha, entregam se, na mocidade, a toda sorte de desatinos e depois, já velhos e é quando justamente deviam pagar, pelos mesmos, no fundo de uma escura cova, recorrem elles á nossa joventude, á joventude de nossa raça...\nSão esses batoteiros que se consideram superiores a todos os outros animaes...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c2",
+                    "tipo": "Coluna Social",
+                    "secao": "SILHUETAS FEMININAS",
+                    "titulo": "SILHUETAS FEMININAS",
+                    "autor": "G. G.",
+                    "texto": "Leitores, attenção!\nTodos nós apreciamos a violêta meiga, por que ?\nPor ser flor ?...\nNão basta esta qualidade.\nPor ser bonita e possuir essencia divinal?\nTambem não. Então haverá algo superior para tal... Todas as cousas têm a sua historia porque existem; logo a violêta não póde fugir á norma: -Nascêra branca e inodora, numa manha formosa. Fizérase bonita e, da verdura do cájice, perecia uma gota de orvalho. Alma de criança, nunca sentira a fudo o amor dos colibris. Ah! mas num dia de sol, um colibri de ouro veio ter ao jardim onde a violêta sorria...\nContou-lhe madrigaes; exalçou-lhe o sentimento e a candidez e voltou pela segunda vez. Pela quinta, foi, mas nunca mais voltou;-- d'ahi a violêta ficou triste ficou mais linda... Perdeu a alegria: A alma, chorosa e apaixonada, monstrou-se-lhe chorosa, e o pranto da paixão, as petálas subtis tingiu de roxo. A violêta ficou mimosa... singela.... solitaria...\nE' uma alma de violêta a nossa perfilada de hoje: Tristonha e sentimental porque amou demais e elle partio... Traz nos olhos negros e bellos, um misto de saudade e dôr de amar. Cabelos negros, ao rigor do córte. Rosto redondo e moreno, bôca de nacar e um buço encantador. E' robusta e de pouca estatura. E' muito meiga, lembrando-nos a \"moreninha\" de Macedo. Bem elegante se mostra e affavel se nos revela no trato.\nPouco fala porque; sonhadôra como é, vive para seu sonho, para o ideal da chiméra.\nE' linda, gentil e devéras modesta, esta violêta do nosso jardim.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c3",
+                    "tipo": "Coluna Social",
+                    "secao": null,
+                    "titulo": "NATALICIOS",
+                    "autor": null,
+                    "texto": "A 22 do mez p. f. viu passar seu anniversario natalicio a senhorita Anna Netto, residente na Capital.\n-Fez annos a 2 deste o joven Norival Elias de Barros.\n-Hontem, viu passar sua data intima a exma. sra. d. Adelia S. Soares. Transcorreu no mesmo dia o anniversario natalicio do dr. João B. Ribeiro, advogado do nosso Forum.\nAinda nesse dia fez annos o nosso amigo Abilio S. Teixeira.\n-O sr. Antonio F. dos Santos Reis e seu filho Eraclydes S. Reis, fizeram annos tambem na data de hontem.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c4",
+                    "tipo": "Coluna Social",
+                    "secao": null,
+                    "titulo": "ENFERMOS",
+                    "autor": null,
+                    "texto": "Afim de submetter se a delicada intervenção cirurgica internou-se no Hospital S. Sebastião, da Capital, a graciosa senhorita prof. Diva Marinho, irmã do nosso distincto collaborador sr. Gastão Costa.\nA distincta enferma será operada pelo dr. Brandão Filho e naquella casa de saude está cercada do carinho dos seus parentes.\nOs nossos votos de prompto restabelecimento.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c5",
+                    "tipo": "Crônica/Humor",
+                    "secao": null,
+                    "titulo": "Ao pé da letra",
+                    "autor": null,
+                    "texto": "Interessante, muito interessante o facto que se passou entre um \"prosador\" poeta e uma joven já entrada em annos (desculpa-me a indiscrecção, mlle.), na praça.\nMlle. que footingava pelo jardim, talvez para ver se pescava\" algum \"peixe \" que lhe caisse nas redes, cansada, sentou-se num dos CONFORTAVEIS bancos ali atirados, á mercê dos passarinhos...\nCruzou as pernas numa posição \"ulterrimamente\" elegante e o vestido, curto e apertado, subiu UM POUCO, deixando ver muito alem da graciosa curva de seu joelho...\nUm nosso amiguinho-o tal \"prosador\" poeta-ao passar pelo banco onde mlle. se sentára, vendo a posição tão chic em que ella se achava, atirou-lhe aos ouvidos, mordazmente:\nQuando te sentas, menina,\neu te pergunto por tróça:\n-Tu mostras que a perna é fina,\nou mostras que a meia é grossa?...\nMlle. indignou-se e, levantando-se, respondeu lhe irritada:\nSi a perna que tenho é fina,\nSi a meia que eu uso é grossa,\neu sou, malcreado, menina\nque não sirvo para trôça!\nO nosso heróe desappareceu e uma amiguinha de mlle. levantou-lhe o braço, dizendo-a: CAMPEÃO POR KNOK OUT...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c6",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "Sonhador",
+                    "autor": "Jujé",
+                    "texto": "MULHER é uma incognita indecifravel.\nSe eu possuisse, Jajára,\nDo corpo a altura tua\nDando beijos á Lua,\nA vida inteira eu levára\nPara medir te,\nDou-te um conselho, um aviso:\n-Invente primeiro um metro,\nque và da terra ao Paraízo.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c7",
+                    "tipo": "Poesia/Humor",
+                    "secao": null,
+                    "titulo": "Brincalhão",
+                    "autor": "BRISER",
+                    "texto": "Mais leve que os macacos,\nWilton (na ancia de ser mais leve)\nInd'enche a cara de buracos!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CINEMA VERDE",
+                    "autor": null,
+                    "texto": "HOJE! HOJE!\n«MEU BEBE»\nGrandioso drama em 8 actos, por G. Arthur.\nOs 1 e 2 episodios do film em series, Rei dos Detectives e uma comedia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Pharmacia de plantão:",
+                    "autor": null,
+                    "texto": "Pharmacia Iguassú\nR. Marechal Floriano, 106",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c10",
+                    "tipo": "Crônica/Humor",
+                    "secao": null,
+                    "titulo": "Embirro com...",
+                    "autor": "EMBIRRADO",
+                    "texto": "As injecções do Pedro Panasco.\nO retraimento do Abilio Salles.\nA risada bestiologica do Eugenio.\nAs caçadas bôbas do R. M. e do Casquinha pelos lados da Villa Pariz\nO novo systema de paulificar, do Papaleo.\nO bigodinho sem graça do Manequinho.\nO andar da sta. N. M.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c11",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Fogos de artificio",
+                    "autor": "Philarmonica",
+                    "texto": "-Este meu irmão é a minha vergonha, dizia o Mario Soares para o Carlos Torres, referindo se ao seu mano Gayão.\nSó entende de foot-ball e jogo do bicho, e não quer saber de outra vida.\nHa dias fui visitar o meu amigo Mafra, que é ajudante em Deodoro, levando em minha companhia o malandro do Gayão.\nDepois de discorrermos sobre os ultimos acontecimentos e thezourarmos as recentes promoções feitas na Central, por julgarmos injustas, a empregada da casa annunciou que o chá estava na meza e o Mafra, com aquella amabilidade que o faz querido por todos, perguntou-nos:\n-Querem tomar chá comnosco ? e qual não foi o meu espanto quando o Gayão, depois de dar uma d'aquellas risadinhas \"A LA PATO\", respondeu:\n-Chá não quero seu Mafra, mas acceito um pedacinho de COMNOSCO, só para provar!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 3,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p3_c1",
+                    "tipo": "Esporte/Perfil",
+                    "secao": "Perfis Sportivos",
+                    "titulo": "GENTE DA BOLA",
+                    "autor": "Microbio",
+                    "texto": "Embora já o tivesse perfilado pelas columnas do extincto \"O Pequenino\", volto novamente a carga, a pedido do Onze.\nNinguem desconhece os recursos de que dispõe o extraordinario foot-ball do Iguassú, onde é conhecido como O PATRÃO do club, tal as amizades que o cercam.\nE' um esforçado em defeza do seu club, o mesmo não acontecendo quando joga por outro qualquer team, fazendo nos recordar d'aquella lenda da moça que SÓ SABIA TOCAR NO PIANO DE SUA CASA!\nNo jogo realisado entre o seu club e o Central, em Barra do Pirahy a sua actuação foi simplemente assombrosa, juntamente com Belmiro. O Coronel Nicolao que torcia até o cabo da bengala, ao vel-o salvar um goal que parecia inevitavel, exclamou:- Este Tatú é mesmo cavador de verdade, ao que um torcedor local respondeu-lhe:-Pudera, com o campo molhado e a terra tão macia, um Tatú não cavar bem!\nO nosso amigo Ronaldo já disputou pelo Bangú e Flamengo, tendo desistido deste ultimo porque na Capital não ha toca e queriam mandal-o para o Jardim Zoologico.\nFrancamente, a não ser o Gallo do Flamengo, nunca vi em minha vida um BICHO jogar tanto!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c2",
+                    "tipo": "Esporte/Crônica",
+                    "secao": "Criticando...",
+                    "titulo": "Criticando...",
+                    "autor": "CRITICO",
+                    "texto": "Domingo ultimo, no encontro entre o club local e o Syrio Libanez tivemos occasião de assistir-como é de costume-uma dessas lutas romanas em nossos campos, da qual foram protagonistas o Pedro Moura Sá e um player do Syrio.\nA luta foi tão empolgante que arrancou da assistencia uma chuva de... vaias.\nO nosso patrão, a bem da disciplina foi obrigado a retirar do grammado o referido jogador.\nO nosso sport progride...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c3",
+                    "tipo": "Passatempo",
+                    "secao": "Charadas.",
+                    "titulo": "Charadas.",
+                    "autor": null,
+                    "texto": "Ao Nêre n 1\nNo Oceano, o peixe é o alimento preferido pelo cetaceo. 1-2\nLULÚ\n\nAo Lulú n 2\nNo semblante deste homem vi um grão.-1-2\nGEN\n\nAo Ronaldo n 3\nSabes a ultima do Nere? Olhou tanto para uma moça vindo de Diamantina, a pontos de ficar com sua imagem gravada nos olhos.-1-2\n\nAo Paubar n 4\nA prova não conferio porque a conta está errada-1-2\nFRANCARFRO\n\nAo Jobar n 5\nEntre os jornaes de Annuncio ha sempre um mensajeiro.-2-3\nYRU\n\nAo Noar n 6\nA ave em cima da arvore não canta cousa alguma.-2-2\n\nAo Paubar e ao Ronaldo n 7\nJá allucinado pelo terror elle fugia pelo pavor da multidão. 3-3\nCECE\n\nAo Paubar n 8\nO nosso amigo Ronaldo já foi louco ?.-2-1\n\nAo Ronaldo n 9\nNesta madrugada, em casa do parente da galante dansarina, se construiu uma embarcação. 2-1-1\nJOBAR",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "SALÃO BRASIL",
+                    "autor": "Alencar P. de Faria",
+                    "texto": "Preços minimos, serviço esmerado e variado stock.\nPRAÇA M. SEABRA, 10\nNova Iguassú\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Pharmacia Central",
+                    "autor": null,
+                    "texto": "participa a V. Exc. que se tranferiu para o num. 214-A da Rua Marechal Floriano, onde é encontrado o abalisado clinico Dr. J. Pereira de Azevedo que dá CONSULTAS GRATIS das 8 1/2 ás 10 1/2 da manhã.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Quereis garantir sua propriedade?",
+                    "autor": null,
+                    "texto": "Vá immediatamente ao Cartorio do Registro de Immoveis desta Cidade.\nBernardino Mello, 215",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c7",
+                    "tipo": "Nota da Redação",
+                    "secao": null,
+                    "titulo": "CORRESPONDENCIA:",
+                    "autor": null,
+                    "texto": "Resultado do numero de 29 de Julho:\nN. 1 Alcatéa-n°. 2 Maestro-n°. 3 Expulso-n. 4 Cordovil-n. 5 Geração-n°. 7 Floresta-n°. 9 Amorz-n°. 10 Mexeriqueira.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "OLARIA MANOEL DOS REIS",
+                    "autor": "MANOEL DOS REIS",
+                    "texto": "Vende barro, areia e tijolos, tudo de 1a qualidade.\nPREÇOS MODICOS\nVendas a Dinheiro\nR. CAPITÃO CHAVES\nNOVA IGUASSÚ E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c9",
+                    "tipo": "Concurso",
+                    "secao": null,
+                    "titulo": "CONCURSO DE BELLEZA",
+                    "autor": null,
+                    "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nVOTO EM As\nGuilhermina Gomes | 64\nJulia M. Baroni | 49\nDiva Marinho | 19\nOdila Soares | 14\nLaura Sampaio | 9\nGuajajara Pereira | 9\nMercedes Pimenta | 8\nYolanda Sampaio | 8\nIracema Lobo | 8\nAvany R. da Silva | 6\nJuremira Pereira | 5\nHercilia Argenta | 5",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "INSTALLADORA DE IGUASSÚ",
+                    "autor": null,
+                    "texto": "Lampadas, installações electricas, Material electrico, abat-jours, etc.\nSO NA\n\"INSTALLADORA DE IGUASSÚ\"\nPRAÇA M. SEABRA, 10\nNão comprem na cidade, pois os preços aqui são os mesmos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 4,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p4_c1",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "AÇOUGUE CENTRAL",
+                    "autor": "RODOLPHO ANNECCHINO & FILHO",
+                    "texto": "Completo sortimento de carnes de vacca, porco carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRUA M. FLORIANO, 198\nNOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c2",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue União",
+                    "autor": "Ernesto Moreira",
+                    "texto": "Fornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MAR CHAL FLORIANO, 1\nNova Iguassú E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c3",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Dispensa Globo",
+                    "autor": "F. Raunheitti & C.",
+                    "texto": "BOM E BARATO\nImportação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente.\nRua Marechal Floriano Peixoto, 198\nNova Iguassú E do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Vidraceiro da Matriz",
+                    "autor": "BELMIRO VIEIRA FERNANDES & C",
+                    "texto": "Completo sortimento de vidros para vetrines, vidraças de cores, musulina e opacos fantazia, etc. Grande variedade de estampas, espelhos e molduras para quadros, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes.\nFolhinhas, cartões, etc.\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilcpolis:\nAv. Lazaro de Almeida, 195",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Padaria e Confeitaria Trez Nações",
+                    "autor": "ESTEVES & IRMÃO",
+                    "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades e doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU'\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Pharmacia Iguassú",
+                    "autor": null,
+                    "texto": "RUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c7",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Nova Mundial",
+                    "autor": "ANTONIO PEREIRA DIAS",
+                    "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nPRAÇA M. SEABRA, 4\nNOVA IGUASSU E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Tinturaria Elite Fluminense",
+                    "autor": "ALVARO ROBLES QUINTANA",
+                    "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile. etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa,\nPRAÇA M. SEABRA, 30-Nova Iguassú-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "\"Alfaiataria Silva\"",
+                    "autor": "MANOEL SILVA",
+                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorqué V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem-se ternos em 24 horas-Confecções de roupas brancas\nPRAÇA M. SEABRA, 10-Nova Iguassù-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue São Jorge",
+                    "autor": "FERREIRA & FERREIRA",
+                    "texto": "Tem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116 NOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c11",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CASA ADORNATIVA",
+                    "autor": "João Carias",
+                    "texto": "Caixões mortuarios de qualquer classe para anjos e adultos-Acceitam se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nRua M. Floriano Peixoto, 144\nESTADO DO RIO\nNOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A string do título foi extraída conforme entendimento visual somado ao contexto da página anterior, apesar de estar cortada como 'CASA ADORNATI'."
+                },
+                {
+                    "id_conteudo": "p4_c12",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "AGENCIA DE TRANSPORTES Velóz",
+                    "autor": null,
+                    "texto": "E AUTOS PARA PASSEIO\n(Proximo á Estação",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c13",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "MOACYR & FILHO",
+                    "autor": null,
+                    "texto": "Fornece materiaes para construcções\nRUA RITA GONÇALVES, 937\nNOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c14",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "DR. MONTE MO'R FILHO",
+                    "autor": null,
+                    "texto": "CONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas.\nNOVA IGUASSU E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        }
+    ]
+}
