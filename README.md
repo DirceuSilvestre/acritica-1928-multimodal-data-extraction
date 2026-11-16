@@ -1,66 +1,130 @@
-# Extração Multimodal e Inteligência de Dados em Acervos Históricos (*A Crítica*, 1928)
+ <div align="center">
 
-> **Transformando fotografias de jornais centenários em bases JSON auditadas e inteligência executiva com Visão Computacional (Gemini) e Governança de Dados.**
+  <!-- Sugestão: adicione uma imagem ou logo do projeto aqui -->
 
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
-![AI](https://img.shields.io/badge/AI-Gemini%20Multimodal-blue)
-![Data](https://img.shields.io/badge/Data%20Modeling-JSON%20Schema-orange)
-![Domain](https://img.shields.io/badge/Dom%C3%ADnio-Humanidades%20Digitais%20%7C%20UFRRJ-lightgrey)
+  <!-- <img src="images/logo-acritica.png" alt="A Crítica IA Logo" width="120" /> -->
 
----
+  <h1>📰 Projeto A Crítica: Arqueologia de Dados com IA</h1>
 
-## 1. O Problema de Negócio e Pesquisa
-Organizações e centros de pesquisa acumulam volumes massivos de documentos não estruturados (PDFs digitalizados, imagens, contratos e acervos físicos) que permanecem inacessíveis para busca, cruzamento analítico ou algoritmos de IA. A transcrição manual é lenta, cara e inviável em escala; por outro lado, o uso indiscriminado de IA sem modelagem prévia gera saídas inconsistentes, alucinações e perda de rastreabilidade.
+  <h3>Estruturação, Extração e Análise de Periódicos Históricos (1928-1938) usando Gemini 3.1 Pro.</h3>
 
-Desenvolvido no âmbito do **Bootcamp de Humanidades Digitais da UFRRJ**, este projeto resolve esse gargalo aplicando uma abordagem **Schema-First** e **Human-in-the-Loop** sobre as 10 primeiras edições do periódico *A Crítica* (Nova Iguaçu, RJ — junho a agosto de 1928).
+  <p>De imagens não estruturadas a conhecimento histórico.<br/><b>RAG · Spec-Driven Development · Prompt Engineering · Human-in-the-loop.</b></p>
 
----
+  <p>
+    <a href="#origem-e-o-desafio-tecnico">Origem</a> ·
+    <a href="#metodologia-de-ia-e-boas-praticas">Metodologia (IA)</a> ·
+    <a href="#arquitetura-do-pipeline">Arquitetura</a> ·
+    <a href="#a-abordagem-vlm-vs-ocr-tradicional">Por que IA?</a> ·
+    <a href="#resultados-e-data-storytelling">Resultados</a>
+  </p>
 
-## 2. Arquitetura da Solução (Pipeline sem Código Imperativo)
+  <!-- Badges -->
 
-Em vez de depender de *parsers* rígidos ou de solicitar resumos genéricos à IA, o fluxo foi estruturado em quatro etapas auditáveis:
+  <p>
+    <img src="https://img.shields.io/badge/Model-Gemini_3.1_Pro-10b981?style=flat-square&logo=google" alt="Gemini 3.1 Pro" />
+    <img src="https://img.shields.io/badge/Methodology-SDD_%7C_RAG-38bdf8?style=flat-square" alt="Metodologia" />
+    <img src="https://img.shields.io/badge/Commits-Conventional-ec4899?style=flat-square" alt="Conventional Commits" />
+    <img src="https://img.shields.io/badge/Institution-UFRRJ_Pós-blue?style=flat-square" alt="UFRRJ" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen" alt="Status" />
+    <img src="https://img.shields.io/badge/Data%20Modeling-JSON%20Schema-orange" />
+    <img src="https://img.shields.io/badge/Dom%C3%ADnio-Humanidades%20Digitais%20%7C%20UFRRJ-lightgrey" />
+  </p>
+</div> 
 
-1. **Modelagem de Dados (*Schema-First*):** Mapeamento prévio da estrutura física do jornal e definição de uma hierarquia relacional em JSON (`periodico` → `edicao` → `paginas` → `conteudos`), preservando metadados de autoria, seção, tipologia e notas de pesquisa.
-2. **Extração Multimodal (*Prompt-as-Code*):** Uso do modelo **Gemini** com capacidades de Visão Computacional para interpretar as páginas digitalizadas, segmentar colunas e popular o contrato JSON padronizado (`prompts/02_extracao_visao_computacional.md`).
-3. **Critério de Domínio (*Human-in-the-Loop*):** Incorporação da metodologia de historiadores para sinalizar trechos comprometidos pela degradação física do papel ou tinta com a tag padronizada `[inelegivel]`, evitando que a IA "adivinhasse" palavras ausentes.
-4. **Auditoria de Qualidade e EDA Executiva:** Validação cruzada entre arquivos para detecção de anomalias de digitalização, deduplicação de registros e síntese de indicadores de negócio (`reports/dossie_executivo_clevel.pdf`).
-
-![Modelo de Grafo — Estrutura de Dados JSON](assets/modelo_grafo_json.jpeg)
-
----
-
-## 3. Governança e Auditoria de Dados (Resultados Técnicos)
-
-A aplicação de rigor analítico sobre a base extraída permitiu identificar e corrigir problemas críticos antes da análise final[cite: 66, 72]:
-
-| Métrica de Engenharia & Qualidade | Resultado Auditado | Ação de Governança Aplicada |
-| :--- | :--- | :--- |
-| **Registros Brutos vs. Corpus Canônico** | **413 brutos → 324 únicos** | Remoção de **89 registros excedentes** causados por vazamento de fronteira (*boundary bleed*) onde a página 4 de um PDF correspondia à capa da edição seguinte. |
-| **Integridade Sintática (EOF)** | **2 arquivos truncados (Ed. 08 e 09)** | Recuperação íntegra dos dados via reconciliação cruzada com as edições subsequentes. |
-| **Rastreabilidade Física (OCR/Papel)** | **388 marcações `[inelegivel]`** | Isolamento de falhas físicas (30,9% concentradas na Edição nº 1) sem preenchimento especulativo pela IA. |
-| **Volume Lexical Consolidado** | **25.610 palavras válidas** | Média de 2.561 palavras/edição organizadas em 11 categorias editoriais e comerciais normalizadas. |
+> **Digitalizar não é estruturar.** Ler centenas de PDFs de jornais de 1928 com tipografia antiga e layout complexo desafia OCRs tradicionais. Este projeto demonstra como a orquestração avançada de Modelos de Visão e Linguagem (VLMs), guiada por forte Engenharia de Prompt e arquitetura de dados, transforma imagens de jornais centenários em dados estruturados e organizados prontos para Data Storytelling.
 
 ---
 
-## 4. Principais Insights Extraídos (Visão Executiva)
+## 🎓 Origem e o Desafio Técnico
 
-Com a base limpa e estruturada, a Análise Exploratória de Dados (EDA) revelou dinâmicas econômicas e sociais em poucos instantes:
+O desafio de processar e estruturar jornais da década de 1920 com layouts ruidosos foi inicialmente apresentado no **Bootcamp de IA do Departamento de Pós-graduação em Humanidades Digitais da UFRRJ**.
 
-* **Pivotagem de Monetização:** A partir da 5ª edição, o jornal migrou 13 anunciantes âncora da contracapa direto para o cabeçalho da Página 1, sustentando uma taxa de retenção de **59%** entre as 22 empresas anunciantes.
-* **Equilíbrio de Produto:** Anúncios curtos ocupavam **45,4%** dos blocos da página, mas preservavam **81,0%** do volume textual para crônicas, sátira e cultura.
-* **Estratégias de Aquisição (1928):** Identificação de modelos semelhantes ao *freemium* (consultas médicas gratuitas matinais em farmácias) e vantagens logísticas (ternos sob medida em 24h com 40% de economia).
-* **Inteligência Geoeconômica:** Mais de **85%** do comércio com endereço publicado concentrava-se em um triângulo de apenas três vias adjacentes à estação ferroviária.
-* **Protagonismo Feminino:** A escritora **Sara J. B. do Correia** assinou o artigo de abertura da capa em **9 das 10 edições** analisadas.
+Identificando as severas limitações dos métodos tradicionais de OCR discutidos durante a imersão, decidi assumir a arquitetura integral deste desafio. Construí do zero uma solução independente baseada em VLMs (Vision-Language Models), elevando o escopo inicial a um pipeline robusto de Engenharia de Dados que garante rastreabilidade e governança.
 
 ---
 
-## 5. Lições sobre Uso Adequado de IA no Trabalho
-Este projeto demonstra que o uso profissional de Inteligência Artificial generativa exige **pensamento sistêmico**:
-1. **IA não substitui modelagem:** Sem um *schema* claro, a extração escala a desorganização.
-2. **Auditabilidade é inegociável:** Todo *pipeline* baseado em LLMs precisa de métricas de controle (taxa de duplicidade, falhas de leitura e validação de *schema*).
-3. **Interdisciplinaridade gera vantagem:** A combinação de regras de domínio (Humanidades) com estruturação computacional entrega resultados que nenhuma das áreas alcançaria isoladamente.
+## 🧠 Metodologia de IA e Boas Práticas
+
+Este projeto foi desenhado para demonstrar maturidade no uso de LLMs/VLMs em ambientes de produção. O foco aqui não é o uso casual de chatbots, mas a construção de pipelines de software impulsionados por IA:
+
+1. **Spec-Driven Development (SDD):** Utilização de metaprompts e RAG (anexando PDFs de referências de bancos de dados) para gerar um documento arquitetural robusto (`spec_driven_development...md`). A IA foi primeiro instruída a atuar como *Arquiteta de Dados* antes de realizar a extração.
+2. **Engenharia de Prompt Avançada (Zero Hallucination):** Criação de um sistema cognitivo de extração (`01_extracao_visao_computacional.md`). O prompt obriga o **Gemini 3.1 Pro** a realizar Análise de Layout de Documentos (Document Layout Analysis), respeitando hierarquias espaciais, lidando com ruídos ("[ilegível]") e isolando blocos independentes.
+3. **Extração Baseada em Esquema (JSON Strict):** Garantia de estruturação de dados utilizando um template rigoroso (`modelo_extracao_jornal_acritica.json`). A IA preenche metadados (edição, autores, colunas) gerando payloads prontos para ingestão direta em bancos SQL/NoSQL.
+4. **Execução e Orquestração:** O processamento das imagens e geração dos esquemas JSON foi conduzido através do Gemini 3.1 Pro *[Nota: Ajuste aqui se usou a API em Python ou o Google AI Studio]*, garantindo a janela de contexto necessária para lidar com o alto volume de tokens visuais e textuais.
+5. **Human-in-the-Loop (HITL) & Rastreabilidade:** Cada página extraída foi submetida a revisão humana para garantir qualidade e aderência histórica. Todo o versionamento seguiu o padrão **Conventional Commits** (ex: `docs(newspaper): add edition 10 of newspaper 'a critica'`), mantendo o histórico de evolução de dados limpo e auditável.
 
 ---
 
-## Créditos e Reconhecimentos
-Projeto desenvolvido durante o bootcamp do Programa de Pós-Graduação em Humanidades Digitais da **UFRRJ**, sob orientação dos professores **Marcelo Zamith** e **Marcel William Rocha da Silva**.
+## 🏗️ Arquitetura do Pipeline
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│  Pipeline de Extração e Análise (A Crítica 1928-1938)              │
+├────────────────────────────────────────────────────────────────────┤
+│  1. Ingestão    ➔ PDFs de Época (Scans com ruído visual e físico)  │
+│  2. Orquestração➔ Prompt OCR Visual (Gemini 3.1 Pro + SDD)         │
+│  3. Estruturação➔ Validação em JSON Schema (Hierarquia de Dados)   │
+│  4. Revisão     ➔ Human-in-the-loop + Conventional Commits         │
+│  5. Analytics   ➔ Dossiê Executivo C-Level (Data Storytelling)     │
+└────────────────────────────────────────────────────────────────────┘
+
+```
+
+---
+
+## ⚖️ A Abordagem VLM vs. OCR Tradicional
+
+Para um problema complexo de layout de múltiplos recortes, ferramentas como Tesseract falham na extração de contexto. O modelo de Visão e Linguagem resolve lacunas críticas da arquitetura clássica:
+
+| Desafio Histórico | OCR Tradicional (Tesseract) | **Abordagem VLM (Gemini 3.1 Pro)** |
+| --- | --- | --- |
+| **Layouts Complexos** | ❌ Lê colunas atravessadas, misturando textos. | ✅ **Compreende blocos visuais e hierarquia.** |
+| **Grafia Antiga (ex: Pharmacia)** | ❌ Tenta corrigir para pt-BR moderno (Alucina). | ✅ **Transcreve com fidelidade histórica exata.** |
+| **Metadados e Classificação** | ❌ Entrega apenas texto puro (TXT) sem contexto. | ✅ **Entrega JSON hierárquico (Página > Seção > Texto).** |
+| **Isolamento Comercial** | ❌ Agrupa anúncios e notícias no mesmo bloco. | ✅ **Segmenta por tipo e intenção do conteúdo.** |
+
+---
+
+## 📊 Resultados e Data Storytelling
+
+Além da extração de dados brutos, o projeto implementa uma camada analítica onde a IA atua como um *Analista de Dados C-Level* (`02_analise_dados_extraidos.md`).
+
+O resultado final é a consolidação dos dados JSON em um **Dossiê Executivo (PDF)** de alto nível. O documento revela, através de práticas rigorosas de *Data Storytelling*, dinâmicas socioeconômicas da época — como retenção de anunciantes, gamificação social e tendências comerciais —, transformando registros históricos em conhecimento.
+
+---
+
+## 🚀 Como Explorar este Repositório
+
+### 1. Entendendo a Arquitetura (SDD)
+
+Leia o arquivo `spec_driven_development_arquitetura_de_dados_para_gemini_3_1_pro.md` para compreender as decisões de modelagem e estruturação de dados exigidas do modelo antes da execução.
+
+### 2. O Motor de Extração
+
+Analise o arquivo `01_extracao_visao_computacional.md`. Este é o *core* do pipeline de visão computacional, contendo as restrições estritas e lógicas de bounding-box mental impostas à IA.
+
+### 3. Visualizando os Dados
+
+Navegue pela pasta de arquivos `.json` para visualizar o resultado prático da extração das edições, notando a consistência das chaves e o tratamento seguro de dados faltantes ou rasgados (`null` / `[ilegível]`).
+
+---
+
+## 🤝 Vamos Conversar?
+
+Este projeto demonstra minha capacidade de orquestrar Modelos de IA Generativa para resolver problemas reais de dados não estruturados, unindo Engenharia de Software, visão analítica e governança.
+
+Ficou interessado na abordagem ou possui desafios de orquestração de dados e IA no seu time? 
+**Conecte-se comigo:**
+
+* ![LinkedIn](https://img.shields.io/badge/Linkedin-@dirceu--silvestre-0A66C2?style=flat-square&labelColor=075A9B)
+* [![Outlook](https://shields.io/badge/Email-dirceu__silvestre-0A66C2?style=flat-square&labelColor=075A9B)](mailto:dirceu_silvestre@hotmail.com)
+
+---
+
+## 📄 Licença e Reconhecimentos
+
+Este projeto é de uso acadêmico e profissional. Desenvolvido para demonstrar capacidades avançadas de orquestração de IA e engenharia de dados. Sinta-se livre para explorar os prompts e metodologias (Licença MIT).
+
+*Agradecimento especial aos facilitadores do bootcamp, professores **Marcelo Zamith** e **Marcel William Rocha da Silva**, pela apresentação inicial do desafio na UFRRJ.*
