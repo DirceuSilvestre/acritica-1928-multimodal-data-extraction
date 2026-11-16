@@ -1,0 +1,454 @@
+{
+    "periodico": 
+    {
+        "id_jornal": "acritica_ni",
+        "nome": "A CRITICA",
+        "subtitulo": "JORNAL LITERARIO, CRITICO E NOTICIOSO",
+        "proprietarios": 
+        [
+            "Avelino Azeredo",
+            "Sylla Filizola"
+        ],
+        "local_publicacao": 
+        {
+            "cidade": "Nova Iguassú",
+            "estado": "Rio de Janeiro",
+            "pais": "Brasil"
+        }
+    },
+    "edicao": 
+    {
+        "id_edicao": "acritica_ano1_num10_19280819",
+        "ano_romano": "I",
+        "numero": "10",
+        "data_publicacao": "1928-08-19",
+        "data_impressa": "Domingo, 19 de Agosto de 1928"
+    },
+    "paginas": 
+    [
+        {
+            "numero_pagina": 1,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p1_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "EPOPÉA DE 20!",
+                    "autor": "SARA J. B. DO CORREIA",
+                    "texto": "DE Roma, rumo ao Brasil; elles partiram um dia...\nA alma, traziam na cheia de esperanças e o coração feliz, contricto na victoria.\nNo lar, a mãezinha querida ficára trisfe da partida e receiosa: Fracasso ou gloria? A incognita lhe pairáva pela mente e elles, grandes de espirito, trouxeram na no coração:-\n\"Minha mãe...\"\nMas o tempo passou como tudo passa sobre a terra e, do céo; num dia feliz, o sol osculou aquella casa, mais brilhante e mais formoso:-Elles chegaram!\nA aguia dos Alpes dominára ao Atlantico e pousou, magestosa, nas areias do Rio Grande do Norte... A pujança de suas asas dominou ao mundo que vibrou nas suas pennas!\nAguia, o sol respeitou teu olhar e o oceano- tua grandeza! Asas, o mundo sentiu teu rufflo, para grandeza da patria e orgulho dum lar feliz! Na gloria, esvõaçaste em folga e, grande para o mundo, rolaste do céo ao oceano, aureolada, pelo sol! Ah! destino das cousas caprichoso e cruel! Martyre, num stoicismo arrebatador;-venceste pela virtude! Crente, na grandesa da fé, võáste para a Gloria de Deus!...\n-Espirito e homem,--creceste para os póvos !..\nAfinal, asas dos Alpes; dormitas na glória !...\nPatria italiana, a tua dôr, '-oppõe-se a grandesa de Del-Prete!\nMãe, ao teu luto, o filho que vou acima das cousas da terra porque foi fórte, sublime e grandioso! Ferrarin, é morto o teu amigo! Sim; tuas lagrimas, são nossas tambem,- teu soffrimento, tambem nôs fala ao coração!\nGrande mãe! Grande patria! Grande filho!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "O texto flui pelas colunas inferiores da página, encerrando com a assinatura da autora."
+                },
+                {
+                    "id_conteudo": "p1_c2",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "AQUI PR'A NÓS",
+                    "autor": "JOCINIO",
+                    "texto": "Lourenço da Pindoba, tambem tinha a mania\nQue eu tenho em ser poeta e a todos annunciava\nQue era mavioso e a sua poesia\nDe fôrma original, prendia, deleitava!\n\nUm dia, reunida a aristocracia\nLocal em um salão festivo imperava\nE um grupo de senhoras, ao poeta pedia\nDizer alguma cousa, que ouvi-lo desejava.\n\n- Queremos escutar, agora, neste instante.\nAqui, nesta assistencia, selecta, elegante,\nA poesia alegre, que o senhor produz...\n\nEntão, todo cortez, limpando se com o lenço,\nChegando-se ao piano, começou o Lourenço:\n\"No topo do Calvario erguia-se uma cruz...\"",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c3",
+                    "tipo": "Dicionário Humorístico",
+                    "secao": "CORRESPONDENCIA DO SUL",
+                    "titulo": "CORRESPONDENCIA DO 70 SUL",
+                    "autor": null,
+                    "texto": "BURRA - Mulher do burro, onde os capitalistas guardam o arame de papel moeda. Tambem dá coices e é facil de ser aberta com o pé de cabra.\n\nAVENIDA - Estalagem de gente remediada em que as melindrosas vestidas de luto, derme fazem aos sabbados.\n\nBANCO - Primo irmão da cadeira. Quando quebra, quem nelle se fiou vae ao chão e fica prompto.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "O título 'CORRESPONDENCIA DO 70 SUL' apresenta um possível erro tipográfico da época ('70')."
+                },
+                {
+                    "id_conteudo": "p1_c4",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": null,
+                    "autor": null,
+                    "texto": "A nossa terra é batuta,\nO nosso Rio é bonito\nNa luta contra o mosquito.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Pequeno poema sem título e sem assinatura inserido entre colunas."
+                },
+                {
+                    "id_conteudo": "p1_c5",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "OUTRA DO CHICO",
+                    "autor": "Sá Pinho",
+                    "texto": "Um nosso amigo, de quem aliás não podemos duvidar, disse-nos que, como amigo do Chico Fidelis e conhecido antigo do mesmo, podia affirmar a veracidade do caso das calças.\n- A seu respeito, disse-nos ainda, referindo-se ao Chico, sei de facto muito melhor.\nCuriosos e interessados pedimos-lhe que o narrasse. Elle não se fez de rogado e, assim, falou:- O Chico nessa epoca, ainda não possuia o bellissimo laranjal a que te referiste; por ahi podes avaliar a sede de dinheiro que o atormentava; a moeda cahida em suas mãos cortava uma volta, como se diz na gyria, para della se desvencilhar.\nPois bem, por essa occasião, indo ao Rio, coisa que fazia pela terceira vez, si me não engano, deparou elle com um cartaz na porta de uma sapataria, onde se lia em letras garrafaes: \"Bota vinte mil reis\".\nInstinctivamente recuou, mas olhando novamente, viu noutra taboleta, em letras ainda maiores: \"Reclame! Só hoje, cincoenta mil reis\". Bom negocio, pensou comsigo, e dirigindo-se ao rapaz que vigiava as mercadorias expostas, indagou: Moço, onde se põe os vinte mil reis? e, afflicto, sem esperar a resposta, accrescentou:- De quem se reclama os cincoenta?",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c6",
+                    "tipo": "Anedota",
+                    "secao": null,
+                    "titulo": "TÃO CEDO",
+                    "autor": null,
+                    "texto": "-Faz-me o favor de dizer a que horas estamos?\n-O outro depois de consultar o relogio:\n-São horas de me pagares o que me estás devendo.\n-Pois não julgava que fosse tão cedo.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p1_c7",
+                    "tipo": "Anedota",
+                    "secao": null,
+                    "titulo": "BOHEMIO",
+                    "autor": null,
+                    "texto": "-O dinheiro fala!\n-Sim? Pois eu nunca lhe ouvi outra cousa senão dizer-me adeus!",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 2,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p2_c1",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "REFLEXÕES",
+                    "autor": "FIDALGO",
+                    "texto": "Seis horas. O sol espreguiça-se languidamente no occaso. Seus raios, de um escarlate vivo e morno, espalham-se sobre a terra, como que num abraço de despedida ao dia que sucumbe.\nOs passaros retardatarios, võam, apressadamente para os ninhos, temendo serem sorprehendidos, pela noite já proxima.\nEspalha-se pela Natureza um perfume alegre que embalsama o espaço num sorriso fagueiro.\nE' a fresca brisa que murmura migamente palavras ternas aos ouvidos de Apólo que adormece...\nDo alto de uma egreja partem os sons melodiosos da Avé Maria...\nE' a hora da prece...\nE meu espirito contemplativo volve-se, tristemente, ao passado, vivendo as horas de prazer do seu ultimo amor...\nFoi um sonho, é verdade, esse amor, como os outros amores foram outros tantos sonhos despertados pela desillusão, a implacavel desillusão...\nA vida é assim mesmo...\nUm sonho que se desperte é lógo o principio de outro sonho...\nOh! circulo vicioso de sonhos e desillusões!...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c2",
+                    "tipo": "Coluna Humorística",
+                    "secao": null,
+                    "titulo": "Embirro com...",
+                    "autor": "EMBIRRADO",
+                    "texto": "O gargarejo que o João-sinho toma todos os dias na janella da estação.\nO Ruy fazer uma viagem a Friburgo para terminar com o noivado.\nA cadeira quebrada do «Café Elite».\nO olhar apertado da sra. M. Moura.\nO Wilton recomeçar o namoro com a Vera.\nA costeleta pellada do M. Azeredo.\nA mania de embirrar do Pharmacia de plantão:\nPharmacia Fluminense\nRua Bernardino Mello, 213",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A informação do plantão da farmácia aparece listada como parte do fluxo visual ao final da coluna."
+                },
+                {
+                    "id_conteudo": "p2_c3",
+                    "tipo": "Coluna",
+                    "secao": null,
+                    "titulo": "SILHUETAS FEMININAS",
+                    "autor": "Sonhador",
+                    "texto": "E. P.\nHonra me hoje, esta colomna o sorriso da senhorinha E. P.\nMuito jovem ainda, não deixa de causar dôres de coração a muita gente. Conheço um almofadinha que, de tanto chupar limão, por não ser correspondido, já se paréce com acido citrico.\nE' morena como um janubo; conversa bem e bastante sympathica. Lindos olhos, bem castanhos, bailam, encantadores, no seu rosto arredondado. Mignon e elegante, da-nos a primeira vista o todo duma castelhana e, bastante singular, possúe até na alma esse todo seductor. E' sentimental e, tem andado ás voltas com o meninozinho saliente que se chama Cupido: Está devéras apaixonada por alguem, mas este mocinho, que não fica atraz, está, hodiernamente, alimentando um capricho muito tolo...\nDeixe disto, caro amiguinho; vamos? dê o braço a torcer!\nA terminar, addiciono uma boquinha mimosa, nariz regular e cabelos castanhos a rigor. Tem predilecção pelo sapato a Luiz XV, o que a torna bem elegante. Eis afinal um dos nossos mimos, bastante querido por ser tratavel e bonito.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c4",
+                    "tipo": "Poesia",
+                    "secao": null,
+                    "titulo": "A OLHO NU",
+                    "autor": "BRISER",
+                    "texto": "Enorme livro debaixo do braço\nGrande bengalão; olhar profundo,\nE' um sábio-pensa logo; no entanto...\nE' o maior blagueur do mundo!\n...\nEm festas, placas commemorativas,\nFazendo bestialogicos elle prova\nJamais ter nascido, pr'a falar.\n...\nPequeno, dest'amaninho\nNas sciencias é-Roskoff.\nEsta pilula de homem\nInda discute Voronoff!\n...\nP'ra o homem nada prestam (diz o rapaz)\nOs macacos são ultra negativos,\nTema até que no futuro\nElle fique sem enxertos... Mas...\n...\nAtacando o illustre Mestre\nE' um espertalhão este Eurico,\nNegue-lhe o sabio os macacos. Pois..\nBasta-lhe o enxerto de um mico",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CINEMA VERDE",
+                    "autor": null,
+                    "texto": "HOJE!\nHOJE!\n«IDOLO DE TODAS»\nGrandioso drama em 8 actos, por A. Plinge.\nOs 5 e 6 episodios do film em series «Rei dos Detectives» e uma comedia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Pharmacia Central",
+                    "autor": null,
+                    "texto": "participa a V. Exc. que se tranferiu para o num. 214-A da Rua Marechal Floriano, onde é encontrado o abalisado clinico Dr. J. Pereira de Azevedo que dá CONSULTAS GRATIS das 8 1/2 ás 10 1/2 da manhã.\nPreços minimos, serviço esmerado e variado stock",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p2_c7",
+                    "tipo": "Coluna Social",
+                    "secao": "\"Critica\" Social",
+                    "titulo": "NATALICIOS",
+                    "autor": null,
+                    "texto": "O menino Francisco, filho do sr. Francisco N. Cardoso Junior, fez annos no dia 8 do corrente.\n-A 10 do corrente commemorou seu anniversario natalicio a exma sra. d. Olivia Jardim, querida esposa do nosso brilhante companheiro sr. Alfredo Jardim, residente em Bello Horizonte.\n-A 15 deste passou o anniversario natalicio de d. Margarida Manzoni, residente nesta cidade.\n-A 17 fez annos o joven Luiz de Carvalho, filho do conhecido commerciante desta praça, sr. Agostinho V. de Carvalho.\nNo mesmo dia completou mais uma data intima, a distincta professora do Districto Federal, senhorita Jandyra M. Lopes, moradora no Rocha.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 3,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p3_c1",
+                    "tipo": "Crônica / Diálogo",
+                    "secao": null,
+                    "titulo": "Entre matutos",
+                    "autor": "X",
+                    "texto": "-Bons dia cumpade! Mecê tambem anda cá nessa terra?\n-O' cumade! Cumo váe essas forças? Eu cá vô indo cumo qué Nosso Sinhô.\n- Quás são as nuvidade?\n-Ah! cumade, afora os coitadinho dos aviado, tudo mais váe se empurrano c'as mão.\n-E o futébol, cumpade?\n- Andum assumptando por ahi que os pessoá-os sóços, num sabe?--fizero gréve! Quére escangaiá a tabo no corpo!\n-E' veldade, cumade; nos botéco só se fala nisso. Os sóços pediro uma Sembréa pra móde fazê sururú. Dissero que os directo tão cumpricaticia cum elles e num quere dá a tá Sembréa. E' um causo séro, cumade! A coisa tá prêta!\n-Cruz crédo, cumpade. Eu só quero vê im que demo váe dá nisso!\n-Vamo esperá, cumade, as cunsequença dessa histora! E eu vô me chegano pra róça que minha patroa tá me esperano. Té a vórta, cumade.\n-Lembrança a cumade, cumpade. Té a vórta.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c2",
+                    "tipo": "Anúncio Institucional",
+                    "secao": null,
+                    "titulo": "Quereis garantir sua propriedade?",
+                    "autor": null,
+                    "texto": "Vá immediatamente ao Cartorio do Registro de Immoveis desta Cidade.\nBernardino Mello, 215",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c3",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "INSTALLADORA DE IGUASSÚ",
+                    "autor": null,
+                    "texto": "Lampadas, installações electricas, Material electrico, abat-jours, etc.\nSO NA \"INSTALLADORA DE IGUASSÚ\"\nPRAÇA M. SEABRA, 10\nNão comprem na cidade, pois os preços aqui são os mesmos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Fogos de artificio",
+                    "autor": null,
+                    "texto": "SALÃO BRASIL\nPRAÇA M. SEABRA, 10\nNova Iguassú\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Bloco com título separado visualmente mas que aponta para o endereço do Salão Brasil na mesma coluna."
+                },
+                {
+                    "id_conteudo": "p3_c5",
+                    "tipo": "Coluna Sportiva",
+                    "secao": "Perfis Sportivos",
+                    "titulo": "GENTE DA BOLA",
+                    "autor": "Microbio",
+                    "texto": "S. C.\nApezar do seu jogo ter decahido um pouco, ainda é o nosso primeiro half-back. Já disputou pel Bangú, na equipe secundaria e desligou-se d'este club por ouvir falar na formação do terceiro team.\nQuando sorteado não conseguiu posto algum, embora mastigasse sem reclamação a amarga GOROROBA que lhe serviam, e como estivesse noivo em Paracamby, arranjou um uniforme de capitão com um dos officiaes do corpo de Bombeiros de Nilopolis, e aos domingos, envergava, todo frajola, a fatiota de official, fazendo-se passar por TROÇO NA VIDA, em Paracamby. E pena! A cor não tem este poder.\nMais tarde dedicou-se ás corridas de cavallos, realisadas na Posse, e na disputa de um premio de dois contos, em que tomaram parte trez concurrentes, conseguiu o terceiro logar, distanciado apenas 800 metros do segundo collocado, n'uma corrida de 2.000 metros, e isto mesmo porque o seu PIQUIRA parou no meio da corrida para beber agua!\nFunccionario da Central foi, quando effectivado, removido para Pirapora, e o Saul, ao despachar a sua bagagem, olhando as iniciaes do seu nome S. C. contidas na mesma, distrahidamente despachou a para SANTA CASA, deixando-o cinco dias sem cama, a dormir num macio leito de uma Vanguarda.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c6",
+                    "tipo": "Passatempos",
+                    "secao": null,
+                    "titulo": "Charadas",
+                    "autor": "Alencar P. de Faria",
+                    "texto": "Ao Cêcê\n1\nDo dr. Cêcê, bem junto aos labios alguem perguntou-lhe: Amor é crime ou doença?-1--2.\nAo Ronaldo\nnº 2\nA musica nesta terra é mesmo musica. 2--1\nSEMÁ\nAo Noar\nnº 3\nA planta offerecida pela mulher, foi o maoir enfeite na festa em honra á Hercules. 2--2\nAo Jobar\nnº 4\nO homem que brigou com meu irmão, pertencia a um grande povo. 2--2\nLULÚ\nAo Francarfro\nnº 5\nNa epocha da secca, para ob ter um pouco d'agua, gastei as economias do meu hezur. 2--2\nRONALDO\nAo Ronaldo\nnº 6\nCerca redondeza da terra, 5000 passos geometricos para ser constellação austral. 1--1\nAo Francarfro\nnº 8\nEu, achei graça, mas a lua marca meio dia. 1--3\nSA PINHO\nCORRESPONDENCIA:\nResultado do numero de 5 de Agosto.\nNº 1, Marsopan. - nº 2, Semente - nº 3, Retina - nº 4, Ingerta - nº 5, Internuncio - nº 6, Patavina - nº 7, Agoraphobia - nº 9, Alvarenga.\nResultado do numero de 12 do corrente.\nNº 1, Revoga - nº 4, Melafolio - nº 6, Arveres - nº 8, Alarico.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "A numeração salta do 6 para o 8 visualmente no documento original."
+                },
+                {
+                    "id_conteudo": "p3_c7",
+                    "tipo": "Anedota",
+                    "secao": null,
+                    "titulo": null,
+                    "autor": null,
+                    "texto": "A conversa versava sobre qualidades dos relogios.\nO Estacio dizia possuir o melhor Omega do mundo; tão bom que nem era preciso dar corda para andar, pois sabia qual o serviço que tinha a fazer.\n-Relogio é o meu, replicou o Casquinha. E' marca \"FERRO DE ENGOMMAR\" e comprei-o a prestação, ao Sedeu. As pancadas d'elle parecem badaladas do sino da Candelaria. Pesa 3 kilos e oitocentas grammas!\n-A melhor marca é Vulcan, disse o Abilio Salles. Comprei um despertador ao Firmino Relojoeiro por... 3$800 que é uma maravilha. Regula que faz gosto e para despertar é melhor que o gallo que eu collocava debaixo da cama, antes de possuil-o.\n-Qual Vulcan, qual nada, intrometteu-se o Saul. Os relogios d'esta marca atrasam demasiadamente. Imaginem que papae tem um despertador Vulcan, presente de D. Pedro I, que é um desastre. Certa vez tendo de assistir a um casamento em Bomfim, papae botou o despertador para ás 4 ho da manha, afim de alcançar o S. 1. O maluco do relogio atrasou tanto que quando despertou já era no dia seguinte, domingo, de maneiras que quando papae chegou lá, o casamento havia sido realisado na vespera, no sabbado!\nPor isto é que papae detesta a monarchia.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "O texto não possui título."
+                },
+                {
+                    "id_conteudo": "p3_c8",
+                    "tipo": "Crônica",
+                    "secao": null,
+                    "titulo": "Philarmonica",
+                    "autor": "CRITICO",
+                    "texto": "Em uma das caçadas que o Alencar costuma realisar e precisando de tocar a busina para chamar a attenção dos cães não poude fazer, porque fazia tanto frio, que o som ficou preso dentro do referido instrumento.\nNo dia seguinte conversando com alguns amigos, no salão, ouvio um toque no quarto, o Alencar correu para vêr o que havia acontecido: era a busina que, com o calor do sol, soltava os seus maviosos sons...\nDizia o Christo ha dias que breve seguia para Buenos Aires, e que o Sporting-o melhor club daquella cidade-o tinha convidado para jogar, promovendo na sua chegada, grandes festas e um pomposo baile, e para isso já está estudando hespanhol por correspondencia.\nSe o Silva soubesse...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "OLARIA MANOEL DOS REIS",
+                    "autor": "MANOEL DOS REIS",
+                    "texto": "Vende barro, areia e tijolos, tudo de 1 qualidade.\nPREÇOS MODICOS\nVendas a Dinheiro\nMANOEL DOS REIS\nR. CAPITÃO CHAVES\nNOVA IGUASSÚ-E. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p3_c10",
+                    "tipo": "Coluna",
+                    "secao": null,
+                    "titulo": "Criticando...",
+                    "autor": null,
+                    "texto": "Enterros, um menino a baptizar...",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Parte do texto 'Criticando...' parece descontinuado ou fragmentado nas colunas, interligado a seções próximas."
+                },
+                {
+                    "id_conteudo": "p3_c11",
+                    "tipo": "Concurso",
+                    "secao": null,
+                    "titulo": "Concurso de Belleza",
+                    "autor": null,
+                    "texto": "Damos abaixo o resultado dos votos até hontem enviados a esta Redacção:\nGuilhermina Gomes | 130\nJandyra G. Pereira | 109\nJulia M. Baroni | 100\nClotilde Baturéo | 26\nDiva Marinho | 21\nYolanda Sampaio | 11\nAracy Salles | 11\nLaura Sampaio | 9\nGuajajara Pereira | 9\nMercedes Pimenta | 8\nIracema Lobo | 8\nAvany R. da Silva | 6\nHercilia Argenta | 5\n\nCONCURSO DE BELLEZA\nVOTO EM\n.....................",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Contém uma cédula de votação em branco pontilhada."
+                },
+                {
+                    "id_conteudo": "p3_c12",
+                    "tipo": "Pensamento / Frase",
+                    "secao": null,
+                    "titulo": null,
+                    "autor": null,
+                    "texto": "A MULHER assusta-se com todas as loucuras do homem enamorado... menos com suas ameaças de suicidio.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                }
+            ]
+        },
+        {
+            "numero_pagina": 4,
+            "conteudos": 
+            [
+                {
+                    "id_conteudo": "p4_c1",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "AÇOUGUE CENTRAL",
+                    "autor": "RODOLPHO ANNECCHINO & FILHO",
+                    "texto": "Completo sortimento de carnes de vacca, porco, carneiro, etc. Grande stock de gado de corte, vaccas de leite, boi para carro, etc., etc.\nENTREGA SE A DOMICILIO\nRODOLPHO ANNECCHINO & FILHO\nNOVA IGUASSU'\nRUA M. FLORIANO, 198",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "Anúncio que antecede o segundo cabeçalho, pertencendo a esta edição conforme regras estabelecidas."
+                },
+                {
+                    "id_conteudo": "p4_c2",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue União",
+                    "autor": "Ernesto Moreira",
+                    "texto": "DE Ernesto Moreira\nFornece carne de Vacca, Porco e Carneiro de Primeira Qualidade\nRUA MARECHAL FLORIANO, 1\nNova Iguassú-E. do Rio\nFilial:\nAçougue Democrata\nRua Bernardino Mello, 15",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c3",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Dispensa Globo",
+                    "autor": "F. Raunheitti & C.",
+                    "texto": "BOM E BARATO\nImportação directa de cereaes dos Estados de São Paulo, Minas e Rio Grande do Sul.\nVinhos recebidos directamente.\nF. Raunheitti & C.\nRua Marechal Floriano Peixoto, 198\nNova Iguassú E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c4",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Vidraceiro da Matriz",
+                    "autor": "BELMIRO VIEIRA FERNANDES & C",
+                    "texto": "Completo sortimento de vidros, para vetrines, vidraças de cores, musulina e opacos fantazia, etc, Grande variedade de estampas, espelhos e molduras para quadros, etc.\nGrande venda de material electrico, artigos de escriptorio e para collegiaes.\nFolhinhas, cartões, etc.\nBELMIRO VIEIRA FERNANDES & C\nRua M Floriano, 11-A\nNOVA IGUASSU' E. DO RIO\nFilial em Nilopolis:\nAv. Lazaro de Almeida, 195",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c5",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Pharmacia Iguassú",
+                    "autor": null,
+                    "texto": "RUA M. FLORIANO, 106\nCompleto sortimento de drogas nacionaes e extrangeiras a preços modicos.",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c6",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Padaria e Confeitaria Trez Nações",
+                    "autor": "ESTEVES & IRMÃO",
+                    "texto": "Pão, roscas, bolachinhas especiaes, biscoutos finos de todas as qualidades e doces de confeitaria.\nPão quente a toda hora\nCompleto sortimento de bebidas de todas as qualidades.\nESTEVES & IRMÃO\nRUA MARECHAL FLORIANO PEIXOTO, 116-A\nNOVA IGUASSU'\nEstado do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c7",
+                    "tipo": "Anúncio Profissional",
+                    "secao": null,
+                    "titulo": "DR. MONTE MO'R FILHO",
+                    "autor": "DR. MONTE MO'R FILHO",
+                    "texto": "(Proximo á Estação)\nCONSULTORIO:\nSegundas, quartas e sextas, das 7 ás 8 da noite. Terças, quintas e sabbados das 10 ás 12 horas.\nDR. MONTE MO'R FILHO\nNOVA IGUASSU'\nE. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c8",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "A Nova Mundial",
+                    "autor": "ANTONIO PEREIRA DIAS",
+                    "texto": "Fazendas, Armarinho, Perfumarias, Brinquedos e artigos para homens.\nCalçados, Chapéos de sol e de cabeça.\nSedas, Modas e Confecções\nANTONIO PEREIRA DIAS\nPRAÇA M. SEABRA, 4\nNOVA IGUASSU'\nE. DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c9",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Tinturaria Elite Fluminense",
+                    "autor": "ALVARO ROBLES QUINTANA",
+                    "texto": "Lavagem chimica de primeira ordem\nTinge se para luto em 24 horas. Limpa e passa ternos em 30 minutos. Tinge e lava fazendas finas, como: Seda voile, etc. Lava e tinge chapéos, tapetes, cortinas, etc.\nTinge-se qualquer roupa.\nALVARO ROBLES QUINTANA\nPRAÇA M. SEABRA, 30-Nova Iguassú-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c10",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "\"Alfaiataria Silva\"",
+                    "autor": "MANOEL SILVA",
+                    "texto": "CASA ESPECIAL DE ROUPAS SOB MEDIDA\nPorque V. Exc. não experimenta esta casa? Verá que no fim do anno fará uma economia de 40% nas suas despesas.\nFazem-se ternos em 24 horas-Confecções de roupas brancas\nMANOEL SILVA\nPRAÇA M. SEABRA, 10-Nova Iguassú-E. do Rio",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c11",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Açougue São Jorge",
+                    "autor": "FERREIRA & FERREIRA",
+                    "texto": "Tem sempre superiores carnes de vacca e de porco, sendo todas ellas de procedencia dos Matadouros de Sta. Cruz e Mendes. A unica que terá breve téla fina de arame, a prova de moscas.\nRUA M. FLORIANO, 116\nNOVA IGUASSU'",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c12",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "CASA ADORNATIVA",
+                    "autor": "João Carias",
+                    "texto": "Caixões mortuarios de qualquer classe para anjos e adultos Acceitam se encommendas a qualquer hora.\nVariadas collecções de coroas roxas e brancas.\nJoão Carias-Rua M. Floriano Peixoto, 144\nNOVA IGUASSU'\nESTADO DO RIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c13",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "Velóz",
+                    "autor": null,
+                    "texto": "AGENCIA DE TRANSPORTES E AUTOS PARA PASSEIO",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": null
+                },
+                {
+                    "id_conteudo": "p4_c14",
+                    "tipo": "Anúncio Comercial",
+                    "secao": null,
+                    "titulo": "MOACYR & FILHO",
+                    "autor": "MOACYR & FILHO",
+                    "texto": "Fornece materiaes para construcções\nMOACYR & FILHO RUA RITA GONÇALVES, 937\nNOVA IGUASSU",
+                    "recursos_visuais": false,
+                    "notas_pesquisador": "O segundo Expediente aparece imediatamente após este anúncio."
+                }
+            ]
+        }
+    ]
+}
