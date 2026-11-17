@@ -10,6 +10,8 @@
 
   <p>De imagens não estruturadas a conhecimento histórico.<br/><b>RAG · Spec-Driven Development · Prompt Engineering · Human-in-the-loop.</b></p>
 
+  <img src="assets\trecho_analise_jornal.png" />
+
   <p>
     <a href="#origem-e-o-desafio-tecnico">Origem</a> ·
     <a href="#metodologia-de-ia-e-boas-praticas">Metodologia (IA)</a> ·
